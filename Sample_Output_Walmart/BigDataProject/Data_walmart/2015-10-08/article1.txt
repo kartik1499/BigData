@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Amazon Challenges Etsy With Strictly Handmade Marketplace, print_headline:Amazon Takes On Etsy With Artisan Store}
+news_desk:Business
+pub_date:2015-10-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/08/business/amazon-challenges-etsy-with-strictly-handmade-marketplace.html
+snippet:Amazon&#8217;s new service, Handmade at Amazon, will offer artisans a broader market and rules that ensure products are not factory-produced.
+lead_paragraph:Amazon&#8217;s new service, Handmade at Amazon, will offer artisans a broader market and rules that ensure products are not factory-produced.
+abstract:Amazon launches its arts-and-crafts online marketplace Handmade at Amazon; will compete with Etsy, which has $2 billion in annual sales.
+blog:null

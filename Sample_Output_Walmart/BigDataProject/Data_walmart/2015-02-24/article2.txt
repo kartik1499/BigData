@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:NY Attorney General Expands Herbal Supplements Investigation, print_headline:NY Attorney General Expands Herbal Supplements Investigation}
+news_desk:None
+pub_date:2015-02-24
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/24/us/ap-us-herbal-supplements-investigation.html
+snippet:Three weeks after ordering four major retailers to pull store-brand herbal supplements off their shelves following DNA tests that found little or none of the listed herbs, New York's attorney general is targeting manufacturers of the popular...
+lead_paragraph:Three weeks after ordering four major retailers to pull store-brand herbal supplements off their shelves following DNA tests that found little or none of the listed herbs, New York's attorney general is targeting manufacturers of the popular products.
+abstract:null
+blog:null

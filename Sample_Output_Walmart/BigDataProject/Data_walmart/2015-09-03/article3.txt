@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Glacier National Park, Through Foreign Eyes, print_headline:Glacier National Park, Through Foreign Eyes}
+news_desk:Travel
+pub_date:2015-09-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/03/travel/glacier-national-park-camping.html
+snippet:Hiking (and camping) in Glacier with a Brazilian environmentalist brings its iceberg-pocked turquoise lakes, bighorn sheep and melting glaciers into ever sharper focus.
+lead_paragraph:Hiking (and camping) in Glacier with a Brazilian environmentalist brings its iceberg-pocked turquoise lakes, bighorn sheep and melting glaciers into ever sharper focus.
+abstract:null
+blog:null

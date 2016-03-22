@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Rural Justice Focus of Ex-Police Chief&#8217;s Murder Trial, print_headline:Rural Justice Focus of Ex-Police Chief’s Murder Trial}
+news_desk:National
+pub_date:2015-01-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/08/us/richard-combs-bernard-bailey-shooting-case.html
+snippet:The justice system was at issue in the proceedings against Richard J. Combs, who was indicted last month for the 2011 shooting death of Bernard Bailey, an unarmed black man.
+lead_paragraph:The justice system was at issue in the proceedings against Richard J. Combs, who was indicted last month for the 2011 shooting death of Bernard Bailey, an unarmed black man.
+abstract:Rural murder trial of former Eutawville, SC, police chief Richard J Combs for 2011 shooting death of unarmed black man Bernard Bailey is playing out during national turmoil over police conduct and race relations; trial has become forum for several issues, including potential pitfalls of policing in rural areas and when officers should employ restraint.
+blog:null

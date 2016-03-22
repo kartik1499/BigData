@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Traitors to Their Class, print_headline:Traitors to Their Class}
+news_desk:Editorial
+pub_date:2015-03-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/20/opinion/traitors-to-their-class.html
+snippet:These Horatio Algerians for the new Gilded Age are virtuous because they made it, or vice versa. And those who haven’t managed a similar leap are just weaklings.
+lead_paragraph:These Horatio Algerians for the new Gilded Age are virtuous because they made it, or vice versa. And those who haven’t managed a similar leap are just weaklings.
+abstract:Timothy Egan Op-Ed column argues members of Republican party, as exemplified by House Speaker John Boehner, Wisconsin Gov Scott Walker and Sen Joni Ernst, are betraying their own professed humble roots and modest class origins by working to keep struggling workers down; holds raising minimum wage and maintaining health care subsidies will strengthen economy, not weaken it as Republicans contend.
+blog:null

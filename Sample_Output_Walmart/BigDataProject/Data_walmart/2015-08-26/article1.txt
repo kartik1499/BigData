@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart to Stop Selling AR-15, Other Semi-Automatic Rifles, print_headline:Wal-Mart to Stop Selling AR-15, Other Semi-Automatic Rifles}
+news_desk:None
+pub_date:2015-08-26
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/26/business/26reuters-wal-mart-stores-rifles.html
+snippet:Wal-Mart Stores Inc, the United States' top seller of guns and ammunition, said on Wednesday it would stop selling the AR-15 and other semi-automatic rifles because of sluggish demand and focus instead on "hunting and sportsman firearms."
+lead_paragraph:Wal-Mart Stores Inc, the United States' top seller of guns and ammunition, said on Wednesday it would stop selling the AR-15 and other semi-automatic rifles because of sluggish demand and focus instead on "hunting and sportsman firearms."
+abstract:null
+blog:null

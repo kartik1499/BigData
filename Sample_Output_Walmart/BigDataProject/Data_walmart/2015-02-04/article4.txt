@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Staples and Office Depot Say a Merger Will Keep Them Competitive, print_headline:Office Retailers Say a Merger Will Keep Them Competitive}
+news_desk:Business
+pub_date:2015-02-04
+source:The New York Times
+web_url:http://dealbook.nytimes.com/2015/02/04/staples-to-buy-office-depot-for-6-3-billion/
+snippet:The deal to unite Staples and Office Depot, the two biggest providers of office supplies, is likely to face antitrust scrutiny — regulators shot down a similar deal in 1997, but the competitive landscape has since changed.
+lead_paragraph:null
+abstract:The deal to unite Staples and Office Depot, the two biggest providers of office supplies, is likely to face antitrust scrutiny — regulators shot down a similar deal in 1997, but the competitive landscape has since changed.
+blog:null

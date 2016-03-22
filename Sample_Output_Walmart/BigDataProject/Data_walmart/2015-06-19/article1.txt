@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Alzheimer&#8217;s Supplements Targeted by U.S. Senator, print_headline:null}
+news_desk:Science
+pub_date:2015-06-19
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/06/19/alzheimers-supplements-targeted-by-u-s-senator/
+snippet:Senator Claire McCaskill of Missouri this week raised concerns about dietary supplements that claim to protect against dementia and Alzheimer’s disease
+lead_paragraph:null
+abstract:Senator Claire McCaskill of Missouri this week raised concerns about dietary supplements that claim to protect against dementia and Alzheimer’s disease
+blog:null

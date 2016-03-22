@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Creative Apocalypse That Wasn’t, print_headline:Creative Accounting}
+news_desk:Magazine
+pub_date:2015-08-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/23/magazine/the-creative-apocalypse-that-wasnt.html
+snippet:In the digital economy, it was supposed to be impossible to make money by making art. Instead, creative careers are thriving — but in complicated and unexpected ways.
+lead_paragraph:In the digital economy, it was supposed to be impossible to make money by making art. Instead, creative careers are thriving — but in complicated and unexpected ways.
+abstract:Digital economy, which some predicted would destroy ability of artists to make a living, has instead allowed many to thrive; creatives have benefited from Internet era in new and unexpected ways.
+blog:null

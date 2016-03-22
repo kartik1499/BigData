@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Vermont Yankee Nuclear Plant Begins Slow Process of Closing, print_headline:Vermont Yankee Begins Slow Process of Closing}
+news_desk:National
+pub_date:2015-01-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/05/us/vermont-yankee-nuclear-plant-begins-slow-process-of-closing.html
+snippet:Vermont Yankee brought high-paying jobs and an expanded tax base to an area with precious little industry. But it drew decades of protest from residents who feared a nuclear disaster.
+lead_paragraph:Vermont Yankee brought high-paying jobs and an expanded tax base to an area with precious little industry. But it drew decades of protest from residents who feared a nuclear disaster.
+abstract:Reactions of residents of Vernon, Vt, to closing of nearby Vermont Yankee nuclear plant are mixed; some hail it as successful culmination of decades of protest and others view it as end of era of prosperity created by the plant; Entergy, which owns the plant, ultimately decided to close it down due to economic concerns.
+blog:null

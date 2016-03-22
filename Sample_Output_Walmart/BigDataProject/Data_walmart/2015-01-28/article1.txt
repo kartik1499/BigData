@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:KKR Makes Israel Tech Investment in Web Analytics Firm ClickTale, print_headline:KKR Makes Israel Tech Investment in Web Analytics Firm ClickTale}
+news_desk:None
+pub_date:2015-01-28
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/28/business/28reuters-kkr-clicktale-funding.html
+snippet:ClickTale, whose software enables website owners to see how people behave on their sites, has raised $35 million in a funding round led by KKR, marking the U.S. private equity firm's first investment in Israel's tech sector.
+lead_paragraph:ClickTale, whose software enables website owners to see how people behave on their sites, has raised $35 million in a funding round led by KKR, marking the U.S. private equity firm's first investment in Israel's tech sector.
+abstract:null
+blog:null

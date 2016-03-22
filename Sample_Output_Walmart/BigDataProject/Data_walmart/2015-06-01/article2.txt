@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:A Tearful Tracy Morgan  Says He Doesn&#8217;t Remember Accident, print_headline:Comedian Opens Up in Interview on ‘Today’}
+news_desk:Culture
+pub_date:2015-06-01
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/06/01/tracy-morgan-says-he-doesnt-remember-accident/
+snippet:In his first interview since the deadly accident last year, the comedian told the “Today” show: “Right now my goal is just to heal and get better. Because I’m not 100 percent yet.”
+lead_paragraph:null
+abstract:In his first interview since the deadly accident last year, the comedian told the “Today” show: “Right now my goal is just to heal and get better. Because I’m not 100 percent yet.”
+blog:null

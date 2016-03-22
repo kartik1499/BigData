@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Working, but Needing Public Assistance Anyway, print_headline:Counting Up Hidden Costs of Low Pay}
+news_desk:Business
+pub_date:2015-04-13
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/13/business/economy/working-but-needing-public-assistance-anyway.html
+snippet:A University of California study finds that taxpayer money is effectively subsidizing employers who pay at or around the minimum wage.
+lead_paragraph:A University of California study finds that taxpayer money is effectively subsidizing employers who pay at or around the minimum wage.
+abstract:University of California at Berkeley study finds that majority of people receiving public assistance, such as food stamps, Medicaid and other programs, have a family member who is working at a job that pays around minimum wage; concludes that, in effect, taxpayers are paying difference between what these employers pay to what is needed for most Americans to survive.
+blog:null

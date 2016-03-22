@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Shift in Small Business Spending May Curb Staples-Office Depot Growth, print_headline:Shift in Small Business Spending May Curb Staples-Office Depot Growth}
+news_desk:None
+pub_date:2015-02-04
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/02/04/business/04reuters-office-depot-m-a-smallbusiness.html
+snippet:It's the changing spending patterns of small business owners like Thomas Kean that helped prompt Staples Inc to buy Office Depot. It also may limit their post-merger growth prospects.
+lead_paragraph:It's the changing spending patterns of small business owners like Thomas Kean that helped prompt Staples Inc to buy Office Depot. It also may limit their post-merger growth prospects.
+abstract:null
+blog:null

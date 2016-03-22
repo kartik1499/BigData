@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Safety of Herbal Supplements Pulls Prosecutors Together, print_headline:Coalition on Herbal Safety Is Set by Attorneys General}
+news_desk:Science
+pub_date:2015-03-09
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/03/09/safety-of-herbal-supplements-pulls-prosecutors-together/
+snippet:An investigation by the New York State attorney general’s office, which prompted four national retailers to pull herbal supplements from their shelves, has led to a broader effort.
+lead_paragraph:null
+abstract:An investigation by the New York State attorney general’s office, which prompted four national retailers to pull herbal supplements from their shelves, has led to a broader effort.
+blog:null

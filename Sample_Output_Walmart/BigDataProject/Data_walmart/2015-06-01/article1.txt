@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:A Step Toward Justice for Rana Plaza Victims, print_headline:null}
+news_desk:OpEd
+pub_date:2015-06-01
+source:The New York Times
+web_url:http://takingnote.blogs.nytimes.com/2015/06/01/a-step-toward-justice-for-rana-plaza-victims/
+snippet:Charges filed against the building’s owner are important, but many victims of the collapse still need compensation.
+lead_paragraph:null
+abstract:Charges filed against the building’s owner are important, but many victims of the collapse still need compensation.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Offers Free Delivery on Online Orders Over $25, print_headline:Target Offers Free Delivery on Online Orders Over $25}
+news_desk:Business
+pub_date:2015-02-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/24/business/target-offers-free-delivery-on-online-orders-over-25.html
+snippet:Target has reduced by half its minimum online purchase to qualify for free shipping on most orders, to $25, taking aim at competitors Walmart and Amazon, both of which have higher minimums.
+lead_paragraph:Target has reduced by half its minimum online purchase to qualify for free shipping on most orders, to $25, taking aim at competitors Walmart and Amazon, both of which have higher minimums.
+abstract:Target reduces by half its minimum online purchase to qualify for free shipping on most orders, to $25.
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:When the System Fails, print_headline:null}
+news_desk:OpEd
+pub_date:2015-02-25
+source:The New York Times
+web_url:http://opinionator.blogs.nytimes.com/2015/02/25/when-the-system-fails/
+snippet:In the overwhelming apparatus that medicine has become, sometimes the patient gets lost. So does the doctor.
+lead_paragraph:null
+abstract:In the overwhelming apparatus that medicine has become, sometimes the patient gets lost. So does the doctor.
+blog:null

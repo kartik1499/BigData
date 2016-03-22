@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Out of Prison, and Staying Out, After 3rd Strike in California , print_headline:Out of Prison, and Staying Out, After 3rd Strike in California}
+news_desk:National
+pub_date:2015-02-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/27/us/california-convicts-are-out-of-prison-after-third-strike-and-staying-out.html
+snippet:Convicts released after the state eased its three-strikes law in 2012 have returned to crime at a remarkably low rate.
+lead_paragraph:Convicts released after the state eased its three-strikes law in 2012 have returned to crime at a remarkably low rate.
+abstract:More than 2,000 former inmates released from prison following 2012 changes in California's three-strikes law have returned to crime at remarkably low rate; law had mandated minimum 25 years sentence for third felony offense, and which contributed significantly to overcrowding of state's prison system; experts attribute low rate of recidivism to aging and effects of extensive aid and counseling.
+blog:null

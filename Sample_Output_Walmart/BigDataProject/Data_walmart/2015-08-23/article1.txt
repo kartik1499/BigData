@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Maggie Thrash’s ‘Honor Girl’, print_headline:Within Her Sights}
+news_desk:BookReview
+pub_date:2015-08-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/23/books/review/maggie-thrashs-honor-girl.html
+snippet:At a camp for girls, a teenager finds herself infatuated with an older counselor.
+lead_paragraph:At a camp for girls, a teenager finds herself infatuated with an older counselor.  
+abstract:Vera Brosgol reviews young adult book Honor Girl by Maggie Thrash. 
+blog:null

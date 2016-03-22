@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Nikki Haley, South Carolina Governor, Calls for Removal of Confederate Battle Flag, print_headline:Governor Joins the Call to Take Down Rebel Flag}
+news_desk:National
+pub_date:2015-06-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/23/us/south-carolina-confederate-flag-dylann-roof.html
+snippet:Gov. Nikki Haley’s call to remove the flag from Capitol grounds came in the wake of the killing of nine people in a Charleston church.
+lead_paragraph:Gov. Nikki Haley’s call to remove the flag from Capitol grounds came in the wake of the killing of nine people in a Charleston church.
+abstract:South Carolina Gov Nikki R Haley calls for removal of Confederate battle flag from in front of State House building in capital Columbia, marked reversal from her previous seeming indifference to issue; says symbol must be viewed differently in light of church massacre in Charleston.
+blog:null

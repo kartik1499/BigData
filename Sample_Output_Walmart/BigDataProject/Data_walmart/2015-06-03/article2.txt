@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:White House Meeting Elicits Pledges to Reduce Antibiotic Use, print_headline:Forum Elicits Vows to Reduce Antibiotic Use}
+news_desk:National
+pub_date:2015-06-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/03/health/white-house-meeting-pledges-reduce-antibiotic-use.html
+snippet:The forum, attended by representatives of hospitals, food producers, professional medical societies and restaurant chains, highlighted the problem of antibiotic resistance.
+lead_paragraph:The forum, attended by representatives of hospitals, food producers, professional medical societies and restaurant chains, highlighted the problem of antibiotic resistance.
+abstract:Obama administration hosts meeting at White House with representatives from hospitals, food producers, restaurant chains and medical societies about problem of antibiotic resistance; secures pledges to reduce use of antibiotics in food; meeting is part of administration's effort to curb overuse of antibiotics.
+blog:null

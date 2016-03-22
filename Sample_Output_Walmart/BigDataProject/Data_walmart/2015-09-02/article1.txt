@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart to Reopen Five U.S. Stores at Center of Union Complaint, print_headline:Wal-Mart to Reopen Five U.S. Stores at Center of Union Complaint}
+news_desk:None
+pub_date:2015-09-02
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/09/02/business/02reuters-wal-mart-stores-workers.html
+snippet:Wal-Mart Stores Inc said it would reopen in late October to early November five U.S. stores whose closure had prompted a union to file a complaint with the National Labor Relations Board, claiming the retailer was retaliating against workers for...
+lead_paragraph:Wal-Mart Stores Inc said it would reopen in late October to early November five U.S. stores whose closure had prompted a union to file a complaint with the National Labor Relations Board, claiming the retailer was retaliating against workers for organizing.
+abstract:null
+blog:null

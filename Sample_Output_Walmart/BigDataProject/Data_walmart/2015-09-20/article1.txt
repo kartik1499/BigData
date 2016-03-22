@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Googling for God, print_headline:Googling for God}
+news_desk:OpEd
+pub_date:2015-09-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/20/opinion/sunday/seth-stephens-davidowitz-googling-for-god.html
+snippet:We wonder why he made us who we are, but also who made him.
+lead_paragraph:We wonder why he made us who we are, but also who made him.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Insurance via Internet Is Squeezing Agents, print_headline:Insurance via Internet Is Squeezing Agents }
+news_desk:Business
+pub_date:2015-01-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/19/technology/insurance-via-internet-is-squeezing-agents.html
+snippet:Technology start-ups with websites that sell many types of insurance and promise savings with comparison shopping are putting pressure on insurance agents, who collect commissions.
+lead_paragraph:Technology start-ups with websites that sell many types of insurance and promise savings with comparison shopping are putting pressure on insurance agents, who collect commissions.
+abstract:Growing popularity of online insurance portals is threatening livelihood of traditional insurance agents, who collect 10 percent commission on policyholders' payments; services, which often present side-by-side comparison of policies, are still a nascent industry, but Silicon Valley insiders say they could soon upend the 40,000 insurance agencies throughout the United States.
+blog:null

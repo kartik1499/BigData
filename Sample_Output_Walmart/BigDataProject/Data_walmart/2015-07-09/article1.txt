@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Amazon Gears Up for New York Fashion Week for Men, print_headline:Amazon Gears Up for New York Fashion Week}
+news_desk:Styles
+pub_date:2015-07-09
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/09/fashion/amazon-gears-up-for-new-york-fashion-week-for-men.html
+snippet:As the marquee sponsor, the online behemoth’s fashion division aims to attract more high-end brands to its primary website.
+lead_paragraph:As the marquee sponsor, the online behemoth’s fashion division aims to attract more high-end brands to its primary website.
+abstract:Cathy Beaudoin, president of Amazon Fashion, division of Amazon that is sponsoring first New York Fashion Week for men, hopes to get consumers to think of Amazon as exciting place to go for fashion-forward shopping.
+blog:null

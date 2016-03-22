@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Gives a Raise , print_headline:Walmart Gives a Raise}
+news_desk:Editorial
+pub_date:2015-02-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/21/opinion/walmart-gives-a-raise.html
+snippet:Though every little bit helps, the move to lift its minimum hourly wage is only a small improvement.
+lead_paragraph:Though every little bit helps, the move to lift its minimum hourly wage is only a small improvement.
+abstract:Editorial holds wage increases announced by Walmart, while step in right direction, are still inadequate to improve lot of low-wage workers; contends government action, including improvement of labor standards and raising of federal minimum wage, is needed to improve wages in meaningful way; says Pres Obama may need to act unilaterally in order to achieve this.
+blog:null

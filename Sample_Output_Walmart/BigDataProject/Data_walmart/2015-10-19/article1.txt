@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:White House Enlists Companies in Climate Push, print_headline:White House Enlists Companies in Climate Push}
+news_desk:None
+pub_date:2015-10-19
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/10/19/us/politics/ap-us-white-house-climate-change.html
+snippet:The White House is enlisting corporate America to try to bolster its push for an international climate change agreement.
+lead_paragraph:The White House is enlisting corporate America to try to bolster its push for an international climate change agreement.
+abstract:null
+blog:null

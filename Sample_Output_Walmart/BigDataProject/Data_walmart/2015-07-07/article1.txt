@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Strangers No More in An Adopted Family, print_headline:null}
+news_desk:null
+pub_date:2015-07-07
+source:The New York Times
+web_url:http://lens.blogs.nytimes.com/2015/07/07/strangers-no-more-in-an-adopted-family/
+snippet:“Stranger Than Family” is Matthew Avignone’s take on growing up in a family of adopted children in a small Midwest town.
+lead_paragraph:null
+abstract:“Stranger Than Family” is Matthew Avignone’s take on growing up in a family of adopted children in a small Midwest town.
+blog:null

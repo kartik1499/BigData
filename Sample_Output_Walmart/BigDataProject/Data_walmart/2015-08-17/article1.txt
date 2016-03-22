@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Tracy Morgan to Host &#8216;Saturday Night Live&#8217; in First Performance Since Accident, print_headline:Tracy Morgan to Host &#8216;Saturday Night Live&#8217;}
+news_desk:Culture
+pub_date:2015-08-17
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/08/17/tracy-morgan-host-saturday-night-live/
+snippet:He will appear on October 17.
+lead_paragraph:null
+abstract:He will appear on October 17.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Ahold-Delhaize Deal Would Create One of Largest Grocery Chains in U.S., print_headline:Global Grocers’ Merger Plan Points Up Challenges in U.S.}
+news_desk:Business
+pub_date:2015-06-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/25/business/dealbook/supermarkets-ahold-delhaize.html
+snippet:The all-share deal would combine Delhaize, the owner of the American brand Food Lion, with Ahold, which owns the Stop & Shop and Giant chains.
+lead_paragraph:The all-share deal would combine Delhaize, the owner of the American brand Food Lion, with Ahold, which owns the Stop & Shop and Giant chains.
+abstract:Dutch supermarket firm Ahold and Belgium company Delhaize Group agree to merge; Ahold owns American brands Stop & Shop and Giant, while Delhaize owns Food Lion; deal, which if approved would create one of largest supermarket operators in United States, is latest merger trend within country's rapidly consolidating grocery business.
+blog:null

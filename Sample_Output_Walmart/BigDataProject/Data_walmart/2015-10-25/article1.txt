@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Quarterly Earnings Reports Can Still Move Markets, print_headline:Earnings Reports Can Still Move Markets}
+news_desk:SundayBusiness
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/25/your-money/quarterly-earnings-reports-can-still-move-markets.html
+snippet:Even in an age of instantaneous access to information, time-honored earnings metrics retain a heavy-hitting power to swing share prices.
+lead_paragraph:Even in an age of instantaneous access to information, time-honored earnings metrics retain a heavy-hitting power to swing share prices.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Commends Arkansas Governor for Reconsidering Religion Law, print_headline:Walmart Commends Arkansas Governor for Reconsidering Religion Law}
+news_desk:None
+pub_date:2015-04-01
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/01/us/politics/01reuters-usa-religion-walmart.html
+snippet:Retail giant Wal-Mart Stores Inc. commended the Arkansas governor on Wednesday for reconsidering a religion law for which the company sought a veto after it drew national criticism for opening the door to discrimination against gays and lesbians.
+lead_paragraph:Retail giant Wal-Mart Stores Inc. commended the Arkansas governor on Wednesday for reconsidering a religion law for which the company sought a veto after it drew national criticism for opening the door to discrimination against gays and lesbians.
+abstract:null
+blog:null

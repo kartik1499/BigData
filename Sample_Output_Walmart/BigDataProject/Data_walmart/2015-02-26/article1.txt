@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Next Goal for Walmart Workers: More Hours, print_headline:Next Goal for Walmart Workers: More Hours}
+news_desk:Business
+pub_date:2015-02-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/26/business/next-goal-for-walmart-workers-more-hours.html
+snippet:Even with the wage increases the chain recently announced, workers often do not get enough hours to make ends meet, leaving them in a precarious financial state.
+lead_paragraph:Even with the wage increases the chain recently announced, workers often do not get enough hours to make ends meet, leaving them in a precarious financial state.
+abstract:Labor activists are putting stronger focus on longstanding demand that retailers like Walmart grant their employees more work hours, and more consistency in scheduling those hours; change of focus comes as Walmart commits to wage increases and other retailers follow suit.
+blog:null

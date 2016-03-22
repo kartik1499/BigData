@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Makes Slow Progress Navigating Africa's Challenges, print_headline:Wal-Mart Makes Slow Progress Navigating Africa's Challenges}
+news_desk:None
+pub_date:2015-06-02
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/06/02/business/02reuters-wal-mart-stores-africa.html
+snippet:When Wal-Mart Stores Inc spent $2.4 billion on a stake in South Africa's Massmart five years ago, the world's biggest retailer said it was buying a gateway to high-growth markets in sub-Saharan Africa.
+lead_paragraph:When Wal-Mart Stores Inc spent $2.4 billion on a stake in South Africa's Massmart five years ago, the world's biggest retailer said it was buying a gateway to high-growth markets in sub-Saharan Africa.
+abstract:null
+blog:null

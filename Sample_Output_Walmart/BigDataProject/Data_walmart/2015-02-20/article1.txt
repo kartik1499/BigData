@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:As Walmart Gives Raises, Other Employers May Have to Go Above Minimum Wage, print_headline:Walmart's Overdue Pay Raises}
+news_desk:Upshot
+pub_date:2015-02-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/20/upshot/as-walmart-gives-raises-other-employers-may-have-to-go-above-minimum-wage.html
+snippet:The best news would be if executives made this decision not out of a desire for good press but because coldhearted business strategy compelled it.
+lead_paragraph:The best news would be if executives made this decision not out of a desire for good press but because coldhearted business strategy compelled it.
+abstract:The Upshot; Walmart's decision to raise pay of its lowest-level workers is perhaps more encouraging when taken as a coldhearted business strategy than as a play for good press; change reflects greater difficulty in finding qualified workers now that unemployment rate has fallen to 5.7 percent.
+blog:null

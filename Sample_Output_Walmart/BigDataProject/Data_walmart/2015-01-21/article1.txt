@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart to Offer Cash Pickup for Tax Refunds  , print_headline:Tax Refunds at Walmart, in Cash and Free of Fees}
+news_desk:Business
+pub_date:2015-01-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/21/business/wal-mart-to-offer-cash-pickup-for-tax-refunds.html
+snippet:The service could help people without bank accounts receive their refunds more quickly and avoid high check-cashing fees.
+lead_paragraph:The service could help people without bank accounts receive their refunds more quickly and avoid high check-cashing fees.
+abstract:Walmart announces plan to offer customers' income tax refunds in cash at some 3,000 stores; offering, which will be rendered without fee, is intended to encourage purchases at a time of sluggish sales; comes amid company's push into financial services.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Hudson’s Bay to Buy Galeria Kaufhof Stores in $3.2 Billion Deal, print_headline:Hudson&#8217;s Bay to Pay $3.2 Billion for European Retail Chain}
+news_desk:Business
+pub_date:2015-06-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/16/business/dealbook/hudsons-bay-to-buy-galeria-kaufhof-stores-in-3-2-billion-deal.html
+snippet:The Canadian operator of Saks Fifth Avenue and Lord & Taylor plans to acquire more than 100 stores in Germany and Belgium as it expands its international operations.
+lead_paragraph:The Canadian operator of Saks Fifth Avenue and Lord & Taylor plans to acquire more than 100 stores in Germany and Belgium as it expands its international operations.
+abstract:Hudson's Bay Company announces 2.85 billion euro, or about $3.2 billion, purchase of Galeria Kaufhof from Metro Group; purchase is part of company's expansion to Europe, where Galeria owns number of department stores in Germany and Belgium.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Valerie Jarrett: ‘I Intend to Stay Until the Lights Go Off’, print_headline:Valerie Jarrett On the View From Inside the White House}
+news_desk:Magazine
+pub_date:2015-03-15
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/15/magazine/valerie-jarrett-i-intend-to-stay-until-the-lights-go-off.html
+snippet:The president’s senior adviser and confidante on immigration, working with Republicans and whether she’s the Democratic Dick Cheney.
+lead_paragraph:The president’s senior adviser and confidante on immigration, working with Republicans and whether she’s the Democratic Dick Cheney.
+abstract:Jim Rutenberg Talk interview with Valerie Jarrett, senior adviser to Pres Obama.
+blog:null

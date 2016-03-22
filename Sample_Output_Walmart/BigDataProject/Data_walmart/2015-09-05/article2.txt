@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘Star Wars’ Fans Flock to Midnight Store Openings for New Toys, print_headline:A &#8216;Star Wars&#8217; Marketing Blitz Begins With Toys}
+news_desk:Business
+pub_date:2015-09-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/05/business/star-wars-midnight-sales-draw-fans-in-droves.html
+snippet:Streams of tired but excited devotees lined up for “Force Friday,” as the store openings were called, to buy products tied to an upcoming film.
+lead_paragraph:Streams of tired but excited devotees lined up for “Force Friday,” as the store openings were called, to buy products tied to an upcoming film.
+abstract:Marketing campaign begins for new toys tied to upcoming Disney movie Star Wars: The Force Awakens.
+blog:null

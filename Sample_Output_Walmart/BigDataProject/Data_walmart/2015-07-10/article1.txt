@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Uber Files Motion Opposing Driver Class-Action Suit, print_headline:Uber Delivers Response to a Class-Action Lawsuit Over Drivers’ Work Status}
+news_desk:Business
+pub_date:2015-07-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/10/technology/uber-files-motion-opposing-driver-class-action-suit.html
+snippet:The ride-hailing service asserts that the handful of drivers who filed the lawsuit on work status shouldn’t represent all the drivers.
+lead_paragraph:The ride-hailing service asserts that the handful of drivers who filed the lawsuit on work status shouldn’t represent all the drivers.
+abstract:Uber files motion in California court to oppose certification of class-action lawsuit over drivers' work status; plaintiffs maintain they are employees.
+blog:null

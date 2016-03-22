@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Do Police Use Deadly Force Too Often?, print_headline:null}
+news_desk:null
+pub_date:2015-04-09
+source:The New York Times
+web_url:http://www.nytimes.com/roomfordebate/2015/04/09/are-police-too-quick-to-use-force
+snippet:Have police officers become too willing to use force or are they reacting to the dangers they face every day?
+lead_paragraph:
+abstract:Have police officers become too willing to use force or are they reacting to the dangers they face every day?
+blog:null

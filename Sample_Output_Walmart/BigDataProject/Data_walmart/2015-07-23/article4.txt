@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:De Blasio Administration Dropping Plan for Uber Cap, for Now, print_headline:Ending Fight, for Now, City Hall Drops Plan for Uber Cap }
+news_desk:Metro
+pub_date:2015-07-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/23/nyregion/de-blasio-administration-dropping-plan-for-uber-cap-for-now.html
+snippet:Under the deal, New York City will conduct a four-month study on the effect of Uber and other for-hire vehicle operators on the city’s traffic and environment.
+lead_paragraph:Under the deal, New York City will conduct a four-month study on the effect of Uber and other for-hire vehicle operators on the city’s traffic and environment.
+abstract:New York City reaches agreement with car service Uber, dropping plan to cap number of for-hire vehicles in exchange for trove of data Uber will release for analysis and promise that Uber will conduct study of how its services have impacted traffic conditions.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Decides to Drop Sale of AR-15 Assault Rifles, print_headline:Less Firepower in Walmart’s Gun Aisle}
+news_desk:Editorial
+pub_date:2015-08-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/31/opinion/walmart-decides-to-drop-sale-of-ar-15-assault-rifles.html
+snippet:The sale of “modern sporting rifles” is a thinly disguised campaign to put even more military-style weapons in civilian hands.
+lead_paragraph:The sale of “modern sporting rifles” is a thinly disguised campaign to put even more military-style weapons in civilian hands.
+abstract:Editorial offers qualified praise for Walmart's decision to stop selling AR-15 semiautomatic assault rifle and full range of similar assault weapons; contends that, despite Walmart's decision, it is a certainty that gun manufacturing industry and National Rifle Assn will continue to support marketing of civilian firearms that are essentially variations of potent battlefield weapons. 
+blog:null

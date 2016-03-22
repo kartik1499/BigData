@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:The Internet of Things Has Vast Economic Potential, McKinsey Report Says, print_headline:}
+news_desk:Business
+pub_date:2015-06-24
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/06/24/the-internet-of-things-has-vast-economic-potential-report-says/
+snippet:A new report from McKinsey says the Internet of things could be worth $11 trillion in 2025 — or a lot less, if companies don’t figure out what to do with all the data they collect.
+lead_paragraph:null
+abstract:A new report from McKinsey says the Internet of things could be worth $11 trillion in 2025 — or a lot less, if companies don’t figure out what to do with all the data they collect.
+blog:null

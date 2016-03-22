@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Digital Media Solidarity!, print_headline:null}
+news_desk:null
+pub_date:2015-06-09
+source:The New York Times
+web_url:http://www.nytimes.com/roomfordebate/2015/06/09/digital-media-solidarity
+snippet:Does Gawker's vote show that there's more hope for labor organization?
+lead_paragraph:
+abstract:Does Gawker's vote show that there's more hope for labor organization?
+blog:null

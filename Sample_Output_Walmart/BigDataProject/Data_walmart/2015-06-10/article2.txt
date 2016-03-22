@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Big Easy Foods Recalls Some Stuffed Chickens Sold Nationwide, print_headline:Big Easy Foods Recalls Some Stuffed Chickens Sold Nationwide}
+news_desk:None
+pub_date:2015-06-10
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/10/us/ap-us-stuffed-chicken-recall.html
+snippet:A Louisiana food company is recalling some stuffed chickens sold nationwide because the label didn't show wheat, a potential allergen.
+lead_paragraph:A Louisiana food company is recalling some stuffed chickens sold nationwide because the label didn't show wheat, a potential allergen.
+abstract:null
+blog:null

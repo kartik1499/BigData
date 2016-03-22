@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Recalls This Week: Dry Erase Boards, Sweaters, Mattresses, print_headline:Recalls This Week: Dry Erase Boards, Sweaters, Mattresses}
+news_desk:None
+pub_date:2015-07-31
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/07/31/us/ap-us-recalls-this-week.html
+snippet:More than 3 million magnetic and dry erase boards are being recalled because of metal edges that have already caused several hand and cuts. Other recalled consumer products include mattresses that don't meet safety standards and tablet computers with...
+lead_paragraph:More than 3 million magnetic and dry erase boards are being recalled because of metal edges that have already caused several hand and cuts. Other recalled consumer products include mattresses that don't meet safety standards and tablet computers with overheating batteries.
+abstract:null
+blog:null

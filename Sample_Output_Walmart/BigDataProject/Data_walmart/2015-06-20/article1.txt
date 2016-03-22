@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Marijuana Is in the Air and on It, Too, print_headline:Marijuana Is in the Air and on It, Too}
+news_desk:National
+pub_date:2015-06-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/20/us/with-smokin-94-1-marijuana-is-in-the-air-and-on-it-too.html
+snippet:A radio station is entering uncharted waters with its cannabis-themed format despite the legalization of recreational marijuana in Colorado.
+lead_paragraph:A radio station is entering uncharted waters with its cannabis-themed format despite the legalization of recreational marijuana in Colorado.
+abstract:Denver radio station Smokin 94.1 FM, Colorado's only pot-themed radio station, plays mix of music and marijuana-related comedy bits; is entirely funded by owner Marc Paskin, who is not worried about ambiguous legality of operation and does not need to rely on advertisers that may be reluctant to associate with drug that remains illegal under federal law.
+blog:null

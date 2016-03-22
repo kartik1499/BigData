@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:March Madness 2015: Welcome to a Different Kind of Bracket, print_headline:null}
+news_desk:Upshot
+pub_date:2015-03-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/16/upshot/march-madness-welcome-to-a-different-kind-of-bracket.html
+snippet:The more unusual your picks are, the more points you’ll receive (so long as those picks are correct).
+lead_paragraph:The more unusual your picks are, the more points you’ll receive (so long as those picks are correct).
+abstract:null
+blog:null

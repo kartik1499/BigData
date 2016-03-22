@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Sharing Economy Attracts Older Adults, print_headline:Claiming a Stake in the Sharing Economy}
+news_desk:Business
+pub_date:2015-09-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/26/your-money/the-sharing-economy-attracts-older-adults.html
+snippet:More older Americans are turning to gigs through services like TaskRabbit to supplement retirement savings and investments.
+lead_paragraph:More older Americans are turning to gigs through services like TaskRabbit to supplement retirement savings and investments.
+abstract:null
+blog:null

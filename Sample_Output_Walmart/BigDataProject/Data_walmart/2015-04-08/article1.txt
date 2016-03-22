@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Report Shows Job Openings Are Up, but Hiring Slows, print_headline:Business Briefing; Surging Job Openings Suggest a Brightening Labor Market}
+news_desk:Business
+pub_date:2015-04-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/08/business/report-shows-job-openings-are-up-but-hiring-slows.html
+snippet:The statistics from the Labor Department suggest that the jobs market is steadily improving, even if some business owners remain cautious.
+lead_paragraph:The statistics from the Labor Department suggest that the jobs market is steadily improving, even if some business owners remain cautious.
+abstract:Labor Dept report finds job openings urged 3.4 percent to 14-year high of 5.1 million in February; could signal rebound in hiring following weak March jobs report.
+blog:null

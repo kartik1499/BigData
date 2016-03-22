@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Promotes C.F.O. to Operating Chief, print_headline:Target Promotes C.F.O. to Operating Chief}
+news_desk:Business
+pub_date:2015-08-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/18/business/target-promotes-cfo-to-operating-chief.html
+snippet:Target is making more executive changes, promoting its chief financial officer, John J. Mulligan, to the newly created role of chief operating officer.
+lead_paragraph:Target is making more executive changes, promoting its chief financial officer, John J. Mulligan, to the newly created role of chief operating officer.
+abstract:Target chief financial officer John J Mulligan is promoted to newly created role of chief operating officer; will be succeed by Cathy Smith, former chief financial officer at Express Scripts.
+blog:null

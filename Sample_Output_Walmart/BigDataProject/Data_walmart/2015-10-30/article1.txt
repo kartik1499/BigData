@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Thanksgiving Sales, for Big-Box Retailers, Are Not a Choice, print_headline:Retailers Warm Engines for Black Friday Craze}
+news_desk:Business
+pub_date:2015-10-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/30/business/thanksgiving-sales-for-big-box-retailers-is-not-a-choice.html
+snippet:While some stores have announced they’ll stay closed Thanksgiving Day — and REI even on Black Friday — the season is too critical for large retailers not to match their rivals’ hours.
+lead_paragraph:While some stores have announced they’ll stay closed Thanksgiving Day — and REI even on Black Friday — the season is too critical for large retailers not to match their rivals’ hours.
+abstract:Some stores announce that they will stay closed on Thanksgiving and even Black Friday, taking stand against annual sales frenzy; others say they will open because of competition.
+blog:null

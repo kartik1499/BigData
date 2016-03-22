@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Police: Maryland Shootings Random; Evoked DC Sniper Memories, print_headline:Police: Maryland Shootings Random; Evoked DC Sniper Memories}
+news_desk:None
+pub_date:2015-03-04
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/04/us/ap-us-highways-shots-fired.html
+snippet:A man accused of firing at five public places in Maryland, including a building at the National Security Agency, chose his targets at random, police said Wednesday.
+lead_paragraph:A man accused of firing at five public places in Maryland, including a building at the National Security Agency, chose his targets at random, police said Wednesday.
+abstract:null
+blog:null

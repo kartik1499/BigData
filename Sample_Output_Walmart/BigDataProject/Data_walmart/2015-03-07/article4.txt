@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Job Growth Was Fantastic Last Month. So Why Aren’t Wages Rising More?, print_headline:null}
+news_desk:Upshot
+pub_date:2015-03-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/07/upshot/job-growth-was-fantastic-last-month-so-why-arent-wages-rising-more.html
+snippet:The absence of meaningful gains in American workers’ pay has been one of the lingering problems in the economy.
+lead_paragraph:The absence of meaningful gains in American workers’ pay has been one of the lingering problems in the economy.
+abstract:null
+blog:null

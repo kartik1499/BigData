@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Obama Says Paris Climate Pledge Good for U.S. Business, print_headline:Obama Says Paris Climate Pledge Good for U.S. Business}
+news_desk:None
+pub_date:2015-10-19
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/19/us/politics/19reuters-usa-climatechange.html
+snippet:President Barack Obama on Monday argued that his push for an international climate deal next month in Paris was good for U.S. businesses, meeting with a group of chief executives to underscore his point.
+lead_paragraph:President Barack Obama on Monday argued that his push for an international climate deal next month in Paris was good for U.S. businesses, meeting with a group of chief executives to underscore his point.
+abstract:null
+blog:null

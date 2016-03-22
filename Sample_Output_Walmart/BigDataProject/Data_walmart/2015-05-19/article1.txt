@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Robust U.S. Housing Data Offers Hope for Second Quarter Growth, print_headline:Robust U.S. Housing Data Offers Hope for Second Quarter Growth}
+news_desk:None
+pub_date:2015-05-19
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/05/19/business/19reuters-usa-economy-housingstarts.html
+snippet:U.S. housing starts jumped to their highest level in nearly 7-1/2 years in April and permits soared, offering a glimmer of hope for an economy that is struggling to regain strong momentum after a dismal first quarter.
+lead_paragraph:U.S. housing starts jumped to their highest level in nearly 7-1/2 years in April and permits soared, offering a glimmer of hope for an economy that is struggling to regain strong momentum after a dismal first quarter. 
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Herbal Supplements Without Herbs, print_headline:Herbal Supplements Without Herbs}
+news_desk:Editorial
+pub_date:2015-02-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/07/opinion/herbal-supplements-without-herbs.html
+snippet:An investigation in New York holds a message for consumers and legislators countrywide.
+lead_paragraph:An investigation in New York holds a message for consumers and legislators countrywide.
+abstract:Editorial notes results of New York State attorney general's office showing that four out of five herbal supplements by well-known brands tested do not contain herbs listed on their labels; warns study results suggest that problem is widespread; urges consumers to be wary of supplements that are at best unhelpful and at worst potentially harmful; calls for legislators to enact stronger oversight.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Industry Can Lead on Climate Change  , print_headline:Industry Must Lead on Climate Change}
+news_desk:OpEd
+pub_date:2015-09-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/22/opinion/industry-can-lead-on-climate-change.html
+snippet:At Siemens, committing to cut our carbon footprint in half is prudent, and good business.
+lead_paragraph:At Siemens, committing to cut our carbon footprint in half is prudent, and good business.
+abstract:Op-Ed article by Siemens chief executive Joe Kaeser describes motivations behind company's commitment to make its global operations carbon neutral by 2030; calls on other major companies to address causes of climate change not only for the good of all, but also because it will be profitable; suggests business leaders can lead way despite lack of international treaties and new regulations.
+blog:null

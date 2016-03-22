@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Lower Oil Prices Provide Benefits to U.S. Workers, print_headline:Lower Oil Prices Provide Benefits to U.S. Workers}
+news_desk:Business
+pub_date:2015-01-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/18/business/economy/lower-oil-prices-offer-a-bonanza-to-us-workers.html
+snippet:Wall Street may be growing anxious about the negative impact of falling oil prices on energy producers, but the steep declines of recent weeks are delivering substantial benefits to American working-class families.
+lead_paragraph:Wall Street may be growing anxious about the negative impact of falling oil prices on energy producers, but the steep declines of recent weeks are delivering substantial benefits to American working-class families.
+abstract:American working-class families and retirees are substantially benefiting from falling oil prices, with typical household saving $750 in 2016 due to lower gasoline prices; people who use home heating oil and propane will save an additional $750 over winter; oil prices are especially crucial for Maine residents, where two-thirds of population rely on heating oil.
+blog:null

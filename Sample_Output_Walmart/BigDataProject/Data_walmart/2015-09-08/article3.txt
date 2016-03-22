@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Yazidis Settle in Nebraska, but Roots Run Deep in Iraq, print_headline:Sect From Iraq Hopes Nebraska Can Be a Refuge Even in Death }
+news_desk:National
+pub_date:2015-09-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/08/us/yazidis-settle-in-nebraska-but-roots-run-deep-in-iraq.html
+snippet:Decades before the rise of the Islamic State, members of a persecuted sect began settling in Lincoln, now thought to have the largest concentration in America.
+lead_paragraph:Decades before the rise of the Islamic State, members of a persecuted sect began settling in Lincoln, now thought to have the largest concentration in America.
+abstract:Elders of Yazidi community in Lincoln, Nebraska, which is home to roughly 1,000 members of the minority Iraqi religious sect, are contemplating building a cemetery; Many Yazidis have fled persecution and murder at the hands of Islamic State militants, and group's continued power in Iraq has dimmed Yazidi hopes of homeland burial.  
+blog:null

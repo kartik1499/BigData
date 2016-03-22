@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Making a Confederate Flag Invisible, print_headline:null}
+news_desk:null
+pub_date:2015-06-30
+source:The New York Times
+web_url:http://lens.blogs.nytimes.com/2015/06/30/making-a-confederate-flag-invisible/
+snippet:Removing the Confederate flag from the public square is but a first step toward deeper reflection on race.
+lead_paragraph:null
+abstract:Removing the Confederate flag from the public square is but a first step toward deeper reflection on race.
+blog:null

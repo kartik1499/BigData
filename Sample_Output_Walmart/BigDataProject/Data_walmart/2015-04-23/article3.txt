@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Democrats Are Rallying Around $12 Minimum Wage, print_headline:Democrats Are Rallying Around $12 Wage Floor}
+news_desk:Business
+pub_date:2015-04-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/23/business/economy/democrats-are-rallying-around-12-wage-floor.html
+snippet:Democrats are uniting around a proposal to raise the federal minimum wage to $12 an hour, an issue with considerable popular support in an era of increasing income inequality.
+lead_paragraph:Democrats are uniting around a proposal to raise the federal minimum wage to $12 an hour, an issue with considerable popular support in an era of increasing income inequality.
+abstract:Democratic Sen Patty Murray plans on introducing minimum wage bill that would increase wage floor from $7.25 to $12 by 2020, effort mirrored in companion House measure to be introduced by Rep Robert C Scott; both have considerable support in Democratic Party, indication of party's intent to focus on issue in 2016 elections.
+blog:null

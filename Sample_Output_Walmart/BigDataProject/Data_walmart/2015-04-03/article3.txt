@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Analysis-Wal-Mart Support of Gay Rights Turns on Business, print_headline:Analysis-Wal-Mart Support of Gay Rights Turns on Business}
+news_desk:None
+pub_date:2015-04-03
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/03/business/03reuters-walmart-arkansas-analysis.html
+snippet:The chief executive of Wal-Mart Stores Inc has emerged as an unlikely voice for gay rights after the Arkansas governor heeded his call on Wednesday to reject a much-criticized bill.
+lead_paragraph:The chief executive of Wal-Mart Stores Inc has emerged as an unlikely voice for gay rights after the Arkansas governor heeded his call on Wednesday to reject a much-criticized bill.
+abstract:null
+blog:null

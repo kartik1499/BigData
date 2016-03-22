@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The New Jersey Psychic With a Box of Swiss Gold, print_headline:The New Jersey Psychic With a Box of Swiss Gold }
+news_desk:Metro
+pub_date:2015-09-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/05/nyregion/the-new-jersey-psychic-with-a-box-of-swiss-gold.html
+snippet:The contents of a safe deposit box led investigators to a New Jersey woman and a list of suspicious slip-and-fall incidents in New York and New Jersey.
+lead_paragraph:The contents of a safe deposit box led investigators to a New Jersey woman and a list of suspicious slip-and-fall incidents in New York and New Jersey.
+abstract:Michael Wilson Crime Scene column describes crime ring run by New Jersey psychic Sable Edwards and her husband.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:SodaStream Hits Reset as Its Sales and Profit Fall, print_headline:SodaStream Hits Reset as Sales Fall}
+news_desk:Business
+pub_date:2015-02-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/23/business/sodastream-hits-reset-as-its-sales-and-profit-fall.html
+snippet:Faced with slumping sales despite a thriving United States market for water products, the home-carbonation company is rethinking its product line.
+lead_paragraph:Faced with slumping sales despite a thriving United States market for water products, the home-carbonation company is rethinking its product line.
+abstract:SodaStream, maker of carbonation canisters, has introduced new line of fruit flavorings to add to water carbonated using its machines; sales of its products have fallen since 2013, despite overall rising sales of water.
+blog:null

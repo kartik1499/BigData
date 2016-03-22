@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Rite Aid Stores No Longer Shun Apple Pay, print_headline:Rite Aid Stores No Longer Shun Apple Pay}
+news_desk:None
+pub_date:2015-08-11
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/08/11/technology/ap-us-tec-rite-aid-apple-pay.html
+snippet:Rite Aid stores will start accepting Apple's mobile payment system, Apple Pay, later this month after initially shunning the service in favor of a rival system.
+lead_paragraph:Rite Aid stores will start accepting Apple's mobile payment system, Apple Pay, later this month after initially shunning the service in favor of a rival system.
+abstract:null
+blog:null

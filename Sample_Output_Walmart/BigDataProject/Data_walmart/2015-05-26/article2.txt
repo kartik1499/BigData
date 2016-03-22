@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Woman Held Down Husband in Vegas Hatchet Attack, Police Say, print_headline:Woman Held Down Husband in Vegas Hatchet Attack, Police Say}
+news_desk:None
+pub_date:2015-05-26
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/26/us/ap-us-hatchet-attack-wife-brother.html
+snippet:Police say an Idaho woman who was having an affair orchestrated a gruesome Las Vegas hatchet attack that left her husband dead with his head nearly severed while they were on a family trip on Memorial Day.
+lead_paragraph:Police say an Idaho woman who was having an affair orchestrated a gruesome Las Vegas hatchet attack that left her husband dead with his head nearly severed while they were on a family trip on Memorial Day.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:East Brunswick, N.J.: Community Gardens, Parks and Highways, print_headline:Gardens, Parks and Highways }
+news_desk:RealEstate
+pub_date:2015-05-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/17/realestate/community-gardens-parks-and-highways.html
+snippet:Strip malls and commercial towers coexist with recreation areas and gardens in the central New Jersey township of East Brunswick.
+lead_paragraph:Strip malls and commercial towers coexist with recreation areas and gardens in the central New Jersey township of East Brunswick.
+abstract:Living In column on East Brunswick, NJ.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:BB-8 Droid Offers Hint of Coming Crush of ‘Star Wars’ Toys, print_headline:null}
+news_desk:Business
+pub_date:2015-09-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/04/business/a-hint-of-star-wars-toys-in-the-form-of-a-little-droid.html
+snippet:The BB-8, a small, round robot that rolls along at the touch of a smartphone, is one of hundreds of toys related to the next “Star Wars” film.
+lead_paragraph:The BB-8, a small, round robot that rolls along at the touch of a smartphone, is one of hundreds of toys related to the next “Star Wars” film.
+abstract:null
+blog:null

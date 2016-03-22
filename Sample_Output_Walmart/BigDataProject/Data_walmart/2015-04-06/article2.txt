@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gay Rights Still an Issue for G.O.P. Base, print_headline:Gay Rights Still an Issue for G.O.P. Base}
+news_desk:Foreign
+pub_date:2015-04-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/06/us/gay-rights-still-an-issue-for-gop-base.html
+snippet:Heading into a presidential election, the powerful conservative right can be expected to set litmus tests for Republican candidates, Albert R. Hunt writes.
+lead_paragraph:Heading into a presidential election, the powerful conservative right can be expected to set litmus tests for Republican candidates, Albert R. Hunt writes.
+abstract:null
+blog:null

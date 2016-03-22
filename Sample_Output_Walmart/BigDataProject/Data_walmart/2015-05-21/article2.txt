@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Fair Trade for the Global Garment Industry, print_headline:Fair Trade for the Garment Industry}
+news_desk:OpEd
+pub_date:2015-05-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/21/opinion/fair-trade-for-the-global-garment-industry.html
+snippet:The big apparel brands are responsible for improving the lot of all the workers who toil for their bottom line.
+lead_paragraph:The big apparel brands are responsible for improving the lot of all the workers who toil for their bottom line.
+abstract:null
+blog:null

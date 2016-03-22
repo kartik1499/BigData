@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Solid U.S. Jobs Report Bolsters Case for Fed Rate Hike, print_headline:Solid U.S. Jobs Report Bolsters Case for Fed Rate Hike}
+news_desk:None
+pub_date:2015-08-07
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/07/business/07reuters-usa-economy.html
+snippet:U.S. employment rose at a solid clip in July and wages rebounded after a surprise stall in the prior month, signs of an improving economy that opened the door wider to a Federal Reserve interest rate increase in September.
+lead_paragraph:U.S. employment rose at a solid clip in July and wages rebounded after a surprise stall in the prior month, signs of an improving economy that opened the door wider to a Federal Reserve interest rate increase in September.
+abstract:null
+blog:null

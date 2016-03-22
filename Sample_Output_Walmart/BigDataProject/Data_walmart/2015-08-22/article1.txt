@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Trucks Are Killing Us, print_headline:The Trucks Are Killing Us}
+news_desk:OpEd
+pub_date:2015-08-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/22/opinion/the-trucks-are-killing-us.html
+snippet:Death rates are rising even as Congress is caving to trucking industry pressure and loosening regulations.
+lead_paragraph:Death rates are rising even as Congress is caving to trucking industry pressure and loosening regulations.
+abstract:Op-Ed article by writer Howard Abramson attributes large number of accidents involving trucks to Congress bowing to demands of trucking industry; details ways Congress has rolled back safety improvements at industry's behest, and points to concessions contained in pending highway bill; urges Congress to pass bill that includes improved trucking safety regulations.
+blog:null

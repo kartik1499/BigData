@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Search for Prison Escapees in Northern New York Became Boon for Region’s Economy, print_headline:3-Week Search for Prison Escapees Became a Boon for the Region’s Economy}
+news_desk:Metro
+pub_date:2015-07-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/03/nyregion/search-for-prison-escapees-became-a-boon-for-the-regions-economy.html
+snippet:Hotels ran out of rooms, cafes were busy and overtime for prison guards and police officers contributed to the $1 million-a-day cost of the search for two escaped prisoners.
+lead_paragraph:Hotels ran out of rooms, cafes were busy and overtime for prison guards and police officers contributed to the $1 million-a-day cost of the search for two escaped prisoners.
+abstract:Businesses, from hotels to stores and restaurants, in Dannemora, NY, home of Clinton Correctional Facility, saw major uptick in customers and income as manhunt for two escaped killers stretched to more than three weeks. 
+blog:null

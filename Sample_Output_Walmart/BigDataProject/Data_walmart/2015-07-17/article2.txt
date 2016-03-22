@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:EBay Reports Sale of Enterprise Unit as Earnings Beat Estimates, print_headline:EBay Beats Forecasts in Advance of Spinoff}
+news_desk:Business
+pub_date:2015-07-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/17/technology/ebay-q2-earnings-enterprise-unit.html
+snippet:The company said it had sold the unit for $925 million and its operating earnings had risen 9 percent, well above the average estimate of analysts.
+lead_paragraph:The company said it had sold the unit for $925 million and its operating earnings had risen 9 percent, well above the average estimate of analysts.
+abstract:EBay announces plans to sell eBay Enterprise unit to consortium of investors led by Permira and Sterling Partners for $925 million; eBay reports net income in second quarter of $83 million, and revenue of $4.38 billion, increase of 7 percent from quarter earlier.
+blog:null

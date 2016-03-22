@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Hundreds Protest in Manhattan Against Police Brutality and Income Inequality, print_headline:null}
+news_desk:Metro
+pub_date:2015-05-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/02/nyregion/hundreds-protest-in-manhattan-against-police-brutality-and-income-inequality.html
+snippet:The protests were organized for May Day. Hundreds of protesters marched south from Union Square, and another rally was held near the home of a Walmart fortune heir.
+lead_paragraph:The protests were organized for May Day. Hundreds of protesters marched south from Union Square, and another rally was held near the home of a Walmart fortune heir.
+abstract:null
+blog:null

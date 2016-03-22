@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart to Let Workers Add Denim Pants to Work Wardrobe, print_headline:Wal-Mart to Let Workers Add Denim Pants to Work Wardrobe}
+news_desk:None
+pub_date:2015-06-03
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/03/business/ap-us-wal-mart-dress-code.html
+snippet:Wal-Mart is hoping denim pants will raise the spirits of its more than 1.2 million U.S. store workers.
+lead_paragraph:Wal-Mart is hoping denim pants will raise the spirits of its more than 1.2 million U.S. store workers.
+abstract:null
+blog:null

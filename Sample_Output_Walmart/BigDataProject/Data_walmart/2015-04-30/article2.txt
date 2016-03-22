@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Shrugging Off Slow Growth, Fed Predicts a Rebound, print_headline:Shrugging Off Slow Growth, Fed Predicts a Rebound}
+news_desk:Business
+pub_date:2015-04-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/30/business/economy/federal-reserve-meeting-interest-rates.html
+snippet:The Federal Reserve’s policy makers signaled that an interest-rate increase is still likely later this year.
+lead_paragraph:The Federal Reserve’s policy makers signaled that an interest-rate increase is still likely later this year.
+abstract:Government estimates gross domestic product rose only 0.2 percent in first-quarter; Federal Reserve forecasts growth to rebound, suggesting it still intends to begin raising its benchmark interest rate in 2015.
+blog:null

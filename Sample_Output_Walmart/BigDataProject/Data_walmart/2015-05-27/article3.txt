@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Tracy Morgan Settles Suit With Wal-Mart Over Fatal Crash, print_headline:Tracy Morgan Settles Suit With Wal-Mart Over Fatal Crash}
+news_desk:None
+pub_date:2015-05-27
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/27/us/ap-us-tracy-morgan-lawsuit.html
+snippet:Actor-comedian Tracy Morgan has settled his lawsuit against Wal-Mart over a New Jersey highway crash that killed one man and left Morgan and two friends seriously injured.
+lead_paragraph:Actor-comedian Tracy Morgan has settled his lawsuit against Wal-Mart over a New Jersey highway crash that killed one man and left Morgan and two friends seriously injured.
+abstract:null
+blog:null

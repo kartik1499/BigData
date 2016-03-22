@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Your Friday Briefing: Syria, China, Breast Cancer, print_headline:null}
+news_desk:NYTNow
+pub_date:2015-10-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/30/nytnow/latest-news-syria-china-breast-cancer.html
+snippet:Here’s what you need to know to start your day.
+lead_paragraph:Here’s what you need to know to start your day.
+abstract:null
+blog:null

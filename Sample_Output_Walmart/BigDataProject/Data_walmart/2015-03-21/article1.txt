@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Pays $10 Million to Family of Comedian Killed in Tracy Morgan Crash , print_headline:Walmart to Pay $10 Million to Children of Crash Victim}
+news_desk:Metro
+pub_date:2015-03-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/21/nyregion/walmart-pays-10-million-to-family-of-comedian-killed-in-tracy-morgan-crash.html
+snippet:The children of James McNair will split the settlement, which was reached with Walmart in January, months after one of its trucks hit a van carrying Mr. McNair, Mr. Morgan and others on the New Jersey Turnpike.
+lead_paragraph:The children of James McNair will split the settlement, which was reached with Walmart in January, months after one of its trucks hit a van carrying Mr. McNair, Mr. Morgan and others on the New Jersey Turnpike.
+abstract:Walmart reaches settlement to pay $10 million to family of James McNair, comedian who was killed in New Jersey Turnpike crash involving Walmart truck and limousine carrying McNair and television star Tracy Morgan.
+blog:null

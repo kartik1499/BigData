@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Lower-Cost LEDs Offer Some Competition to Compact Fluorescent Lights, print_headline:Lower-Cost LEDs Offer Some Competition to Compact Fluorescent Lights}
+news_desk:Business
+pub_date:2015-06-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/04/business/energy-environment/lower-cost-leds-become-competitive-with-fluorescent-lights.html
+snippet:Newer LEDs are gaining on compact fluorescent lights as substitutes for inefficient incandescent bulbs in lighting.
+lead_paragraph:Newer LEDs are gaining on compact fluorescent lights as substitutes for inefficient incandescent bulbs in lighting.
+abstract:General Electric follows competitor Philips, announcing LED light bulb priced in range competitive with compact fluorescent lights; sales of LEDS rose more than 150 percent for first-quarter 2015 over year-ago quarter, although they still lag behind compact fluorescent sales.
+blog:null

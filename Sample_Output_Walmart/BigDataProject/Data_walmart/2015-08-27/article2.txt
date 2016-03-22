@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Do We Crank Up the A.C. Too High?, print_headline:null}
+news_desk:null
+pub_date:2015-08-27
+source:The New York Times
+web_url:http://learning.blogs.nytimes.com/2015/08/27/do-we-crank-up-the-a-c-too-high/
+snippet:Do you ever find yourself cold in the middle of summer?
+lead_paragraph:null
+abstract:Do you ever find yourself cold in the middle of summer?
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Big Business and Anti-Gay Laws, print_headline:Big Business and Anti-Gay Laws}
+news_desk:Editorial
+pub_date:2015-04-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/04/opinion/big-businesss-critical-role-on-anti-gay-laws.html
+snippet:Corporations were right to speak out on this issue. They should take the same stand with their campaign spending.
+lead_paragraph:Corporations were right to speak out on this issue. They should take the same stand with their campaign spending.
+abstract:Editorial calls for big corporations who are serious about civil rights to cease funding campaigns of lawmakers who back legislation that discriminates against gays and lesbians, rather than merely issuing corporate statements against such laws; suggests businesses could, as additional step, ask lawmakers to pass anti-discrimination protections for gay, lesbian, bisexual and transgender people, using their vast influence in service of equality.
+blog:null

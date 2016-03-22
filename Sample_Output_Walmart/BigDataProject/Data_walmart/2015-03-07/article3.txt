@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Hampton Creek, Maker of Plant-Based Protein Foods, Signs Distribution Deal With Foodbuy, print_headline:Maker of Eggless Mayonnaise Signs Distribution Deal}
+news_desk:Business
+pub_date:2015-03-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/07/business/hampton-creek-maker-of-plant-based-protein-foods-signs-distribution-deal-with-foodbuy.html
+snippet:Foodbuy, the procurement unit of Compass Group, has begun selling Hampton&#8217;s Just Cookies and will soon add Just Mayo, both made without eggs.
+lead_paragraph:Foodbuy, the procurement unit of Compass Group, has begun selling Hampton&#8217;s Just Cookies and will soon add Just Mayo, both made without eggs.
+abstract:Hampton Creek chief executive Josh Tetrick announces that he has signed deal with Foodbuy, procurement arm of food services company Compass Group, which will sell Hampton Creek's Just Cookies and Just Mayo, products made without eggs.
+blog:null

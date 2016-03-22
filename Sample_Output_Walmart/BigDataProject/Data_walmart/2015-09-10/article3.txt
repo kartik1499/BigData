@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:How I Became a Helicopter Daughter, print_headline:Becoming a Helicopter Daughter}
+news_desk:OpEd
+pub_date:2015-09-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/10/opinion/how-i-became-a-helicopter-daughter.html
+snippet:When my elderly father moved into our living room, I flew into action.
+lead_paragraph:When my elderly father moved into our living room, I flew into action.
+abstract:Mimi Swartz Op-Ed article notes similarities between caring for her aged father and raising her son; observes her penchant for overachieving characterizes her roles as mother and daughter; concludes while overcaring for child can be harmful, doing so for parent can't be.
+blog:null

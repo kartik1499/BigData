@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target’s Red Ink Runs Out in Canada, print_headline:Red Ink Runs Out in Canada}
+news_desk:Business
+pub_date:2015-01-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/16/business/target-to-close-stores-in-canada.html
+snippet:The company, which has made major management changes in the last year, is closing more than 100 Canadian stores less than two years after they opened.
+lead_paragraph:The company, which has made major management changes in the last year, is closing more than 100 Canadian stores less than two years after they opened.
+abstract:Target will close its 133 stores in Canada, conceding defeat in ill-fated expansion gamble after less than two years; will place operation under bankruptcy protection, eliminating some 17,600 jobs and citing more than $2 billion in losses.
+blog:null

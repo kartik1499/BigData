@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Virginia Police Officer Indicted for Murder in April Shooting, print_headline:Virginia Police Officer Indicted for Murder in April Shooting}
+news_desk:None
+pub_date:2015-09-03
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/09/03/us/03reuters-usa-police-virginia.html
+snippet:A grand jury on Thursday indicted a white police officer of Portsmouth, Virginia, for first-degree murder in the shooting of a black teenager.
+lead_paragraph:A grand jury on Thursday indicted a white police officer of Portsmouth, Virginia, for first-degree murder in the shooting of a black teenager.
+abstract:null
+blog:null

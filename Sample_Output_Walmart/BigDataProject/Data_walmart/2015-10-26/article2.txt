@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Prosecution of U.S. Police for Killings Surges to Highest in Decade, print_headline:Prosecution of U.S. Police for Killings Surges to Highest in Decade}
+news_desk:None
+pub_date:2015-10-26
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/26/us/26reuters-usa-police.html
+snippet:The number of U.S. police officers charged in fatal shootings has hit the highest level in a decade in 2015, new research shows, driven by greater scrutiny over use of deadly force.
+lead_paragraph:The number of U.S. police officers charged in fatal shootings has hit the highest level in a decade in 2015, new research shows, driven by greater scrutiny over use of deadly force.
+abstract:null
+blog:null

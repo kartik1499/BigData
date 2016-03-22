@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:McDonald’s Workers, Vowing a Fight, Say Raises Are Too Little for Too Few, print_headline:McDonald’s Workers, Vowing a Fight, Say Raises Are Too Little for Too Few}
+news_desk:Metro
+pub_date:2015-04-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/06/nyregion/mcdonalds-pay-raises-are-too-little-for-too-few-workers-say.html
+snippet:Activists hailed the wage increase as proof that their protests were finally bearing fruit, but vowed to continue to push for better pay for all employees.
+lead_paragraph:Activists hailed the wage increase as proof that their protests were finally bearing fruit, but vowed to continue to push for better pay for all employees.
+abstract:Rachel L Swarns The Working Life column observes that while labor activists have criticized $1-per-hour wage increases for some MacDonald's workers as insufficient, they are nonetheless proof of movement's growing influence; notes groups have vowed to continue agitating for change.
+blog:null

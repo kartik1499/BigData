@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Frozen Chicken Recalled After Reports of Illnesses, print_headline:Frozen Chicken Recalled After Reports of Illnesses}
+news_desk:Business
+pub_date:2015-07-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/17/business/frozen-chicken-recalled-after-reports-of-illnesses.html
+snippet:Breaded, raw stuffed chicken breasts from Aspen Foods and Barber Foods have been linked to salmonella infections.
+lead_paragraph:Breaded, raw stuffed chicken breasts from Aspen Foods and Barber Foods have been linked to salmonella infections.
+abstract:Aspen Foods announce recall of almost two million pounds of frozen chicken products in wake of reports of salmonella infections in three consumers in Minnesota.
+blog:null

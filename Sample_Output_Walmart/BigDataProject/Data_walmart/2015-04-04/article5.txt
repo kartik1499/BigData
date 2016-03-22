@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:U.S. Economy Gained 126,000 Jobs in March, an Abrupt Slowdown in Hiring, print_headline:March Data Shows Signs of Slowing in Job Gains}
+news_desk:Business
+pub_date:2015-04-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/04/business/economy/jobs-report-unemployment-march.html
+snippet:The unemployment rate held steady, but after a year in which job gains exceeded 200,000 monthly, the deceleration confirmed worrying signs in the economy.
+lead_paragraph:The unemployment rate held steady, but after a year in which job gains exceeded 200,000 monthly, the deceleration confirmed worrying signs in the economy.
+abstract:Labor Dept reports that employers added 126,000 jobs in March 2015, ending yearlong streak of robust monthly job creation; analysts point to winter weather and low oil prices as combination that affected spending, but suggest that economy will likely regain its momentum.
+blog:null

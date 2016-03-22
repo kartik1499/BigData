@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Launches In-Store Tax Refunds, print_headline:Wal-Mart Launches In-Store Tax Refunds}
+news_desk:None
+pub_date:2015-01-20
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/20/business/20reuters-walmart-direct2cash.html
+snippet:Wal-Mart Stores Inc has launched a service allowing customers to pick up tax refunds in cash at stores across the United States.
+lead_paragraph:Wal-Mart Stores Inc has launched a service allowing customers to pick up tax refunds in cash at stores across the United States.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Restaurant Report: R&amp;J Lounge and Supper Club in Oklahoma City, print_headline:A Main Course of Nostalgia}
+news_desk:Travel
+pub_date:2015-07-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/26/travel/restaurant-report-rj-lounge-and-supper-club-in-oklahoma-city.html
+snippet:The menu offers edible Americana including one of the owner and chef’s grandmother’s recipe for chicken with buttermilk and dill dumplings.
+lead_paragraph:The menu offers edible Americana including one of the owner and chef’s grandmother’s recipe for chicken with buttermilk and dill dumplings.
+abstract:Kathryn O'Shea-Evans reviews R&J Lounge and Supper Club restaurant in Oklahoma City.
+blog:null

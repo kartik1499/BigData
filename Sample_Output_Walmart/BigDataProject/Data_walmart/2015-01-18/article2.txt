@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Kentucky Teen Couple Suspected of Multi-State Crime Spree Captured, print_headline:Kentucky Teen Couple Suspected of Multi-State Crime Spree Captured}
+news_desk:None
+pub_date:2015-01-18
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/18/us/18reuters-usa-kentucky-crime.html
+snippet:Teenage sweethearts from Kentucky were found in Florida early Sunday sleeping in a stolen pickup truck, ending a suspected multi-state crime spree that included vehicle thefts, cashing stolen checks and destruction of property, authorities said.
+lead_paragraph:Teenage sweethearts from Kentucky were found in Florida early Sunday sleeping in a stolen pickup truck, ending a suspected multi-state crime spree that included vehicle thefts, cashing stolen checks and destruction of property, authorities said.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Our Water-Guzzling Food Factory, print_headline:Our Water-Guzzling Food Factory}
+news_desk:Editorial
+pub_date:2015-05-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/31/opinion/sunday/nicholas-kristof-our-water-guzzling-food-factory.html
+snippet:While we associate extravagant water use with swimming pools and verdant lawns, the biggest consumer is agriculture.
+lead_paragraph:While we associate extravagant water use with swimming pools and verdant lawns, the biggest consumer is agriculture.
+abstract:Nicholas Kristof Op-Ed column warns that drought in California is harbinger of future water scarcity; underscores need for overhauling nation's industrial food system to address the problem.
+blog:null

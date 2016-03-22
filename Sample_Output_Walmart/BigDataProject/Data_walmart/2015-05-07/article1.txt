@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Transportation Emerges as Crucial to Escaping Poverty, print_headline:Transportation Emerges as Key to Escaping Poverty}
+news_desk:Business
+pub_date:2015-05-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/07/upshot/transportation-emerges-as-crucial-to-escaping-poverty.html
+snippet:The effect of transportation on social mobility is stronger than factors like crime, test scores or the percentage of two-parent families.
+lead_paragraph:The effect of transportation on social mobility is stronger than factors like crime, test scores or the percentage of two-parent families.
+abstract:The Upshot; multiple studies identify back-breaking commutes and inadequate access to reliable public transportation as towering obstacles for low-income Americans who are striving to pull themselves out of poverty.
+blog:null

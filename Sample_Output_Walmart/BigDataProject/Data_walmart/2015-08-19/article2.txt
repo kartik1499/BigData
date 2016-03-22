@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Summer Doldrums Settle In on Wall Street, print_headline:Summer Doldrums Settle In on Wall St.}
+news_desk:Business
+pub_date:2015-08-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/19/business/daily-stock-market-activity.html
+snippet:The major indexes fluctuated up and down during the day, ending the session slightly lower.
+lead_paragraph:The major indexes fluctuated up and down during the day, ending the session slightly lower.
+abstract:Stock market registers small loss after lazy day of summer trading.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Bush Campaign&#8217;s Demand for Fidelity Ruffles Some Republican Rivals, print_headline:Bush Campaign’s Demand for Fidelity Ruffles Some Republican Rivals}
+news_desk:National
+pub_date:2015-02-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/27/us/politics/jeb-bush-campaigns-demand-for-fidelity-ruffles-some-republicans.html
+snippet:Mr. Bush has pursued top campaign donors, political operatives and policy experts with a relentlessness that, in the eyes of rivals, seems ruthless.
+lead_paragraph:Mr. Bush has pursued top campaign donors, political operatives and policy experts with a relentlessness that, in the eyes of rivals, seems ruthless.
+abstract:Jeb Bush is incurring the ire of Republican rivals and some party leaders as he moves aggressively to lock down top consulting talent for his 2016 presidential bid; has leveraged his family's political influence to poach advisers from fellow Republicans, demanding fidelity that some see as premature and even ruthless.
+blog:null

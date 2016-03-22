@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Crystal Bridges Museum to Announce Major Purchases, print_headline:Crystal Bridges Museum To Unveil Acquisitions}
+news_desk:Culture
+pub_date:2015-06-03
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/06/03/crystal-bridges-museum-buying-more-art-by-women/
+snippet:The museum has acquired Jasper Johns’s “Flag” (1983) and four works by Louise Bourgeois, which aids its mission of featuring more women in its collection of American artists.
+lead_paragraph:null
+abstract:The museum has acquired Jasper Johns’s “Flag” (1983) and four works by Louise Bourgeois, which aids its mission of featuring more women in its collection of American artists.
+blog:null

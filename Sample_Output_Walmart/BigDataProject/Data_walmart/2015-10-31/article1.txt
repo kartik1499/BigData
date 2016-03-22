@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Limited Skippy Peanut Butter Recall in 7 States, print_headline:null}
+news_desk:Business
+pub_date:2015-10-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/31/business/limited-skippy-peanut-butter-recall-in-7-states.html
+snippet:More than 150 cases of a type of Skippy peanut butter were recalled as a precaution after metal shavings were found.
+lead_paragraph:More than 150 cases of a type of Skippy peanut butter were recalled as a precaution after metal shavings were found.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Department Clears Arizona Officer Who Hit Armed Man With Car, print_headline:Department Clears Arizona Officer Who Hit Armed Man With Car}
+news_desk:None
+pub_date:2015-07-22
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/07/22/us/ap-us-cruiser-hits-suspect.html
+snippet:The only thing an Arizona police officer did wrong during an encounter in which he used his cruiser to ram an armed suspect was curse at two civilians who got too close to the action, according to reports released Wednesday.
+lead_paragraph:The only thing an Arizona police officer did wrong during an encounter in which he used his cruiser to ram an armed suspect was curse at two civilians who got too close to the action, according to reports released Wednesday.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Shooting With 'Some Injuries' Reported in a Walmart in Mississippi, print_headline:Shooting With 'Some Injuries' Reported in a Walmart in Mississippi}
+news_desk:None
+pub_date:2015-02-15
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/02/15/us/15reuters-usa-mississippi-shooting-walmart.html
+snippet:Police were investigating a shooting with "some injuries" at a Walmart store in Iuka, Mississippi on Sunday, and the store was closed, the Tishomingo County Sheriff's Office said.
+lead_paragraph:Police were investigating a shooting with "some injuries" at a Walmart store in Iuka, Mississippi on Sunday, and the store was closed, the Tishomingo County Sheriff's Office said.
+abstract:null
+blog:null

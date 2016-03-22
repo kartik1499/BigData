@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: Companies Test Inhospitable Market for Public Offerings, print_headline:null}
+news_desk:null
+pub_date:2015-10-15
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/10/15/morning-agenda-companies-test-inhospitable-market-for-public-offerings/
+snippet:A Radical Plan for Puerto Rico | Rabobank Traders on Trial for Rigging Libor
+lead_paragraph:null
+abstract:A Radical Plan for Puerto Rico | Rabobank Traders on Trial for Rigging Libor
+blog:null

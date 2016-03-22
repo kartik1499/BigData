@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:For Many Low-Income Workers, Calling in Sick Is a Luxury, print_headline:For Many Low-Income Workers, Calling in Sick Is a Luxury}
+news_desk:None
+pub_date:2015-05-19
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/19/us/ap-us-paid-sick-leave.html
+snippet:For Shannon Henderson, getting a cold or flu could be the difference between putting food on the table and going hungry.
+lead_paragraph:For Shannon Henderson, getting a cold or flu could be the difference between putting food on the table and going hungry.
+abstract:null
+blog:null

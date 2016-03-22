@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gender Bias Case Against Sterling Jewelers Can Proceed, print_headline:Gender Bias Case Against Sterling Jewelers Can Proceed}
+news_desk:Business
+pub_date:2015-02-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/04/business/arbitrator-clears-way-for-gender-bias-case-against-sterling-jewelers.html
+snippet:The arbitrator, Kathleen Roberts, ruled that Sterling employees may pursue a claim challenging the jeweler&#8217;s promotion and pay practices.
+lead_paragraph:The arbitrator, Kathleen Roberts, ruled that Sterling employees may pursue a claim challenging the jeweler&#8217;s promotion and pay practices.
+abstract:Arbitrator certifies class of thousands of women to proceed to trial in gender discrimination case brought against Sterling Jewlers; company, which owns 12 chains in the United States, has been accused of discriminatory pay and promotion practices.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Authorities Hunt Kentucky Teen Couple Suspected of Multi-State Crime Spree, print_headline:Authorities Hunt Kentucky Teen Couple Suspected of Multi-State Crime Spree}
+news_desk:None
+pub_date:2015-01-17
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/17/us/17reuters-usa-kentucky-crime.html
+snippet:Teenage sweethearts from Kentucky who ran away from home two weeks ago are suspected of carrying out a multi-state crime spree, stealing several vehicles and cashing stolen checks, a law enforcement official said on Saturday.
+lead_paragraph:Teenage sweethearts from Kentucky who ran away from home two weeks ago are suspected of carrying out a multi-state crime spree, stealing several vehicles and cashing stolen checks, a law enforcement official said on Saturday.
+abstract:null
+blog:null

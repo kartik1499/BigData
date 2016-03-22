@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Amex’s Loss in Court May Not Help Consumers, print_headline:Amex’s Loss in Court May Not Help Consumers}
+news_desk:Business
+pub_date:2015-02-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/24/business/dealbook/amexs-loss-in-court-may-not-help-consumers.html
+snippet:If history is any guide, the ruling against American Express will not lead to the desired outcome of increased competition and lower prices.
+lead_paragraph:If history is any guide, the ruling against American Express will not lead to the desired outcome of increased competition and lower prices.
+abstract:Andrew Ross Sorkin DealBook column contends Federal Judge Nicholas G Garaufis's antitrust ruling against American Express will not only most likely result in retail prices remaining the same, but credit card companies may also end up raising their annual fees and lending rates to compensate for lost merchant fees.
+blog:null

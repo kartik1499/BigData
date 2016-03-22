@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Review: Michael Meyer’s ‘In Manchuria’ Documents a Changing Rural China, print_headline:A Vanishing Way of Life for Peasants in China}
+news_desk:Culture
+pub_date:2015-03-09
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/09/books/review-michael-meyers-in-manchuria-documents-a-changing-rural-china.html
+snippet:Michael Meyer’s new book is part travelogue, part sociological study, part reportage and part memoir.
+lead_paragraph:Michael Meyer’s new book is part travelogue, part sociological study, part reportage and part memoir.
+abstract:Larry Rohter reviews book In Manchuria: A Village Called Wasteland and the Transformation of Rural China by Michael Meyer.
+blog:null

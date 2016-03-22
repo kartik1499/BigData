@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Union Seeks Labor Board Injunction Over Wal-Mart Store Closings, print_headline:Union Seeks Labor Board Injunction Over Wal-Mart Store Closings}
+news_desk:None
+pub_date:2015-04-20
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/20/business/20reuters-wal-mart-stores-nlrb.html
+snippet:A union on Monday asked the National Labor Relations Board to force Wal-Mart to reinstate employees at five stores, accusing the retailer of closing the locations to retaliate against workers for attempts to organize for better pay and benefits.
+lead_paragraph:A union on Monday asked the National Labor Relations Board to force Wal-Mart to reinstate employees at five stores, accusing the retailer of closing the locations to retaliate against workers for attempts to organize for better pay and benefits.
+abstract:null
+blog:null

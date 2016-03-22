@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Texas Police Kill Gunmen at Exhibit Featuring Cartoons of Muhammad, print_headline:Texas Police Kill Gunmen at an Exhibit Defying Islam}
+news_desk:National
+pub_date:2015-05-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/04/us/gunmen-killed-after-firing-on-anti-islam-groups-event.html
+snippet:Two assailants in Garland shot a private security guard and were, in turn, killed by the police at an event hosted by an anti-Islam group.
+lead_paragraph:Two assailants in Garland shot a private security guard and were, in turn, killed by the police at an event hosted by an anti-Islam group.
+abstract:Police officers in Garland, Tex, shoot and kill two gunmen after they shot and wounded security guard outside event hosted by anti-Islam group.
+blog:null

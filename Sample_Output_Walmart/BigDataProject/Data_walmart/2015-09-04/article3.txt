@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Your Friday Briefing, print_headline:null}
+news_desk:NYTNow
+pub_date:2015-09-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/04/nytnow/obama-and-the-saudi-king-aylan-kurdi-and-more.html
+snippet:Here’s what you need to know to start your day.
+lead_paragraph:Here’s what you need to know to start your day.
+abstract:null
+blog:null

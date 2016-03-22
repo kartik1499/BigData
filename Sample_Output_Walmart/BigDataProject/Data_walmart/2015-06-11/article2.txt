@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gemvara, an Online Jeweler, Branches Into Resetting, print_headline:An Online Jeweler Branches Into Resetting, With Sparkling Results}
+news_desk:Business
+pub_date:2015-06-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/11/business/gemvara-an-online-jeweler-branches-into-resetting.html
+snippet:The five-year-old custom jewelry design company began the service in January, to overwhelming demand.
+lead_paragraph:The five-year-old custom jewelry design company began the service in January, to overwhelming demand.
+abstract:Online custom jewelry firm Gemvara started offering stone resetting service in January 2015, with huge demand; it now accounts for 20 percent of site's traffic.
+blog:null

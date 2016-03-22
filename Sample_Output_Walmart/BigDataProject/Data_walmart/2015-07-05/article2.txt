@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Enduring Summer’s Deep Freeze, print_headline:Enduring Summer’s Deep Freeze}
+news_desk:OpEd
+pub_date:2015-07-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/05/sunday-review/enduring-summers-deep-freeze.html
+snippet:Why stores and offices are so over-airconditioned.
+lead_paragraph:Why stores and offices are so over-airconditioned.
+abstract:News Analysis; American interiors are wastefully over-air-conditioned, despite national focus on global warming, for variety of reasons, most vexing of which is cultural; cold temperatures in office buildings are due in part to way air-conditioning systems are designed, and in part because of a widely held misconception that colder temperatures make workers more alert and productive.
+blog:null

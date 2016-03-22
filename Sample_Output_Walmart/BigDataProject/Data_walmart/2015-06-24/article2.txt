@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Confederate Flag Sales Soar as Retailers Pull Stock, print_headline:As Retailers Move to Halt Sales of Divisive Symbol, Some Buyers Stock Up }
+news_desk:National
+pub_date:2015-06-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/24/business/amazon-big-retailers-remove-confederate-flag-merchandise.html
+snippet:As companies like Walmart, Amazon and Sears were moving to discontinue sales of products tied to the Confederate battle flag, sales of them were soaring.
+lead_paragraph:As companies like Walmart, Amazon and Sears were moving to discontinue sales of products tied to the Confederate battle flag, sales of them were soaring.
+abstract:Some of largest retailers in American have decided to stop selling merchandise featuring Confederate battle flag in wake of Charleston, SC, church massacre, including Walmart, Sears/Kmart, eBay and Amazon.
+blog:null

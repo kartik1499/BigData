@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Hormel Foods Issues Limited U.S. Recall of Skippy Peanut Butter, print_headline:Hormel Foods Issues Limited U.S. Recall of Skippy Peanut Butter}
+news_desk:None
+pub_date:2015-10-29
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/29/us/29reuters-hormel-recall.html
+snippet:Hormel Foods Corp said on Thursday that it was voluntarily recalling a limited number of jars of its Skippy peanut butter in seven U.S. states because they might contain small pieces of metal shavings.
+lead_paragraph:Hormel Foods Corp said on Thursday that it was voluntarily recalling a limited number of jars of its Skippy peanut butter in seven U.S. states because they might contain small pieces of metal shavings.
+abstract:null
+blog:null

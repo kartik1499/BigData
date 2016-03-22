@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A Friendly Office Debate Over Wages, print_headline:null}
+news_desk:Upshot
+pub_date:2015-02-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/21/upshot/a-friendly-office-debate-over-wages.html
+snippet:Will wages rise at a healthy clip in 2015? Two Upshot writers have different instincts — and one of those is starting to look better than the other.
+lead_paragraph:Will wages rise at a healthy clip in 2015? Two Upshot writers have different instincts — and one of those is starting to look better than the other.
+abstract:null
+blog:null

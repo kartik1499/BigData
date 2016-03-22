@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Power and Paychecks, print_headline:Power and Paychecks}
+news_desk:Editorial
+pub_date:2015-04-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/03/opinion/paul-krugman-power-and-paychecks.html
+snippet:Maybe it&#8217;s not that hard to give American workers a raise, after all.
+lead_paragraph:Maybe it&#8217;s not that hard to give American workers a raise, after all.
+abstract:Paul Krugman Op-Ed column submits wage increase announced by McDonald's may be indicator of positive change in United States labor relations; says move supports argument that raising wages is possible without negative economic fallout; disputes conventional argument that globalization and technology make wage raises impossible and argues doing so is likely to strengthen economy overall.
+blog:null

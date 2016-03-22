@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Layoffs at Food Start-Up Hampton Creek, print_headline:Hampton Creek Slashes Staff}
+news_desk:Business
+pub_date:2015-03-16
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/03/16/layoffs-at-food-start-up-hampton-creek/
+snippet:While layoffs at start-ups are not uncommon, it’s unusual for them to occur so soon after their coffers have been replenished with cash.
+lead_paragraph:null
+abstract:While layoffs at start-ups are not uncommon, it’s unusual for them to occur so soon after their coffers have been replenished with cash.
+blog:null

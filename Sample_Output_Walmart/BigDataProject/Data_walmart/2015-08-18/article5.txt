@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Many Black Lawyers Navigate a Rocky, Lonely Road to Partner, print_headline:A Long and Arduous Path to Partnership for Black Lawyers}
+news_desk:Business
+pub_date:2015-08-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/18/business/dealbook/many-black-lawyers-navigate-a-rocky-lonely-road-to-partner.html
+snippet:Only a relative handful of African-American lawyers persevere on the years-long path to joining a law firm’s lucrative leadership circle.
+lead_paragraph:Only a relative handful of African-American lawyers persevere on the years-long path to joining a law firm’s lucrative leadership circle.
+abstract:National Assoc for Law Placement study finds less than 2 percent of law firm partners in 2014 were African-American; report confirms observations of many in industry, who say it is not dearth of qualified black lawyers, but poor support for minority candidates that limits move from associate to partner.
+blog:null

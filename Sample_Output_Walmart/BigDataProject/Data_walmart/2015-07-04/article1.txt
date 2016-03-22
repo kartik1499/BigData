@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Farm Labor Groups Make Progress on Wages and Working Conditions, print_headline:Protests and Progress on Farmworker Wages }
+news_desk:Business
+pub_date:2015-07-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/04/business/economy/farm-labor-groups-make-progress-on-wages-and-working-conditions.html
+snippet:Innovative movements to improve what farm laborers earn, how they work and where they live are starting to have success across the country, despite numerous obstacles.
+lead_paragraph:Innovative movements to improve what farm laborers earn, how they work and where they live are starting to have success across the country, despite numerous obstacles.
+abstract:Innovative movements to improve wages and working conditions for nation's two million farmworkers are starting to be successful, in spite of many obstacles; experts say much remains to be done; median wage for farm laborers is $9.17 an hour.
+blog:null

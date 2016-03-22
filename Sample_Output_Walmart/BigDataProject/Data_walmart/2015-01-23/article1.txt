@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Recalls This Week: Cleaners, Fitness Machines, print_headline:Recalls This Week: Cleaners, Fitness Machines}
+news_desk:None
+pub_date:2015-01-23
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/23/business/ap-us-recalls-this-week.html
+snippet:Cleaning products that may contain ammonia are being recalled because they are mislabeled and may pose a chemical hazard. Other recalled products include potentially defective fitness equipment and hunter's tree stands.
+lead_paragraph:Cleaning products that may contain ammonia are being recalled because they are mislabeled and may pose a chemical hazard. Other recalled products include potentially defective fitness equipment and hunter's tree stands.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Flag Supporters React With a Mix of Compromise, Caution and Outright Defiance, print_headline:Flag Supporters React With a Mix of Compromise, Caution and Outright Defiance }
+news_desk:National
+pub_date:2015-06-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/24/us/politics/supporters-of-confederate-battle-flag-watch-as-symbol-is-stripped-from-public-eye.html
+snippet:Arguments from Confederate sympathizers that killings in a Charleston church had nothing to do with their symbols have had little effect on Southern politicians.
+lead_paragraph:Arguments from Confederate sympathizers that killings in a Charleston church had nothing to do with their symbols have had little effect on Southern politicians.
+abstract:Confederate sympathizers are reacting in varied ways to wave of politicians calling for elimination of symbols like Confederate battle flag from state property after massacre of nine black people in church in Charleston, SC; some are expressing open defiance, others deny influence symbols had on alleged murderer Dylan Roof, while still others say pace of change is simply too fast.
+blog:null

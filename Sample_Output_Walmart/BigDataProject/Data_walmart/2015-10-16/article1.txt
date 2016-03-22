@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Struggling to Cash Out in the I.P.O. Market, print_headline:null}
+news_desk:Business
+pub_date:2015-10-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/16/business/dealbook/struggling-to-cash-out-in-the-ipo-market.html
+snippet:Choppy markets around the world have frightened investors into becoming more risk-averse, and late arrivals to market are facing greater scrutiny.
+lead_paragraph:Choppy markets around the world have frightened investors into becoming more risk-averse, and late arrivals to market are facing greater scrutiny.
+abstract:null
+blog:null

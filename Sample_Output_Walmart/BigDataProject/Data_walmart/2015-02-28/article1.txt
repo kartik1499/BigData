@@ -1,0 +1,10 @@
+document_type:article
+headline: { main: Remove Unfair Barriers to Employment , print_headline:Remove Unfair Barriers to Employment}
+news_desk:Editorial
+pub_date:2015-02-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/28/opinion/remove-unfair-barriers-to-employment.html
+snippet:Federal action is needed to ensure that people with criminal convictions are not walled off from the job market.
+lead_paragraph:Federal action is needed to ensure that people with criminal convictions are not walled off from the job market.
+abstract:Editorial asserts that federal action is needed to ensure that people with past criminal convictions are given fair shot at gaining employment; applauds Obama administration for reaffirming law barring employers from automatically rejecting job applicants based on past convictions; notes further sensible recommendations have been put forth by the National Employment Law Project.
+blog:null

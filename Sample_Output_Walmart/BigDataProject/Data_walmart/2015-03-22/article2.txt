@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘The Age of Acquiescence,’ by Steve Fraser, print_headline:Greed Is Good, for Some}
+news_desk:BookReview
+pub_date:2015-03-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/22/books/review/the-age-of-acquiescence-by-steve-fraser.html
+snippet:Unlike their 19th-century counterparts, today’s superrich face little organized opposition.
+lead_paragraph:Unlike their 19th-century counterparts, today’s superrich face little organized opposition.
+abstract:Naomi Klein reviews book The Age of Acquiescence: The Life and Death of American Resistance to Organized Wealth and Power by Steve Fraser.
+blog:null

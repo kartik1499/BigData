@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Exclusive: Wal-Mart Seeks to Test Drones for Home Delivery, Pickup, print_headline:Exclusive: Wal-Mart Seeks to Test Drones for Home Delivery, Pickup}
+news_desk:None
+pub_date:2015-10-26
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/26/business/26reuters-wal-mart-stores-drones-exclusive.html
+snippet:Wal-Mart Stores Inc applied Monday to U.S. regulators for permission to test drones for home delivery, curbside pickup and checking warehouse inventories, a sign it plans to go head-to-head with Amazon in using drones to fill and deliver online...
+lead_paragraph:Wal-Mart Stores Inc applied Monday to U.S. regulators for permission to test drones for home delivery, curbside pickup and checking warehouse inventories, a sign it plans to go head-to-head with Amazon in using drones to fill and deliver online orders.  
+abstract:null
+blog:null

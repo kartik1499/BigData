@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Board Elects New Chairman, print_headline:null}
+news_desk:Business
+pub_date:2015-06-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/06/business/walmart-annual-shareholder-meeting.html
+snippet:Greg Penner will replace Rob Walton, who has been chairman for 23 years. Mr. Penner’s earlier roles have included senior vice president for finance.
+lead_paragraph:Greg Penner will replace Rob Walton, who has been chairman for 23 years. Mr. Penner’s earlier roles have included senior vice president for finance.
+abstract:null
+blog:null

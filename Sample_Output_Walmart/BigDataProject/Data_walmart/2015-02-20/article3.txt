@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Raising Wage to at Least $9, print_headline:Walmart Lifts Its Wage Floor to $9 an Hour}
+news_desk:Business
+pub_date:2015-02-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/20/business/walmart-raising-wage-to-at-least-9-dollars.html
+snippet:Facing a tighter job market, employee turnover and scrutiny of its labor practices, the retailer plans to increase pay for a half-million workers.
+lead_paragraph:Facing a tighter job market, employee turnover and scrutiny of its labor practices, the retailer plans to increase pay for a half-million workers.
+abstract:Walmart says it will raise wages for half-million of its employees to minimum of $9 per hour by April and at least $10 by February 2016; changes come as company faces scrutiny for its labor practices, and as much-improved job market has made it difficult for them to maintain high rate of employee turnover; labor advocates say increase is insufficient.
+blog:null

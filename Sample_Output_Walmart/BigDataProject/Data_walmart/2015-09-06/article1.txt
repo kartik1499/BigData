@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘$2.00 a Day,’ by Kathryn J. Edin and H. Luke Shaefer, print_headline:Cashless Society}
+news_desk:BookReview
+pub_date:2015-09-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/06/books/review/2-00-a-day-by-kathryn-j-edin-and-h-luke-shaefer.html
+snippet:A look at the rise of extreme poverty and how families survive in its grip.
+lead_paragraph:A look at the rise of extreme poverty and how families survive in its grip.
+abstract:William Julius Wilson reviews book $2.00 a Day: Living on Almost Nothing in America by Kathryn J Edin and H Luke Shaefer. 
+blog:null

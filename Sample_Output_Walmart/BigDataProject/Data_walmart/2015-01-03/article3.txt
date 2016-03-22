@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Governors' Inaugural Celebration Plans, by State, print_headline:Governors' Inaugural Celebration Plans, by State}
+news_desk:None
+pub_date:2015-01-03
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/03/us/ap-us-governors-inaugurals-states.html
+snippet:Inaugural plans and how they will be funded in the states swearing in new and re-elected governors, and for the new mayor of the District of Columbia.
+lead_paragraph:Inaugural plans and how they will be funded in the states swearing in new and re-elected governors, and for the new mayor of the District of Columbia.
+abstract:null
+blog:null

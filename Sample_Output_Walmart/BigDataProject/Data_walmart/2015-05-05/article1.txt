@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gunman in Texas Shooting Was F.B.I. Suspect in Jihad Inquiry, print_headline:Gunman in Texas Was F.B.I. Suspect in Jihad Inquiry}
+news_desk:National
+pub_date:2015-05-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/05/us/garland-texas-shooting-muhammad-cartoons.html
+snippet:One of the two men who were killed after they opened fire at a gathering in Garland, Tex., was charged with plotting “violent jihad” in Somalia.
+lead_paragraph:One of the two men who were killed after they opened fire at a gathering in Garland, Tex., was charged with plotting “violent jihad” in Somalia.
+abstract:Elton Simpson, one of two men who attacked Garland, Tex, art exhibit featuring cartoon drawings of prophet Muhammad, had previously been identified by FBI as jihadist terrorism suspect; Simpson and second attacker Nadir Hamid Soofi, who were only casualties of shooting, embodied contradictions of radical Islam and American life, participating in Western society while criticizing it.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:How Much Is a C.E.O. Worth? America’s Confused Approach to Pay, print_headline:America’s Confused Approach to C.E.O. Pay}
+news_desk:Business
+pub_date:2015-08-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/06/upshot/how-much-is-a-ceo-worth-americas-confused-approach-to-pay.html
+snippet:Various theories explain why executive pay has increased so much, but a fundamental question is: Is it rational?
+lead_paragraph:Various theories explain why executive pay has increased so much, but a fundamental question is: Is it rational?
+abstract:The Upshot; reaction to Securities and Exchange Commission's approval of new rule requiring disclosure of executive pay for chief executives of publicly traded companies relative to their median workers is mixed; analysis of the most significant policy initiative on executive pay of the Obama administration reveals some of confusion in America over how, or whether, to regulate executive pay. 
+blog:null

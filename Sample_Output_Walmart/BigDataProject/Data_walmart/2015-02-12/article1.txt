@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Chains Pull Dietary Aids Off Shelves After Inquiry, print_headline:Stores Told to Defend Supplement Assertions}
+news_desk:Science
+pub_date:2015-02-12
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/02/12/chains-pull-dietary-aids-off-shelves-after-inquiry/
+snippet:The New York attorney general had issued subpoenas to Target, Walgreens, GNC and Walmart over claims made on their packaging of dietary supplements.
+lead_paragraph:null
+abstract:The New York attorney general had issued subpoenas to Target, Walgreens, GNC and Walmart over claims made on their packaging of dietary supplements.
+blog:null

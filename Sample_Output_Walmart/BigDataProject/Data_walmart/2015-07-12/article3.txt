@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:How CVS Quit Smoking and Grew Into a Health Care Giant, print_headline:Why CVS Quit Smoking}
+news_desk:SundayBusiness
+pub_date:2015-07-12
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/12/business/how-cvs-quit-smoking-and-grew-into-a-health-care-giant.html
+snippet:The pharmacy retailer that stopped selling cigarettes last year is also expanding its in-store clinics, a business well suited to the quickly evolving health care landscape.
+lead_paragraph:The pharmacy retailer that stopped selling cigarettes last year is also expanding its in-store clinics, a business well suited to the quickly evolving health care landscape.
+abstract:CVS' strong antismoking stance, which includes 2014 decision to stop selling cigarettes, is part of company's larger goal to transform itself from drugstore into major health care company, and abandoning tobacco allowed it to rebrand itself and make alliances with other health care providers; effort also reflects idea that there will be more profit in health and wellness than tobacco, but raises questions about other possibly unhealthy products CVS stocks on its drugstores' shelves.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Accused of Using Charity to Sway Cities Where It Wants to Expand, print_headline:Walmart Accused of Using Charity to Sway Expansion Targets}
+news_desk:Business
+pub_date:2015-06-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/16/business/walmart-accused-of-using-charity-to-sway-expansion-targets.html
+snippet:The Walmart Foundation&#8217;s charitable contributions rose steadily in some cities as Walmart tried to curry support and win access to those markets, the complaint said.
+lead_paragraph:The Walmart Foundation&#8217;s charitable contributions rose steadily in some cities as Walmart tried to curry support and win access to those markets, the complaint said.
+abstract:Group of community and labor organizations files complaint with Internal Revenue Service accusing nonprofit Walmart Foundation of using millions of dollars to directly benefit Walmart by combating local opposition to retailer's expansion efforts.
+blog:null

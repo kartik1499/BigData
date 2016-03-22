@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Protesters Clash Over Confederate Flag at Phoenix Walmart, print_headline:Protesters Clash Over Confederate Flag at Phoenix Walmart}
+news_desk:None
+pub_date:2015-07-06
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/07/06/us/ap-us-confederate-flag-protest.html
+snippet:Things got noisy outside a west Phoenix Walmart after the company's decision to remove Confederate flag merchandise attracted scores of protesters and counter-protesters.
+lead_paragraph:Things got noisy outside a west Phoenix Walmart after the company's decision to remove Confederate flag merchandise attracted scores of protesters and counter-protesters.
+abstract:null
+blog:null

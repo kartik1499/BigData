@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:GNC to Strengthen Supplement Quality Controls, print_headline:Retailer Adds Stricter Testing of Dietary Pills}
+news_desk:Science
+pub_date:2015-03-30
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/03/30/gnc-to-strengthen-supplement-quality-controls/
+snippet:The action comes after the New York State attorney general’s office accused GNC and three other major retailers of selling herbal supplements that were fraudulent or contaminated with unlisted ingredients.
+lead_paragraph:null
+abstract:The action comes after the New York State attorney general’s office accused GNC and three other major retailers of selling herbal supplements that were fraudulent or contaminated with unlisted ingredients.
+blog:null

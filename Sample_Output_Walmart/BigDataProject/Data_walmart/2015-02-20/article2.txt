@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Jeb Bush Turns to Walmart Executive to Help Build Team, print_headline:null}
+news_desk:null
+pub_date:2015-02-20
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/02/20/jeb-bush-turns-to-wal-mart-executive-to-help-build-policy-team/
+snippet:As Jeb Bush recruits a fast-growing team of policy advisers for his presidential campaign in waiting, he is turning to a former chief executive at Wal-Mart, the country’s largest private employer, to help him pull it together.
+lead_paragraph:null
+abstract:As Jeb Bush recruits a fast-growing team of policy advisers for his presidential campaign in waiting, he is turning to a former chief executive at Wal-Mart, the country’s largest private employer, to help him pull it together.
+blog:null

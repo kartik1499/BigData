@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:States’ Minimum Wages Rise, Helping Millions of Workers, print_headline:Hourly Wage Is Going Up for Millions}
+news_desk:Business
+pub_date:2015-01-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/01/business/hourly-minimum-wage-is-going-up-for-millions.html
+snippet:Minimum wage increases go into effect in 20 states and the District of Columbia by Jan. 1, and, all told, 29 states will exceed the federal minimum of $7.25 an hour at the beginning of January.
+lead_paragraph:Minimum wage increases go into effect in 20 states and the District of Columbia by Jan. 1, and, all told, 29 states will exceed the federal minimum of $7.25 an hour at the beginning of January.
+abstract:Minimum wage increases are set to take effect in 20 states, pushing number of states that exceed $7.25 federal minimum to 29; changes will affect some 60 percent of nation's work force, though difference will only be marginal in several states; battle to increase minimum wage has grown more intense amid rising income inequality, prompting Pres Obama to propose a new federal standard of $10.10 per hour.
+blog:null

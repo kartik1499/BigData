@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Stupid Pills, print_headline:null}
+news_desk:Editorial
+pub_date:2015-02-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/06/opinion/the-politics-of-fraudulent-dietary-supplements.html
+snippet:Some of the country’s largest retailers, counting on the stupidity of consumers, are selling dietary-supplement junk, a step removed from sawdust.
+lead_paragraph:Some of the country’s largest retailers, counting on the stupidity of consumers, are selling dietary-supplement junk, a step removed from sawdust.
+abstract:null
+blog:null

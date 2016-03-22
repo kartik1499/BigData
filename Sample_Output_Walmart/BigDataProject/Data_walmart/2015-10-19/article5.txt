@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Tracy Morgan Returns and Larry David Is Bernie Sanders on ‘Saturday Night Live’, print_headline:Homecomings, Sentimental and Sensational}
+news_desk:Culture
+pub_date:2015-10-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/18/arts/television/tracy-morgan-returns-and-larry-david-is-bernie-sanders-on-saturday-night-live.html
+snippet:Mr. Morgan’s appearance on the show was his first extensive television performance since he was critically injured in the spring of 2014.
+lead_paragraph:Mr. Morgan’s appearance on the show was his first extensive television performance since he was critically injured in the spring of 2014.
+abstract:Comedian Tracy Morgan hosts Saturday Night Live in first extensive television appearance since near-fatal 2014 auto accident; appears in several sketches, including one that reunites him with former co-stars from NBC series 30 Rock.
+blog:null

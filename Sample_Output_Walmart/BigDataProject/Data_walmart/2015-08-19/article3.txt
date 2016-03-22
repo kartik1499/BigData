@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Depiction of Amazon Stirs a Debate About Work Culture, print_headline:null}
+news_desk:Business
+pub_date:2015-08-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/19/technology/amazon-workplace-reactions-comments.html
+snippet:Details of working conditions at Amazon led to a response from employees, relatives and friends.
+lead_paragraph:Details of working conditions at Amazon led to a response from employees, relatives and friends.
+abstract:null
+blog:null

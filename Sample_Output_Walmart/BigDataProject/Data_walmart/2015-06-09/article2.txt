@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Airline Group Suggests Smaller Carry-On Bags to Free Up Bins, print_headline:Airline Group Suggests Smaller Carry-On Bags to Free Up Bins}
+news_desk:None
+pub_date:2015-06-09
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/09/us/ap-us-shrinking-carry-on-bags.html
+snippet:Millions of fliers might soon want to buy new carry-on suitcases.
+lead_paragraph:Millions of fliers might soon want to buy new carry-on suitcases.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Accused Arizona Highway Shooter Pleads Not Guilty, print_headline:Accused Arizona Highway Shooter Pleads Not Guilty}
+news_desk:None
+pub_date:2015-10-01
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/01/us/01reuters-usa-arizona-shooting.html
+snippet:A man charged with carrying out several recent shootings along a major highway in Arizona pleaded not guilty on Thursday to 15 felonies including drive-by shooting and aggravated assault, a court spokesman said.
+lead_paragraph:A man charged with carrying out several recent shootings along a major highway in Arizona pleaded not guilty on Thursday to 15 felonies including drive-by shooting and aggravated assault, a court spokesman said.
+abstract:null
+blog:null

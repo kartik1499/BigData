@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Ruining Lives With Criminal ‘Justice’, print_headline:Ruining Lives With ‘Justice’}
+news_desk:OpEd
+pub_date:2015-07-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/30/opinion/ruining-lives-with-criminal-justice.html
+snippet:I made a mistake when I was 17, and was lucky to get a second chance. I’m a Republican, but I agree with President Obama on the need for reform.
+lead_paragraph:I made a mistake when I was 17, and was lucky to get a second chance. I’m a Republican, but I agree with President Obama on the need for reform.
+abstract:Op-Ed article by Republican businessman Doug Deason expresses solidarity with Pres Obama against inequalities of criminal justice system; admits that he was given opportunity to settle felony burglary charge when he was a teenager, opportunity that is denied to many poor and minority young people; discusses his work forwarding bipartisan 'second chances' bill in Texas State Legislature and other ways to improve incarceration crisis.
+blog:null

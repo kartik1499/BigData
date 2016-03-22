@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Fewer Top Graduates Want to Join Teach for America, print_headline:Fewer Top Graduates Want to Join Corps of Temporary Teachers}
+news_desk:National
+pub_date:2015-02-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/06/education/fewer-top-graduates-want-to-join-teach-for-america.html
+snippet:The group has warned school districts and charter school chains that the size of its corps of teachers this fall could be down by as much as a quarter.
+lead_paragraph:The group has warned school districts and charter school chains that the size of its corps of teachers this fall could be down by as much as a quarter.
+abstract:Number of college graduates applying to Teach for America program has fallen for second year in a row, with applications down by 10 percent compared to same period in 2014; organization points to rebounding economy with more job offers for graduates as one reason for decline; critics say program's short training time, ties to education standards movement and political connections may be driving applicants away.
+blog:null

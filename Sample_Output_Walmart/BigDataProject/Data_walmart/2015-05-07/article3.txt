@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Conspiracy Theories Over Jade Helm Training Exercise Get Some Traction in Texas, print_headline:Military Exercise Stirs Conspiracy Theorists}
+news_desk:National
+pub_date:2015-05-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/07/us/conspiracy-theories-over-jade-helm-get-some-traction-in-texas.html
+snippet:When the governor told the Texas State Guard to watch the military exercise, it raised a question: To what degree has extreme become mainstream in the state?
+lead_paragraph:When the governor told the Texas State Guard to watch the military exercise, it raised a question: To what degree has extreme become mainstream in the state?
+abstract:Texas Gov Greg Abbott's decision to monitor military exercise called Jade Helm 15, which right-wing commentators have warned may be front for hostile takeover of state by Obama administration, has many pointing to radicalization of state's Republican base.
+blog:null

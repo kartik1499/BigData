@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Organic Farmers Object to Whole Foods Rating System, print_headline:A Rift Spilling Out of the Organic Aisle}
+news_desk:Business
+pub_date:2015-06-13
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/13/business/organic-farmers-object-to-whole-foods-rating-system.html
+snippet:Under a new program, conventional farmers can earn higher marks than organic farmers, who have long had a close relationship with the grocery chain.
+lead_paragraph:Under a new program, conventional farmers can earn higher marks than organic farmers, who have long had a close relationship with the grocery chain.
+abstract:Whole Foods Market's new program Responsibly Grown is drawing heat from grocery chain's longtime organic suppliers, who complain program can give conventional growers higher rankings than their own organic produce; company's stock fell 14 percent in May and its gross profit margin fell below 36 percent, signalling possible damage from competition with mainstream grocery chains.
+blog:null

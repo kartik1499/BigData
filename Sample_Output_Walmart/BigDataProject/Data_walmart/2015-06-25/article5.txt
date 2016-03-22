@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Homegrown Extremists Tied to Deadlier Toll Than Jihadists in U.S. Since 9/11, print_headline:Most U.S. Attacks Are Homegrown and Not Jihadist}
+news_desk:National
+pub_date:2015-06-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/25/us/tally-of-attacks-in-us-challenges-perceptions-of-top-terror-threat.html
+snippet:A count by a research center found that non-Muslim extremists have been far more lethal than Islamic militants on American soil since Sept. 11, 2001, running counter to public perception.
+lead_paragraph:A count by a research center found that non-Muslim extremists have been far more lethal than Islamic militants on American soil since Sept. 11, 2001, running counter to public perception.
+abstract:New America research center has released report on number of terrorist attacks carried out in United States since September 11, 2001, finding that nearly twice as many people have been killed by non-Muslim extremists, like white supremacists and antigovernment militants, than by radical Muslims; survey of 382 police and sheriff's departments across country shows 74 percent of police officials listing antigovernment violence as one of biggest domestic threats.
+blog:null

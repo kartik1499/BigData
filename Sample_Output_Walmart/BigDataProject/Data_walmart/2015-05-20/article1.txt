@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Profit Slips at Walmart as Revenue Falls Flat, print_headline:Profit Slips at Walmart as Revenue Falls Flat}
+news_desk:Business
+pub_date:2015-05-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/20/business/walmart-home-depot-q1-earnings.html
+snippet:The company, the nation’s largest retailer, said an increase in its employees’ minimum wage had an effect on operating income.
+lead_paragraph:The company, the nation’s largest retailer, said an increase in its employees’ minimum wage had an effect on operating income.
+abstract:Walmart reports quarterly operating income of $5.7 billion, down 8.3 percent from year-earlier period; results, dragged down by increased wages and falling gas prices, fall short of analyst expectations.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Apple Watch Success Will Hinge on Apps , print_headline:Apple Watch Success Will Hinge on Apps}
+news_desk:Business
+pub_date:2015-03-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/10/technology/apple-watch-event.html
+snippet:Apple designed its device, which will be available for preorder on April 10, to suit the tastes of various users, from fitness buffs to collectors of luxury watches.
+lead_paragraph:Apple designed its device, which will be available for preorder on April 10, to suit the tastes of various users, from fitness buffs to collectors of luxury watches.
+abstract:Success of new Apple Watch is seen as hinging on third-party apps; watch users will need to install apps on iPhone and watch, and economics of that combination are tricky; some companies are concerned watch's tiny screen could limit features or ads.
+blog:null

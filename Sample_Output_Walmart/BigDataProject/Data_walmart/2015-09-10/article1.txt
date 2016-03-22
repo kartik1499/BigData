@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:NY Attorney General Clamps Down on Adulterated Devil's Claw, print_headline:NY Attorney General Clamps Down on Adulterated Devil's Claw}
+news_desk:None
+pub_date:2015-09-10
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/09/10/us/10reuters-devilsclawplant-ny.html
+snippet:New York Attorney General Eric Schneiderman's office has asked 13 dietary supplement makers and distributors to halt the sale of "adulterated" products that claim to be derived from the devil's claw plant.
+lead_paragraph:New York Attorney General Eric Schneiderman's office has asked 13 dietary supplement makers and distributors to halt the sale of "adulterated" products that claim to be derived from the devil's claw plant.
+abstract:null
+blog:null

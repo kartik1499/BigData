@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gay Marriage Ruling Leaves U.S. Firms Unclear on Spousal Benefits, print_headline:Gay Marriage Ruling Leaves U.S. Firms Unclear on Spousal Benefits}
+news_desk:None
+pub_date:2015-07-16
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/07/16/us/16reuters-usa-gaymarriage-companies.html
+snippet:The Supreme Court was definitive in its decision to legalize gay marriage nationwide, but what is far from clear is whether U.S. companies must offer corporate benefits to same-sex spouses.
+lead_paragraph:The Supreme Court was definitive in its decision to legalize gay marriage nationwide, but what is far from clear is whether U.S. companies must offer corporate benefits to same-sex spouses.
+abstract:null
+blog:null

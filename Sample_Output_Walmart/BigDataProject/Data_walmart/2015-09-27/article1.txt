@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Man Indicted in Arizona’s Freeway Case, print_headline:Man Indicted in Shootings on Freeway}
+news_desk:National
+pub_date:2015-09-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/27/us/man-indicted-in-arizonas-freeway-case.html
+snippet:The indictment of Leslie Allen Merritt Jr., 21, replaces a 16-count criminal complaint announced earlier in the week.
+lead_paragraph:The indictment of Leslie Allen Merritt Jr., 21, replaces a 16-count criminal complaint announced earlier in the week.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:With Subscription Snacks, Entrepreneurs Think Inside the Box, print_headline:Attack of the Snacks}
+news_desk:Business
+pub_date:2015-09-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/26/business/with-subscription-snacks-entrepreneurs-think-inside-the-box.html
+snippet:Subscription snack and food box businesses are popping up everywhere, hoping to cash in on America’s appetite for novelty, convenience and munchies.
+lead_paragraph:Subscription snack and food box businesses are popping up everywhere, hoping to cash in on America’s appetite for novelty, convenience and munchies.
+abstract:null
+blog:null

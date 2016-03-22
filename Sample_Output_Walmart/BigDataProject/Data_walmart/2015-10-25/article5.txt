@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Chelsea, a Great Wealth Divide, print_headline:The Great Wealth Divide}
+news_desk:Metro
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/25/nyregion/in-chelsea-a-great-wealth-divide.html
+snippet:In Chelsea and other neighborhoods like it, dizzying economic transformations because of an influx of wealth have affected the residents of less means in both obvious and insidious ways.
+lead_paragraph:In Chelsea and other neighborhoods like it, dizzying economic transformations because of an influx of wealth have affected the residents of less means in both obvious and insidious ways.
+abstract:null
+blog:null

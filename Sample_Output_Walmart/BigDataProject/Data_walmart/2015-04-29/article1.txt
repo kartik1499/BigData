@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart to Expand China Store Network by Nearly a Third After Growth Stalls, print_headline:Wal-Mart to Expand China Store Network by Nearly a Third After Growth Stalls}
+news_desk:None
+pub_date:2015-04-29
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/29/business/29reuters-wal-mart-stores-china.html
+snippet:Giant U.S. retailer Wal-Mart Stores Inc plans to expand its footprint in China by nearly a third by opening 115 new stores by 2017, the firm's chief executive said, in a renewed push to lure China's grocery shoppers despite slowing growth.
+lead_paragraph:Giant U.S. retailer Wal-Mart Stores Inc plans to expand its footprint in China by nearly a third by opening 115 new stores by 2017, the firm's chief executive said, in a renewed push to lure China's grocery shoppers despite slowing growth. 
+abstract:null
+blog:null

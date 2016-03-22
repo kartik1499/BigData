@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Rebuilding Lives After a Factory Collapse in Bangladesh, print_headline:null}
+news_desk:null
+pub_date:2015-04-23
+source:The New York Times
+web_url:http://lens.blogs.nytimes.com/2015/04/23/rebuilding-lives-after-a-factory-collapse-in-bangladesh/
+snippet:Abir Abdullah has been following the mostly young, female survivors of the Rana Plaza factory collapse as they rebuild their lives.
+lead_paragraph:null
+abstract:Abir Abdullah has been following the mostly young, female survivors of the Rana Plaza factory collapse as they rebuild their lives.
+blog:null

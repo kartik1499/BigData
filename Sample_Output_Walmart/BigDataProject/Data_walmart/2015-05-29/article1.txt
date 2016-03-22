@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Millennial 'NOwners' Follow Uber With New Fashion Trading Model, print_headline:Millennial 'NOwners' Follow Uber With New Fashion Trading Model}
+news_desk:None
+pub_date:2015-05-29
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/05/29/business/29reuters-usa-millennials-insight.html
+snippet:Allison Armour loves fashion, but doesn't need to keep it in her closet.
+lead_paragraph:Allison Armour loves fashion, but doesn't need to keep it in her closet.
+abstract:null
+blog:null

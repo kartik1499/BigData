@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart to Raise Starting Pay for Some Managers in U.S., print_headline:Walmart to Raise Starting Pay for Some Managers}
+news_desk:Business
+pub_date:2015-06-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/03/business/walmart-to-raise-starting-pay-for-some-managers-in-us.html
+snippet:Managers of departments more complicated to run, like electronics, will receive at least $13 an hour and as much as $24.70 an hour. The previous range was $10.30 to $20.09 an hour.
+lead_paragraph:Managers of departments more complicated to run, like electronics, will receive at least $13 an hour and as much as $24.70 an hour. The previous range was $10.30 to $20.09 an hour.
+abstract:Walmart will raise starting pay for some 100,000 of its managers to at least $13 an hour, with some receiving as much as $24.70 an hour; previous range had been $10.30 to $20.90 an hour.
+blog:null

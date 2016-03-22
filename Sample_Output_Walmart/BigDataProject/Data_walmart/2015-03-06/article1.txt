@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:States Weigh Legislation to Let Businesses Refuse to Serve Gay Couples, print_headline:States Weigh Legislation to Let Businesses Refuse to Serve Gay Couples}
+news_desk:National
+pub_date:2015-03-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/06/us/anticipating-nationwide-right-to-same-sex-marriage-states-weigh-religious-exemption-bills.html
+snippet:With conservatives anxious that the Supreme Court will legalize same-sex marriage nationwide, states are taking up bills that would allow businesses to opt out of serving gay couples.
+lead_paragraph:With conservatives anxious that the Supreme Court will legalize same-sex marriage nationwide, states are taking up bills that would allow businesses to opt out of serving gay couples.
+abstract:State legislatures across country are preparing bills that would make it easier for businesses and individuals to opt out of serving gay couples on religious grounds; push comes as conservative states brace for Supreme Court decision that could establish nationwide right to same-sex marriage.
+blog:null

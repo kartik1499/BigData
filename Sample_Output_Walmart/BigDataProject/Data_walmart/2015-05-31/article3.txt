@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Democrats Seek a Richer Roster to Match G.O.P., print_headline:Democrats Seek a Richer Roster to Rival the G.O.P.}
+news_desk:National
+pub_date:2015-05-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/31/us/politics/democrats-seek-a-richer-roster-to-match-gop-in-2016-election.html
+snippet:While Republican presidential candidates can count on a stable of billionaires, none of the top Democratic donors have committed to supporting Hillary Rodham Clinton on a similar scale.
+lead_paragraph:While Republican presidential candidates can count on a stable of billionaires, none of the top Democratic donors have committed to supporting Hillary Rodham Clinton on a similar scale.
+abstract:Democratic super PAC Priorities USA is seeking deep-pocketed donors in effort to raise $300 million for Hillary Clinton's 2016 presidential bid, far larger number than Democrats are accustomed to raising; effort is being driven by need to match hundreds of millions of dollars already given by Republican donors.
+blog:null

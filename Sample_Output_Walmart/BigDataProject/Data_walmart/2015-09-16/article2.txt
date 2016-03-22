@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Disney-ABC Names Cindy Davis and John Frelinghuysen to Senior Posts, print_headline:null}
+news_desk:Business
+pub_date:2015-09-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/16/business/media/disney-abc-names-cindy-davis-and-john-frelinghuysen-to-senior-posts.html
+snippet:Ms. Davis is a former executive at Walmart, and Mr. Frelinghuysen was an executive at AOL.
+lead_paragraph:Ms. Davis is a former executive at Walmart, and Mr. Frelinghuysen was an executive at AOL.
+abstract:null
+blog:null

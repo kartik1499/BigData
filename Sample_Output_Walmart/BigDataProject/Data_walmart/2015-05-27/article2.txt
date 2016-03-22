@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:North Dakota: Walmart Gunman Identified as Airman , print_headline:North Dakota: Walmart Gunman Identified as Airman }
+news_desk:National
+pub_date:2015-05-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/27/us/north-dakota-walmart-gunman-identified-as-airman.html
+snippet:An airman at Grand Forks Air Force Base has been identified as the gunman in a shooting at a local Walmart that left one employee dead before he turned the gun on himself.
+lead_paragraph:An airman at Grand Forks Air Force Base has been identified as the gunman in a shooting at a local Walmart that left one employee dead before he turned the gun on himself.
+abstract:North Dakota police say gunman involved in shooting at Walmart near Grand Forks Air Force Base was Airman Marcell Willis, who shot two employees and then killed himself.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Letters to the Editor, print_headline:null}
+news_desk:Science
+pub_date:2015-08-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/18/science/letters-to-the-editor.html
+snippet:Readers respond to articles in Science Times.
+lead_paragraph:Readers respond to articles in Science Times.
+abstract:null
+blog:null

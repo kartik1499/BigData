@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:You’re Not Supposed to Understand the Federal Reserve, print_headline:You’re Not Supposed to Understand the Federal Reserve}
+news_desk:Magazine
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/25/magazine/youre-not-supposed-to-understand-the-federal-reserve.html
+snippet:The United States central bank’s decision-making process is diffuse, opaque and near-impossible to influence — just as it was intended to be.
+lead_paragraph:The United States central bank’s decision-making process is diffuse, opaque and near-impossible to influence — just as it was intended to be.
+abstract:null
+blog:null

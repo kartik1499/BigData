@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Arkansas Moves to Revise Legislation as Concerns of Religion and Gay Rights Intensify, print_headline:Facing a Backlash, Arkansas Moves to Revise Legislation}
+news_desk:National
+pub_date:2015-04-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/02/us/arkansas-moves-to-revise-legislation-as-concerns-of-religion-and-gay-rights-intensify.html
+snippet:Besides asking for the bill to be recalled and amended, Gov. Asa Hutchinson of Arkansas said he was considering issuing an executive order “protecting against discrimination” within the state government.
+lead_paragraph:Besides asking for the bill to be recalled and amended, Gov. Asa Hutchinson of Arkansas said he was considering issuing an executive order “protecting against discrimination” within the state government.
+abstract:Arkansas Gov Asa Hutchinson, facing backlash from businesses and gay rights advocates, urges state legislators to recall and revise religious freedom bill that would allow organizations and businesses to ignore federal mandates allowing same-sex marriage; Hutchinson says he is considering executive order 'protecting against discrimination' within state government.
+blog:null

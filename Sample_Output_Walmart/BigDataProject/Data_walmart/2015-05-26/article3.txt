@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Doctoring, Without the Doctor, print_headline:Doctoring, Without the Doctor}
+news_desk:Science
+pub_date:2015-05-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/26/health/rural-nebraska-offers-stark-view-of-nursing-autonomy-debate.html
+snippet:States with a shortage of doctors are giving nurse practitioners greater responsibilities and autonomy.
+lead_paragraph:States with a shortage of doctors are giving nurse practitioners greater responsibilities and autonomy.
+abstract:Some states where doctors are in short supply are passing laws allowing nurse practitioners to practice without a doctor's oversight; laws have been particularly welcome in rural states that struggle to bring doctors to remote areas.
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Paula Hayes Reimagines a Victorian Totem in Madison Square Park, print_headline:null}
+news_desk:TStyle
+pub_date:2015-02-18
+source:The New York Times
+web_url:http://tmagazine.blogs.nytimes.com/2015/02/18/madison-square-park-outdoor-art-globes-paula-hayes/
+snippet:The artist’s 18 “gazing globes,” with little landscapes inside, are one of two projects she is launching this week.
+lead_paragraph:null
+abstract:The artist’s 18 “gazing globes,” with little landscapes inside, are one of two projects she is launching this week.
+blog:null

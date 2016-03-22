@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:What We&#8217;re Reading Now, print_headline:null}
+news_desk:OpEd
+pub_date:2015-04-22
+source:The New York Times
+web_url:http://bittman.blogs.nytimes.com/2015/04/22/what-were-reading-now-29/
+snippet:Food news from Mexico to Denmark.
+lead_paragraph:null
+abstract:Food news from Mexico to Denmark.
+blog:null

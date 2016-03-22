@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Alamo and Walmart, print_headline:The Alamo and Walmart}
+news_desk:Editorial
+pub_date:2015-05-09
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/09/opinion/gail-collins-the-alamo-and-walmart.html
+snippet:There&#8217;s a whole new way to mess with Texas.
+lead_paragraph:There&#8217;s a whole new way to mess with Texas.
+abstract:Gail Collins Op-Ed column submits that Utah, while heavily Republican and pro-gun, is far less concerned than Texas about military exercise known as Jade Helm 15 scheduled to be carried out in Southwest; notes Texas leaders and residents claim exercise is cover for government plot to take over area and confiscate residents' guns; says small percentage of both American public and leadership have always been crazy, but in contemporary political climate Texas' saner conservatives are loath to disagree with them.
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Q. and A.: Nicholas R. Lardy on Markets and the State in China, print_headline:null}
+news_desk:Foreign
+pub_date:2015-05-15
+source:The New York Times
+web_url:http://sinosphere.blogs.nytimes.com/2015/05/15/q-and-a-nicholas-r-lardy-on-markets-and-the-state-in-china/
+snippet:The economist argues that China’s economic boom has been fueled by private enterprise and policies that have allowed the market to play a greater role.
+lead_paragraph:null
+abstract:The economist argues that China’s economic boom has been fueled by private enterprise and policies that have allowed the market to play a greater role.
+blog:null

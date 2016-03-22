@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Costco, Sam's Club, Others Halt Photo Sites Over Possible Breach, print_headline:Costco, Sam's Club, Others Halt Photo Sites Over Possible Breach}
+news_desk:None
+pub_date:2015-07-20
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/07/20/business/20reuters-cyberattack-retail.html
+snippet:Costco Wholesale Corp, Sam's Club and a handful of other large retailers have disabled their online photo printing stores in recent days, on concerns about a possible data breach at PNI Digital Media, which manages and/or hosts photo services sites.
+lead_paragraph:Costco Wholesale Corp, Sam's Club and a handful of other large retailers have disabled their online photo printing stores in recent days, on concerns about a possible data breach at PNI Digital Media, which manages and/or hosts photo services sites.
+abstract:null
+blog:null

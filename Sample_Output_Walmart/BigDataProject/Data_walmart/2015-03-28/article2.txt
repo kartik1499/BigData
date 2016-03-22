@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Cedar Lake Ballet’s Closing Reveals the Perils of Relying on a Single Donor, print_headline:One Patron Isn’t Enough to Sustain a Troupe}
+news_desk:Culture
+pub_date:2015-03-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/28/arts/dance/cedar-lake-ballet-to-close-in-june.html
+snippet:With a wealthy patron, the company had been the envy of many in New York’s dance world. Then its benefactor had a change of heart.
+lead_paragraph:With a wealthy patron, the company had been the envy of many in New York’s dance world. Then its benefactor had a change of heart.
+abstract:Wallmart heiress Nancy Laurie will close Cedar Lake Contemporary Ballet, company she founded and for which she has always been sole patron.
+blog:null

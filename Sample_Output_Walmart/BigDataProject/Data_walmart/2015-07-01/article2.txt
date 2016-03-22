@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Sunny Side of Greed, print_headline:The Sunny Side of Greed}
+news_desk:OpEd
+pub_date:2015-07-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/01/opinion/frank-bruni-the-good-among-the-greed.html
+snippet:Corporations as soulless and evil? Not on the Confederate flag, same-sex marriage and a host of other recent issues.
+lead_paragraph:Corporations as soulless and evil? Not on the Confederate flag, same-sex marriage and a host of other recent issues.
+abstract:Frank Bruni Op-Ed column argues corporations are in many cases proving to be more effective leaders of social change in America than government; points to corporations' strong opposition to 'religious freedom' laws, support for immigration reform and removal of Confederate flag from government buildings; holds corporations must respond to broad, inclusive customer base, while government is often beholden to a few private interests.
+blog:null

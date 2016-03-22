@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Notes on Walmart and Wages (Wonkish), print_headline:null}
+news_desk:null
+pub_date:2015-06-10
+source:The New York Times
+web_url:http://krugman.blogs.nytimes.com/2015/06/10/notes-on-walmart-and-wages-wonkish/
+snippet:The invisible hand’s surprisingly loose grip.
+lead_paragraph:null
+abstract:The invisible hand’s surprisingly loose grip.
+blog:null

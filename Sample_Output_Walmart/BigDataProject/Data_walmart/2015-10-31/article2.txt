@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Payoffs Beyond the Emotional From Your Team’s Postseason Run, print_headline:Payoffs Beyond the Emotional From Your Team&#8217;s World Series Run}
+news_desk:Business
+pub_date:2015-10-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/31/business/payoffs-beyond-the-emotional-from-your-teams-postseason-run.html
+snippet:Professional sports franchises often enjoy a financial halo effect after making it to the postseason. If only fans could get in on that action.
+lead_paragraph:Professional sports franchises often enjoy a financial halo effect after making it to the postseason. If only fans could get in on that action.
+abstract:null
+blog:null

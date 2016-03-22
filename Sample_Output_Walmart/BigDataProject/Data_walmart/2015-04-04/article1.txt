@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Parties Trade Places in Culture Wars Over Rights Measures, print_headline:Parties Trade Places in Culture Wars in Skirmish Over Religious Rights}
+news_desk:National
+pub_date:2015-04-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/04/us/politics/parties-trade-places-in-culture-wars-over-rights-measures.html
+snippet:After years of enduring Republican attacks on social issues, the Democrats have the upper hand for a change.
+lead_paragraph:After years of enduring Republican attacks on social issues, the Democrats have the upper hand for a change.
+abstract:Political Memo; tumult in Indiana and Arkansas over religious freedom legislature underscores revival of culture wars, as well as expectations and pressures among Democrats and Republicans; parties have traded places on battles over social issues, with Democrats united in opposition and Republicans riven by dissent.
+blog:null

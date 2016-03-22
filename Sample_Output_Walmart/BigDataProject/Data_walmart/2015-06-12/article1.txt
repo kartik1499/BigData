@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Theater Shooting Jurors See Grisly Crime Scene Video, print_headline:Theater Shooting Jurors See Grisly Crime Scene Video}
+news_desk:None
+pub_date:2015-06-12
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/12/us/ap-us-colorado-shooting.html
+snippet:Jurors in the Colorado theater shooting trial took a virtual tour of the auditorium where 12 people were shot to death, moving past bodies wedged between rows of seats or sprawled throughout aisles amid spent ammunition, spilled popcorn and blood.
+lead_paragraph:Jurors in the Colorado theater shooting trial took a virtual tour of the auditorium where 12 people were shot to death, moving past bodies wedged between rows of seats or sprawled throughout aisles amid spent ammunition, spilled popcorn and blood.
+abstract:null
+blog:null

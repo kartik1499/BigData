@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A Penny for Your Books, print_headline:null}
+news_desk:Magazine
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/25/magazine/a-penny-for-your-books.html
+snippet:In recent years, low-cost booksellers have proliferated on the web. But how does a company that’ll sell you a book for a penny make a profit?
+lead_paragraph:In recent years, low-cost booksellers have proliferated on the web. But how does a company that’ll sell you a book for a penny make a profit?
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A&amp;P Files for Bankruptcy and Aims to Sell 120 Stores, print_headline:A&amp;P Files for Bankruptcy and Aims to Sell 120 Stores}
+news_desk:Business
+pub_date:2015-07-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/21/business/ap-files-for-bankruptcy-and-aims-to-sell-120-stores.html
+snippet:The former titan of the industry said that a restructuring in 2010 had failed to put it on secure enough financial footing to keep up with a shifting grocery landscape.
+lead_paragraph:The former titan of the industry said that a restructuring in 2010 had failed to put it on secure enough financial footing to keep up with a shifting grocery landscape.
+abstract:A&P files for bankruptcy protection and plans to try and sell 120 stores; it is second time in five years company, which owns number of food retailers in New York, New Jersey and Pennsylvania, has filed for bankruptcy; collective bargaining agreements as well as employee pensions have so far proved obstacle in selling stores.
+blog:null

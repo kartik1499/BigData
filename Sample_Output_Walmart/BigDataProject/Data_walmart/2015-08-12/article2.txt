@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Germany's Henkel Reports 14 Percent Rise in Quarter Two Sales, print_headline:Germany's Henkel Reports 14 Percent Rise in Quarter Two Sales}
+news_desk:None
+pub_date:2015-08-12
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/12/business/12reuters-henkel-kgaa-results.html
+snippet:German consumer goods group Henkel reported a 14 percent increase in second-quarter sales and core profit, helped by solid demand for its detergents and adhesives in emerging markets and currency effects.
+lead_paragraph:German consumer goods group Henkel reported a 14 percent increase in second-quarter sales and core profit, helped by solid demand for its detergents and adhesives in emerging markets and currency effects.
+abstract:null
+blog:null

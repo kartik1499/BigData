@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Why Amazon May Take a Page From Walmart’s Labor Playbook, print_headline:null}
+news_desk:Business
+pub_date:2015-08-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/18/business/dealbook/why-amazon-may-take-a-page-from-walmarts-labor-playbook.html
+snippet:The perception of Amazon as a difficult place to work could force the online retailer to initiate reforms, as Walmart has done with its own billion-dollar program.
+lead_paragraph:The perception of Amazon as a difficult place to work could force the online retailer to initiate reforms, as Walmart has done with its own billion-dollar program.
+abstract:null
+blog:null

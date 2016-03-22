@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Man Arrested in Deaths of TV Cooking Show Finalist, Husband, print_headline:Man Arrested in Deaths of TV Cooking Show Finalist, Husband}
+news_desk:None
+pub_date:2015-03-18
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/18/us/ap-us-cooking-show-contestant-killed.html
+snippet:Authorities have charged a North Carolina man with first-degree murder in the deaths of a former contestant from the TV show "Food Network Star," her husband and their unborn child.
+lead_paragraph:Authorities have charged a North Carolina man with first-degree murder in the deaths of a former contestant from the TV show "Food Network Star," her husband and their unborn child.
+abstract:null
+blog:null

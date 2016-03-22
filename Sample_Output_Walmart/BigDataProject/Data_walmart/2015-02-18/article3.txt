@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:In Defense of Islam, print_headline:null}
+news_desk:OpEd
+pub_date:2015-02-18
+source:The New York Times
+web_url:http://douthat.blogs.nytimes.com/2015/02/18/in-defense-of-islam/
+snippet:Islamic fundamentalism is Islamic, but a traditional Islam need not be fundamentalist.
+lead_paragraph:null
+abstract:Islamic fundamentalism is Islamic, but a traditional Islam need not be fundamentalist.
+blog:null

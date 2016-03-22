@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:China&#8217;s Other E-Commerce Giant Follows Its Own Path, print_headline:China’s Other E-Commerce Giant Follows Its Own Path}
+news_desk:Business
+pub_date:2015-01-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/27/business/international/jdcom-chinas-other-e-commerce-giant-follows-its-own-path.html
+snippet:Long overshadowed by its rival Alibaba, JD is basing its business on logistics and a promise to cater to shoppers from click to package delivery.
+lead_paragraph:Long overshadowed by its rival Alibaba, JD is basing its business on logistics and a promise to cater to shoppers from click to package delivery.
+abstract:Chinese e-commerce firm JD.com has emerged as rival to Alibaba, by buying goods from manufacturers and distributors and keeping inventory in its own warehouses; is moving into home delivery, with 46 million users and $20 billion in 2014 revenue.
+blog:null

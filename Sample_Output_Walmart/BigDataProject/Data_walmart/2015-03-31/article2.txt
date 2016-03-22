@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Movement to Increase McDonald’s Minimum Wage Broadens Its Tactics, print_headline:A Broader Strategy on Wages}
+news_desk:Business
+pub_date:2015-03-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/31/business/movement-to-increase-mcdonalds-minimum-wage-broadens-its-tactics.html
+snippet:Unions in the United States and elsewhere are increasing pressure on the fast-food giant by protesting its corporate practices to government bodies as well as planning strikes.
+lead_paragraph:Unions in the United States and elsewhere are increasing pressure on the fast-food giant by protesting its corporate practices to government bodies as well as planning strikes.
+abstract:Organizers are planning for April 15 gathering to change fast-food workers' struggle for $15 hourly wage into national movement of all low-wage workers; demonstration is meant to bring pressure on McDonald's and tie the spirit of labor organizing with banner of civil rights.
+blog:null

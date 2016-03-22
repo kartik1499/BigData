@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:For Walgreens C.E.O. Stefano Pessina, Rite Aid Deal Is Latest Merger, Maybe Not Last, print_headline:null}
+news_desk:Business
+pub_date:2015-10-29
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/29/business/dealbook/for-walgreens-ceo-stefano-pessina-rite-aid-deal-is-latest-merger-maybe-not-last.html
+snippet:Mr. Pessina, who oversees a global drugstore empire, says he has completed more than 1,000 acquisitions in his career, and his buying spree might not be over.
+lead_paragraph:Mr. Pessina, who oversees a global drugstore empire, says he has completed more than 1,000 acquisitions in his career, and his buying spree might not be over.
+abstract:null
+blog:null

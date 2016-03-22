@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Battle of New Orleans Bicentennial Spurs Large-Scale Re-enactment, print_headline:Battle of New Orleans Bicentennial Spurs Large-Scale Re-enactment}
+news_desk:None
+pub_date:2015-01-09
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/09/world/europe/09reuters-usa-new-orleans-reenactment.html
+snippet:Huddled around a Louisiana campfire on Thursday, a man dressed in the rumpled clothes of an American militia member from the 1815 Battle of New Orleans put in historical perspective the frigid night he had spent in a nearby tent.
+lead_paragraph:Huddled around a Louisiana campfire on Thursday, a man dressed in the rumpled clothes of an American militia member from the 1815 Battle of New Orleans put in historical perspective the frigid night he had spent in a nearby tent.  
+abstract:null
+blog:null

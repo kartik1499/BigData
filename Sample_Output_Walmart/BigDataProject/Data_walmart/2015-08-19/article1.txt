@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Cuts Outlook, Citing Rising Wages and Online Investment, print_headline:Walmart Cuts Outlook, Citing Rising Wages and Online Investment}
+news_desk:Business
+pub_date:2015-08-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/19/business/retailers-quarterly-earnings.html
+snippet:The retail giant’s lackluster results and outlook were in spite of quarterly revenue that was $500 million higher than forecast.
+lead_paragraph:The retail giant’s lackluster results and outlook were in spite of quarterly revenue that was $500 million higher than forecast.
+abstract:Walmart reports second-quarter revenue of $120.2 billion, $500 million above forecast, but cuts annual profit forecast due to higher wages.
+blog:null

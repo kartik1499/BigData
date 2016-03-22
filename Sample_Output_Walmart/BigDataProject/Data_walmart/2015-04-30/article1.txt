@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Hospitals Provide a Pulse in Struggling Rural Towns, print_headline:A Rural Town&#8217;s Lifeblood }
+news_desk:Business
+pub_date:2015-04-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/30/business/economy/hospitals-provide-a-pulse-in-struggling-rural-towns.html
+snippet:With little economic vitality amid the decline in manufacturing, small towns can be helped enormously by a well-run hospital.
+lead_paragraph:With little economic vitality amid the decline in manufacturing, small towns can be helped enormously by a well-run hospital.
+abstract:Isolated rural town Beatrice, Neb, has lost much of its manufacturing jobs, but its economic anchor is now Beatrice Community Hospital and Health Center; many small towns have attracted hospitals and other health care facilities to help them survive (Series: A Shifting Middle).
+blog:null

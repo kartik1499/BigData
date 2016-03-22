@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wall St. Closes Up After Early Losses, print_headline:Markets Rebound on Builder Optimism }
+news_desk:Business
+pub_date:2015-08-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/18/business/daily-stock-market-activity.html
+snippet:Fears over China’s next move outweighed the progress found in the bailout of Greece, one analyst said.
+lead_paragraph:Fears over China’s next move outweighed the progress found in the bailout of Greece, one analyst said.
+abstract:Stock market climbs, buoyed by steadying of China's currency and growing optimism among homebuilders.
+blog:null

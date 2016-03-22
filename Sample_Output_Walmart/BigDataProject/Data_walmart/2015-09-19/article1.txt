@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Arizona: Suspect in Custody in String of Highway Shootings, print_headline:Arizona: Suspect in Custody in String of Highway Shootings}
+news_desk:National
+pub_date:2015-09-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/19/us/arizona-suspect-in-custody-in-string-of-highway-shootings.html
+snippet:A suspect has been arrested in a string of shootings along Phoenix-area freeways that have kept drivers on edge for weeks, state officials said.
+lead_paragraph:A suspect has been arrested in a string of shootings along Phoenix-area freeways that have kept drivers on edge for weeks, state officials said.
+abstract:Suspect, whose name is not released, is arrested in series of shootings along freeways near Phoenix.
+blog:null

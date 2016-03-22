@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:National Parks Pull Confederate Flag Items From All Gift Shops, print_headline:National Parks Pull Confederate Flag Items From All Gift Shops}
+news_desk:None
+pub_date:2015-06-25
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/06/25/us/politics/25reuters-usa-shooting-south-carolina-nationalparks.html
+snippet:The U.S. National Park Service began removing Confederate flag merchandise from its bookstores and gift shops on Thursday, joining a nationwide push by lawmakers and retailers to remove the emblem, long associated with the fight to preserve slavery.
+lead_paragraph:The U.S. National Park Service began removing Confederate flag merchandise from its bookstores and gift shops on Thursday, joining a nationwide push by lawmakers and retailers to remove the emblem, long associated with the fight to preserve slavery.
+abstract:null
+blog:null

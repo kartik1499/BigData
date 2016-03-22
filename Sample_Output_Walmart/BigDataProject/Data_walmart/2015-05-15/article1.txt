@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:San Diego Grandma Fights Off Would-Be Abductor in Parking Lot, print_headline:San Diego Grandma Fights Off Would-Be Abductor in Parking Lot}
+news_desk:None
+pub_date:2015-05-15
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/05/15/world/americas/15reuters-usa-grandma-california.html
+snippet:San Diego police were searching on Friday for a man suspected of trying to abduct a woman and her 3-year-old grandson in a Walmart parking lot, but who was thwarted when the grandmother fought back and scared the would-be kidnapper away.
+lead_paragraph:San Diego police were searching on Friday for a man suspected of trying to abduct a woman and her 3-year-old grandson in a Walmart parking lot, but who was thwarted when the grandmother fought back and scared the would-be kidnapper away.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:No Humans Were Harmed in the Making of This Product, print_headline:No Humans Were Harmed in the Making of This Product}
+news_desk:Business
+pub_date:2015-06-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/08/business/international/no-humans-were-harmed-in-the-making-of-this-product.html
+snippet:Group of 7 leaders plan to discuss so-called supply chain standards -- ways of ensuring that everyday products do not come packaged with human misery.
+lead_paragraph:Group of 7 leaders plan to discuss so-called supply chain standards -- ways of ensuring that everyday products do not come packaged with human misery.
+abstract:null
+blog:null

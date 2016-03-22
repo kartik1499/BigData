@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Service Sector, No Rest for the Working , print_headline:In Service Sector, No Rest for the Working}
+news_desk:SundayBusiness
+pub_date:2015-02-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/22/business/late-to-bed-early-to-rise-and-working-tired.html
+snippet:As restaurants, retailers and other businesses shrink the intervals between shifts and rely on smaller staffs to shave costs, employees are losing sleep.
+lead_paragraph:As restaurants, retailers and other businesses shrink the intervals between shifts and rely on smaller staffs to shave costs, employees are losing sleep.
+abstract:Service industry employees are facing serious issue of exhaustion as restaurants, retailers and other businesses shrink time between shifts and cut staff to shave costs; many workers regularly work both late-night and early-morning shifts, leaving little time for family and sleep; pushback by labor advocates has resulted in legislative proposals in several states that would curb maximum number of work hours in a 24-hour period.
+blog:null

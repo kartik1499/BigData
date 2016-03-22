@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:White House and Labor Advocates Praise Move by Facebook for Higher Wages, print_headline:Reddit Sets New Rules on Harassment}
+news_desk:Business
+pub_date:2015-05-13
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/05/13/white-house-and-labor-advocates-praise-move-by-facebook-for-higher-wages/
+snippet:Facebook announced on Tuesday that it would require its contractors and vendors to provide better benefits and a minimum hourly wage of $15.
+lead_paragraph:null
+abstract:Facebook announced on Tuesday that it would require its contractors and vendors to provide better benefits and a minimum hourly wage of $15.
+blog:null

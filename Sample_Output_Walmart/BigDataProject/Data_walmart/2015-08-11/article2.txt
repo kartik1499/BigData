@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Ikea to Replace All Lighting on Shelves With LED Bulbs, print_headline:Ikea Commits to LED Bulbs, Exclusively, and Energy Plan }
+news_desk:Business
+pub_date:2015-08-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/11/business/ikea-to-replace-all-lighting-on-shelves-with-led-bulbs.html
+snippet:The switch to sell only LED bulbs in its stores, part of the company’s overall sustainability efforts, will begin Sept. 1.
+lead_paragraph:The switch to sell only LED bulbs in its stores, part of the company’s overall sustainability efforts, will begin Sept. 1.
+abstract:Ikea announces that it will only sell LED bulbs as of Sept 1, eliminating sales of incandescent, halogen and compact fluorescent bulbs; change comes amid company's overall sustainability efforts. 
+blog:null

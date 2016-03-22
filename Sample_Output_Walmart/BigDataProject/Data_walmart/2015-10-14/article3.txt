@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Warns on Profit, Stock Has Steepest Decline in 25 Years, print_headline:Wal-Mart Warns on Profit, Stock Has Steepest Decline in 25 Years}
+news_desk:None
+pub_date:2015-10-14
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/14/business/14reuters-wal-mart-shareholders.html
+snippet:Wal-Mart Stores Inc warned on Wednesday that higher wages as well as spending on e-commerce and lower prices would cut earnings per share as much as 12 percent next fiscal year, sparking the steepest one-day decline in the company's shares in 25...
+lead_paragraph:Wal-Mart Stores Inc warned on Wednesday that higher wages as well as spending on e-commerce and lower prices would cut earnings per share as much as 12 percent next fiscal year, sparking the steepest one-day decline in the company's shares in 25 years.
+abstract:null
+blog:null

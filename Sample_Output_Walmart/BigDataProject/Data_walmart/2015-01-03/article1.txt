@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A Toddler and a Gun, print_headline:A Toddler and a Gun}
+news_desk:Letters
+pub_date:2015-01-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/03/opinion/a-toddler-and-a-gun.html
+snippet:Readers react to the accidental shooting of a mother by a toddler who reached into her purse containing a gun.
+lead_paragraph:Readers react to the accidental shooting of a mother by a toddler who reached into her purse containing a gun.
+abstract:null
+blog:null

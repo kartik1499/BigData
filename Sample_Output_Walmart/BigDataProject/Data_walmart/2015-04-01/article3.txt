@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Bills on ‘Religious Freedom’ Upset Capitols in Arkansas and Indiana, print_headline:Bills on ‘Religious Freedom’ Upset Capitols in Two States}
+news_desk:National
+pub_date:2015-04-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/01/us/religious-freedom-restoration-act-arkansas-indiana.html
+snippet:As Arkansas passed its own measure, Indiana’s governor responded to growing criticism by those who say the legislation could be used to discriminate against gay couples.
+lead_paragraph:As Arkansas passed its own measure, Indiana’s governor responded to growing criticism by those who say the legislation could be used to discriminate against gay couples.
+abstract:Arkansas passes its own version of bill portrayed by supporters as a religious freedom law, while Indiana Gov Mike Pence faces critics who contend its law could be wielded to discriminate against gay couples; Arkansas Gov Asa Hutchinson says he will sign measure, while Pence faces pressure on both sides from business and conservatives.
+blog:null

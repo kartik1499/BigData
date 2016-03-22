@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Apple Pies and iPads Sweeten China's Dreaded TV Expose, print_headline:Apple Pies and iPads Sweeten China's Dreaded TV Expose}
+news_desk:None
+pub_date:2015-03-13
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/03/13/arts/13reuters-china-consumerday.html
+snippet:From cut-price apple pies to free iPads, companies in China are transforming Sunday's dreaded consumer rights day into a shopping frenzy, to blunt the impact of being named and shamed in state broadcaster CCTV's annual expose.
+lead_paragraph:From cut-price apple pies to free iPads, companies in China are transforming Sunday's dreaded consumer rights day into a shopping frenzy, to blunt the impact of being named and shamed in state broadcaster CCTV's annual expose.
+abstract:null
+blog:null

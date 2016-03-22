@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Oregon Officers Cleared in Shooting Death During Standoff, print_headline:Oregon Officers Cleared in Shooting Death During Standoff}
+news_desk:None
+pub_date:2015-05-08
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/08/us/ap-us-oregon-standoff-officers-cleared.html
+snippet:A grand jury cleared four Oregon police officers in a fatal shooting after finding an armed man fired at authorities from a converted bus parked outside a Walmart store.
+lead_paragraph:A grand jury cleared four Oregon police officers in a fatal shooting after finding an armed man fired at authorities from a converted bus parked outside a Walmart store.
+abstract:null
+blog:null

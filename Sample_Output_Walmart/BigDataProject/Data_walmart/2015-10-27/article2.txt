@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Your Tuesday Briefing: Afghanistan, Donald Trump, Kansas City Royals, print_headline:null}
+news_desk:NYTNow
+pub_date:2015-10-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/27/nytnow/latest-news-afghanistan-south-china-sea-kansas-city-royals.html
+snippet:Here’s what you need to know to start your day.
+lead_paragraph:Here’s what you need to know to start your day.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Enthusiastic Crowd Will Greet Donald Trump in Alabama Stadium, print_headline:null}
+news_desk:Politics
+pub_date:2015-08-21
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/08/21/enthusiastic-crowd-will-greet-donald-trump-in-alabama-stadium/
+snippet:Fans of Donald J. Trump, and supporters of change in the political discourse, waited outside Ladd-Peebles Stadium in Mobile, Ala., hours ahead of an appearance by the presidential candidate.
+lead_paragraph:null
+abstract:Fans of Donald J. Trump, and supporters of change in the political discourse, waited outside Ladd-Peebles Stadium in Mobile, Ala., hours ahead of an appearance by the presidential candidate.
+blog:null

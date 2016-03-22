@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Effective Altruism: Where Charity and Rationality Meet, print_headline:For Small Donors, Better Giving Through Science}
+news_desk:Upshot
+pub_date:2015-08-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/16/upshot/effective-altruism-where-charity-and-rationality-meet.html
+snippet:Applying economic concepts to philanthropy encourages donors to consider factors like opportunity cost and unintended consequences.
+lead_paragraph:Applying economic concepts to philanthropy encourages donors to consider factors like opportunity cost and unintended consequences.
+abstract:The Upshot; Tyler Cowen Economic View column describes emerging field of effective altruism, effort that encourages philanthropists to rely on scientific and economic principles when giving.
+blog:null

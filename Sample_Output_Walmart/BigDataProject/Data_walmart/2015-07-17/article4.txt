@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Candidates Will Hail a Ride, but Not Necessarily the Uber Labor Model, print_headline:Uber&#8217;s Much More Than Just a Ride Service in This Presidential Race}
+news_desk:National
+pub_date:2015-07-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/17/us/politics/presidential-candidates-hail-uber-rides-doubts-on-model.html
+snippet:Uber is part of the 2016 presidential debate, with the responsibilities of employers, the virtues of technology and the necessity of workplace regulation at issue.
+lead_paragraph:Uber is part of the 2016 presidential debate, with the responsibilities of employers, the virtues of technology and the necessity of workplace regulation at issue.
+abstract:Ride service Uber has become unanticipated surrogate for both Democratic and Republican presidential hopefuls; after leading era of on-demand economy, Uber has taken spotlight in debate between liberals and conservatives over future of work, obligations of business owners and necessity of workplace regulation.
+blog:null

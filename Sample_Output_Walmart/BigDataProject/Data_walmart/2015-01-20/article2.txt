@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Launches Cash Pickup Option for Tax Refunds, print_headline:Wal-Mart Launches Cash Pickup Option for Tax Refunds}
+news_desk:None
+pub_date:2015-01-20
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/20/business/ap-us-wal-mart-tax-refunds.html
+snippet:Wal-Mart is launching a service allowing customers to pick up their tax refunds in cash at all stores nationwide.
+lead_paragraph:Wal-Mart is launching a service allowing customers to pick up their tax refunds in cash at all stores nationwide.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Disproportionate Risks of Driving While Black, print_headline:The Disproportionate Risk of Driving While Black}
+news_desk:National
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/25/us/racial-disparity-traffic-stops-driving-black.html
+snippet:An examination of traffic stops and arrests in Greensboro, N.C., uncovered wide racial differences in measure after measure of police conduct.
+lead_paragraph:An examination of traffic stops and arrests in Greensboro, N.C., uncovered wide racial differences in measure after measure of police conduct.
+abstract:New York Times analysis of tens of thousands of traffic stops and years of arrest data reveals wide racial disparities in policing in racially mixed city of Greensboro, NC, and elsewhere in state; data shows officers are far more likely to make traffic stops, search cars, make arrests and resort to force when dealing with black motorists than with whites; bias can have deep and lasting effects on both black individuals and communities. 
+blog:null

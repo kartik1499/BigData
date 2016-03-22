@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Retailers Ban Sale of Merchandise Bearing Confederate Flag, print_headline:null}
+news_desk:Politics
+pub_date:2015-06-23
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/06/23/retailers-ban-sale-of-merchandise-bearing-confederate-flag/
+snippet:Amazon on Tuesday afternoon joined other major retailers such as Walmart, Sears and eBay and banned the sale of merchandise bearing the Confederate battle flag.
+lead_paragraph:null
+abstract:Amazon on Tuesday afternoon joined other major retailers such as Walmart, Sears and eBay and banned the sale of merchandise bearing the Confederate battle flag.
+blog:null

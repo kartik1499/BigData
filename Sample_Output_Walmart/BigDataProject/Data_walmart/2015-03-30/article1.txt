@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:GNC Reaches Deal With NY AG Over Herbal Plus Products, print_headline:GNC Reaches Deal With NY AG Over Herbal Plus Products}
+news_desk:None
+pub_date:2015-03-30
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/30/us/ap-us-gnc-herbal-products.html
+snippet:GNC Holdings Inc. said Monday that it has reached a deal with New York Attorney General Eric Schneiderman over its Herbal Plus products.
+lead_paragraph:GNC Holdings Inc. said Monday that it has reached a deal with New York Attorney General Eric Schneiderman over its Herbal Plus products.
+abstract:null
+blog:null

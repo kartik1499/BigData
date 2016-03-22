@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Yellen Expects Fed to Start Raising Rates This Year, print_headline:Yellen Expects Rates to Increase This Year}
+news_desk:Business
+pub_date:2015-05-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/23/business/economy/yellen-expects-fed-to-start-raising-rates-this-year.html
+snippet:In a speech, the central bank chairwoman said she thought weak growth during the first part of the year most likely reflected temporary disruptions.
+lead_paragraph:In a speech, the central bank chairwoman said she thought weak growth during the first part of the year most likely reflected temporary disruptions.
+abstract:Federal Reserve Chairwoman Janet L Yellen tells audience at Chamber of Commerce in Providence, RI, that as long as economy appears to be improving, Fed can be expected to raise benchmark interest rate during latter part of 2015.
+blog:null

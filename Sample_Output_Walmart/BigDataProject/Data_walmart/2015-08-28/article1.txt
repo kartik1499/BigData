@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Behind Bright Facade, Mississippi Coast Still Battles Katrina Demons, print_headline:Behind Bright Facade, Mississippi Coast Still Battles Katrina Demons}
+news_desk:None
+pub_date:2015-08-28
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/28/us/28reuters-usa-katrina-mississippi.html
+snippet:The columned facade of Pass Christian's city hall looks out over the Mississippi coastline to a refurbished harbor, a new yacht club and a bar where locals streamed in for sundown cocktails.
+lead_paragraph:The columned facade of Pass Christian's city hall looks out over the Mississippi coastline to a refurbished harbor, a new yacht club and a bar where locals streamed in for sundown cocktails. 
+abstract:null
+blog:null

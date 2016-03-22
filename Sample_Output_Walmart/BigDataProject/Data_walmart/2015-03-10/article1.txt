@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Cape Cod Couple Whose Son Fell From Vehicle Plead Guilty, print_headline:Cape Cod Couple Whose Son Fell From Vehicle Plead Guilty}
+news_desk:None
+pub_date:2015-03-10
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/10/us/ap-us-child-falls-from-car.html
+snippet:A Massachusetts couple whose 5-year-old son fell out of their SUV as they fled after stealing a television have pleaded guilty to related charges.
+lead_paragraph:A Massachusetts couple whose 5-year-old son fell out of their SUV as they fled after stealing a television have pleaded guilty to related charges.
+abstract:null
+blog:null

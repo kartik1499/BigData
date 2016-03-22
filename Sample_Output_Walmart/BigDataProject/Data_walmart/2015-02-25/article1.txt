@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Exclusive: Despite Wage Hike, Some Walmart Shareholders Seek Change, print_headline:Exclusive: Despite Wage Hike, Some Walmart Shareholders Seek Change}
+news_desk:None
+pub_date:2015-02-25
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/02/25/business/25reuters-walmart-shareholders-exclusive.html
+snippet:A prominent investor in Wal-Mart Stores Inc is pushing ahead with a campaign to link a portion of executive compensation to staff motivation, a sign that the retailer's wage hike last week won't end outside pressure over employee pay and benefits.
+lead_paragraph:A prominent investor in Wal-Mart Stores Inc is pushing ahead with a campaign to link a portion of executive compensation to staff motivation, a sign that the retailer's wage hike last week won't end outside pressure over employee pay and benefits.
+abstract:null
+blog:null

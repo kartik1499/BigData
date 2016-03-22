@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Gets a Lift in Earnings Despite Canadian Failure, print_headline:Target Gets a Lift in Earnings Despite Canadian Failure}
+news_desk:Business
+pub_date:2015-02-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/26/business/target-tjx-lowes-q4-earnings.html
+snippet:The upbeat news came as another discount retailer, TJX, announced it was increasing minimum hourly wages to $9, following a move by Walmart.
+lead_paragraph:The upbeat news came as another discount retailer, TJX, announced it was increasing minimum hourly wages to $9, following a move by Walmart.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Jay Z and Beyoncé Want to Put You in a Vegan State of Mind, print_headline:A Vegan Empire State of Mind}
+news_desk:Styles
+pub_date:2015-05-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/10/style/jay-z-and-beyonce-want-to-put-you-in-a-vegan-state-of-mind.html
+snippet:The music and social media superstars team up with their trainer for 22 Days Nutrition, a vegan food company.
+lead_paragraph:The music and social media superstars team up with their trainer for 22 Days Nutrition, a vegan food company.
+abstract:Singers Jay Z and Beyonce are promoting vegan revolution via their own lifestyle changes and their company 22 Days Nutrition; company, begun with couple's trainer Marco Borges, offers meal delivery service and is planning expansion into grab-and-go meals and juices.
+blog:null

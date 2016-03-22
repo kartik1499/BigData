@@ -1,0 +1,17 @@
+<?php
+ 
+$url = "https://ajax.googleapis.com/ajax/services/search/web?q=sony+daterange%3A2456931-2457022&start=0&rsz=8&v=1.0";
+ 
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_REFERER, "www.google.com");
+$body = curl_exec($ch);
+curl_close($ch);
+$json = json_decode($body);
+echo '<br>';
+for( $i=0;$i<4;$i = $i + 1){
+print_r( $json->responseData->results[$i]->unescapedUrl);
+echo '<br>';
+}
+?>

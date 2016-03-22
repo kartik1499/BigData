@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:McDonald’s Plans a Shift to Eggs From Only Cage-Free Hens, print_headline:McDonald’s Is Planning to Stop Using Eggs From Caged Chickens}
+news_desk:Business
+pub_date:2015-09-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/10/business/mcdonalds-to-use-eggs-from-only-cage-free-hens.html
+snippet:The fast-food giant will eventually stop buying eggs laid by hens housed in cages the size of a file drawer.
+lead_paragraph:The fast-food giant will eventually stop buying eggs laid by hens housed in cages the size of a file drawer.
+abstract:McDonald's Corporation says it will start phasing out eggs from hens kept in cages; restaurant uses two billion eggs annually, or 4 percent of total industry production of 43.56 billion eggs; less than 10 percent of country's laying hens are cage free, and animal welfare advocates hope corporation's move will boost use of cage free farming across nation. 
+blog:null

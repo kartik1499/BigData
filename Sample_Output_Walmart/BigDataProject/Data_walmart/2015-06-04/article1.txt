@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Adjusts the Thermostat to Warm Worker Relations, print_headline:Walmart Moves Thermostat to Warm Worker Relations}
+news_desk:Business
+pub_date:2015-06-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/04/business/new-walmart-store-policies-aim-at-appeasing-workers.html
+snippet:The effort to project an image of a more caring employer includes adjusting the air-conditioning, relaxing the dress code and jazzing up store music.
+lead_paragraph:The effort to project an image of a more caring employer includes adjusting the air-conditioning, relaxing the dress code and jazzing up store music.
+abstract:Walmart, by agreeing to raise average store temperatures by 1 degree for most of its locations, is hoping to be viewed as a more caring employer; company is also raising starting wage for over 100,000 managers in United States, following February raise for half-million entry-level workers; efforts at increasing employee satisfaction are due in part to rising competition from reviving job market.
+blog:null

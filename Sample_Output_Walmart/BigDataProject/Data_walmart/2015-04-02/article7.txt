@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Today in Politics: Indiana Law Deepens Strain Between Republicans and Business, print_headline:null}
+news_desk:null
+pub_date:2015-04-02
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/04/02/today-in-politics-indiana-law-deepens-strain-between-republicans-and-business/
+snippet:An Indiana law has become a thorn for Republicans, especially in their dealings with business leaders.
+lead_paragraph:null
+abstract:An Indiana law has become a thorn for Republicans, especially in their dealings with business leaders.
+blog:null

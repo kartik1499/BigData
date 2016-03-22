@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Mary Keefe, Model for Rockwell’s ‘Rosie the Riveter,’ Dies at 92, print_headline:Mary Keefe, 92, Model for Rockwell’s ‘Rosie the Riveter’}
+news_desk:Culture
+pub_date:2015-04-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/25/arts/design/mary-keefe-model-for-rockwells-rosie-the-riveter-dies-at-92.html
+snippet:Mrs. Keefe never wielded a rivet gun before the 1990s, but her image encouraged women to pinch-hit in military plants in World War II.
+lead_paragraph:Mrs. Keefe never wielded a rivet gun before the 1990s, but her image encouraged women to pinch-hit in military plants in World War II.
+abstract:Mary Keefe, who was model for Norman Rockwell's Saturday Evening Post cover of Rosie the Riveter, dies at age 92.
+blog:null

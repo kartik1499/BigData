@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Voters in Arkansas Tourist Town Uphold Anti-Discrimination Law, print_headline:null}
+news_desk:National
+pub_date:2015-05-13
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/13/us/voters-in-arkansas-tourist-town-uphold-anti-discrimination-law.html
+snippet:Opponents had argued that an ordinance in Eureka Springs seeking to prevent discrimination based on sexual orientation or gender identity could harm tourism.
+lead_paragraph:Opponents had argued that an ordinance in Eureka Springs seeking to prevent discrimination based on sexual orientation or gender identity could harm tourism.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Presses Case for Repairs at Stores in Labor Dispute, print_headline:Wal-Mart Presses Case for Repairs at Stores in Labor Dispute}
+news_desk:None
+pub_date:2015-05-15
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/05/15/business/15reuters-wal-mart-stores-closure.html
+snippet:Weeks after Wal-Mart Stores Inc was accused of shuttering a California store to stop workers from organizing, the company said it would seek permits to rip up floors and replace plumbing lines as part of significant repairs at five stores that...
+lead_paragraph:Weeks after Wal-Mart Stores Inc was accused of shuttering a California store to stop workers from organizing, the company said it would seek permits to rip up floors and replace plumbing lines as part of significant repairs at five stores that justified their abrupt closure.
+abstract:null
+blog:null

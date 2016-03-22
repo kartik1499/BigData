@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Connecting Young People With Jobs, print_headline:Connecting Youths With Jobs}
+news_desk:OpEd
+pub_date:2015-07-13
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/13/opinion/connecting-young-people-with-jobs.html
+snippet:Philanthropies, companies and government will work together to hire 100,000 young people over three years.
+lead_paragraph:Philanthropies, companies and government will work together to hire 100,000 young people over three years.
+abstract:Op-Ed article by Starbucks chief executive Howard Schultz and his wife Sheri announces that their family foundation will commit $30 million to help underprivileged young people enter and ascend in workforce; observes that some 5.6 million Americans between age 16 and 24 remain unemployed and outside school, situation devastating both for their own lives and for American economy; notes program will provide jobs, internships and apprenticeships to 100,000 young people over next three years
+blog:null

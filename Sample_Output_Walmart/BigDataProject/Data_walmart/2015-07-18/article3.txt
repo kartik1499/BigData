@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Judges Rebuke Limits on Wiping Out Student Loan Debt, print_headline:Chained to Unpayable Debt}
+news_desk:Business
+pub_date:2015-07-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/18/your-money/student-loans/judges-rebuke-limits-on-wiping-out-student-loan-debt.html
+snippet:Erasing student loans requires proof that paying the debt would cause “undue hardship,” and some judges think the rigid standard should be reconsidered.
+lead_paragraph:Erasing student loans requires proof that paying the debt would cause “undue hardship,” and some judges think the rigid standard should be reconsidered.
+abstract:Tara Siegel Bernard Your Money column observes that many bankruptcy judges and legal scholars are rebuffing widely adopted hardship standard used to determine whether student loan debt should be erased.
+blog:null

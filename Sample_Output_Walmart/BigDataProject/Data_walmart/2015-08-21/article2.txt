@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Bernie Sanders Draws Big Crowds to His ‘Political Revolution’, print_headline:Sanders Draws Big Crowds to His &#8216;Revolution&#8217; }
+news_desk:National
+pub_date:2015-08-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/21/us/politics/bernie-sanders-evokes-obama-of-08-but-with-less-hope.html
+snippet:The words are full of passion, but the senator and his followers speak to an angry vision of a broken system that requires fundamental change.
+lead_paragraph:The words are full of passion, but the senator and his followers speak to an angry vision of a broken system that requires fundamental change.
+abstract:Democratic presidential candidate Sen Bernie Sanders has tapped into enthusiasm that propelled 2008 Obama campaign, welcoming disaffected Democrats to what he calls 'the political revolution of 2015'; socialist-leaning Democrat's angry call for uprising against establishment comes amid scant belief that it will happen.
+blog:null

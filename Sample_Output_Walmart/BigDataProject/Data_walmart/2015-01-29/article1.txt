@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Consumer Product Safety Commission Warns About Danger to Children From Unsecured TVs, print_headline:null}
+news_desk:Business
+pub_date:2015-01-29
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/29/business/consumer-product-safety-commission-warns-about-danger-to-children-from-unsecured-tvs.html
+snippet:The government agency’s warning comes at a prime time of year for buying televisions, the week before the Super Bowl.
+lead_paragraph:The government agency’s warning comes at a prime time of year for buying televisions, the week before the Super Bowl.
+abstract:null
+blog:null

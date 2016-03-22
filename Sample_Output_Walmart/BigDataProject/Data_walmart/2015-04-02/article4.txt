@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Religious Freedom vs. Individual Equality, print_headline:null}
+news_desk:Editorial
+pub_date:2015-04-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/02/opinion/charles-blow-religious-freedom-vs-individual-equality.html
+snippet:What to do when people want to retain their right to discriminate — wrapped in the cloak of piety — after most of the country has lost the appetite for it?
+lead_paragraph:What to do when people want to retain their right to discriminate — wrapped in the cloak of piety — after most of the country has lost the appetite for it?
+abstract:null
+blog:null

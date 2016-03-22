@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Getting To Know: Jets Nose Tackle Damon Harrison, print_headline:Getting To Know: Jets Nose Tackle Damon Harrison}
+news_desk:None
+pub_date:2015-09-21
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/09/21/sports/football/ap-fbn-getting-to-know-jets-damon-harrison.html
+snippet:Damon Harrison has made his presence felt on the New York Jets' defense, working his way from being an undrafted free agent out of William Penn in 2012 to a starting NFL nose tackle.
+lead_paragraph:Damon Harrison has made his presence felt on the New York Jets' defense, working his way from being an undrafted free agent out of William Penn in 2012 to a starting NFL nose tackle.
+abstract:null
+blog:null

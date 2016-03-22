@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Staples Said to Be in Talks to Buy Office Depot, print_headline:Staples Said to Be in Talks to Acquire Office Depot}
+news_desk:Business
+pub_date:2015-02-03
+source:The New York Times
+web_url:http://dealbook.nytimes.com/2015/02/03/staples-is-said-to-be-in-talks-to-buy-office-depot/
+snippet:The activist hedge fund Starboard Value has called on both companies to merge to better compete against the likes of Walmart and Amazon.
+lead_paragraph:null
+abstract:The activist hedge fund Starboard Value has called on both companies to merge to better compete against the likes of Walmart and Amazon.
+blog:null

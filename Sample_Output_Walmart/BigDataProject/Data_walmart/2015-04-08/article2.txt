@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:McDonald&#8217;s Turns &#8216;Progressive&#8217;, print_headline:McDonald’s Turns ‘Progressive’}
+news_desk:Editorial
+pub_date:2015-04-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/08/opinion/mcdonalds-turns-progressive.html
+snippet:Instead of playing catch-up, it should really transform itself.
+lead_paragraph:Instead of playing catch-up, it should really transform itself.
+abstract:Mark Bittman Op-Ed column suggests that McDonald's efforts to play catch-up to competitors, such as raising wages in company-owned restaurants and phasing out use of chickens raised with antibiotics, have failed because they have only been half measures; urges company to transform itself into truly progressive company.
+blog:null

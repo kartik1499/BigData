@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Sued for Denying Health Insurance to Gay Worker's Wife, print_headline:Wal-Mart Sued for Denying Health Insurance to Gay Worker's Wife}
+news_desk:None
+pub_date:2015-07-14
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/07/14/us/14reuters-walmart-gaymarriage.html
+snippet:A Wal-Mart Stores Inc employee sued the retailer on Tuesday, saying its prior policy of denying health insurance to the spouses of gay employees violated gender discrimination laws.
+lead_paragraph:A Wal-Mart Stores Inc employee sued the retailer on Tuesday, saying its prior policy of denying health insurance to the spouses of gay employees violated gender discrimination laws. 
+abstract:null
+blog:null

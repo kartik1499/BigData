@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Liberals and Wages, print_headline:Liberals and Wages}
+news_desk:OpEd
+pub_date:2015-07-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/17/opinion/paul-krugman-liberals-and-wages.html
+snippet:Workers’ pay can be raised without costing jobs.
+lead_paragraph:Workers’ pay can be raised without costing jobs.
+abstract:Paul Krugman Op-Ed column points to major changes in economists' understanding of role of public policy in labor market, firmly grounded in evidence, that support Hillary Rodham Clinton's assertion that government should do more to increase American wages; suggests those who criticize Clinton for offering different policies than those of Pres Bill Clinton do not acknowledge virtue of changing policy recommendations according to best available evidence.
+blog:null

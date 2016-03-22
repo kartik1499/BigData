@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Whole Foods Market Reports a Rise in Sales, print_headline:Sales Increase at Whole Foods, and Shares Follow}
+news_desk:Business
+pub_date:2015-02-12
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/12/business/whole-foods-market-quarterly-earnings.html
+snippet:The chain attributed growth in customer traffic to digital and branding initiatives, and its profit rose.
+lead_paragraph:The chain attributed growth in customer traffic to digital and branding initiatives, and its profit rose.
+abstract:Whole Foods Market reports sales in quarter ending in January rose to $4.7 billion, increase of 10 percent, and that profit rose to $167 million, up from $158 million in same period in 2014.
+blog:null

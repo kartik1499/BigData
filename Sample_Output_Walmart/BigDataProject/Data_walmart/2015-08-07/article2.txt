@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Uber-ization of Activism, print_headline:The Uber-ization of Activism}
+news_desk:OpEd
+pub_date:2015-08-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/07/opinion/the-uber-ization-of-activism.html
+snippet:By using customers as lobbyists, companies like Uber are cheapening grass-roots activism, and getting a free ride.
+lead_paragraph:By using customers as lobbyists, companies like Uber are cheapening grass-roots activism, and getting a free ride.
+abstract:Op-Ed article by UCLA professor Edward T Walker notes trend of companies like Uber to use its own customers as social-media-based lobbyists to achieve company's political and fiscal agendas; points out Uber's victory over New York City Mayor Bill de Blasio in postponing proposed cap on livery vehicles as an example.
+blog:null

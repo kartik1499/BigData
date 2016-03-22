@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Want a Steady Income? There’s an App for That, print_headline:Balancing Act}
+news_desk:Magazine
+pub_date:2015-05-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/03/magazine/want-a-steady-income-theres-an-app-for-that.html
+snippet:A Silicon Valley start-up wants to put workers on an even keel.
+lead_paragraph:A Silicon Valley start-up wants to put workers on an even keel.
+abstract:Internet startup Even has developed mobile application intended to smooth financial difficulties related to irregular income; app seeks to remove uncertainty and human error from income volatility by setting aside funds from flush weeks and paying money forward when income is scarce.
+blog:null

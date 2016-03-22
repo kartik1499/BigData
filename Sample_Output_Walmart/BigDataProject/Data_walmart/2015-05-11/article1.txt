@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Woman Arrested After TVs Hit With Hatchet at Alaska Store, print_headline:Woman Arrested After TVs Hit With Hatchet at Alaska Store}
+news_desk:None
+pub_date:2015-05-11
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/11/us/ap-us-televisions-hatchet-vandalism.html
+snippet:A woman smashed seven flat-screen TVs at a store in Alaska with a hatchet and later told police that people on the televisions were watching her, according to police and court documents obtained Monday.
+lead_paragraph:A woman smashed seven flat-screen TVs at a store in Alaska with a hatchet and later told police that people on the televisions were watching her, according to police and court documents obtained Monday.
+abstract:null
+blog:null

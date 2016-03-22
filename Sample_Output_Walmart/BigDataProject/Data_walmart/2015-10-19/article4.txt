@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Insight-Wal-Mart Puts the Squeeze on Suppliers to Share Its Pain as Earnings Sag, print_headline:Insight-Wal-Mart Puts the Squeeze on Suppliers to Share Its Pain as Earnings Sag}
+news_desk:None
+pub_date:2015-10-19
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/19/business/19reuters-wal-mart-suppliers-insight.html
+snippet:Suppliers of everything from groceries to sports equipment are already being squeezed for price cuts and cost sharing by Wal-Mart Stores. Now they are bracing for the pressure to ratchet up even more after a shock earnings warning from the retailer...
+lead_paragraph:Suppliers of everything from groceries to sports equipment are already being squeezed for price cuts and cost sharing by Wal-Mart Stores. Now they are bracing for the pressure to ratchet up even more after a shock earnings warning from the retailer last week.
+abstract:null
+blog:null

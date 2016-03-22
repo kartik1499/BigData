@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Karen E. Bender’s ‘Refund’, print_headline:Beyond Their Means}
+news_desk:BookReview
+pub_date:2015-03-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/22/books/review/karen-e-benders-refund.html
+snippet:Money (who has it, who doesn’t) is the dark heart of these tales.
+lead_paragraph:Money (who has it, who doesn’t) is the dark heart of these tales.
+abstract:Caitlin Macy reviews book Refund: Stories by Karen E Bender.
+blog:null

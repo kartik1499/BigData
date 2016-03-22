@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Out of Trouble, but Criminal Records Keep Men Out of Work, print_headline:Out of Trouble, Out of Work}
+news_desk:SundayBusiness
+pub_date:2015-03-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/01/business/out-of-trouble-but-criminal-records-keep-men-out-of-work.html
+snippet:Men with even one past conviction on their résumés are having trouble finding jobs, and that is taking a toll on the overall labor market.
+lead_paragraph:Men with even one past conviction on their résumés are having trouble finding jobs, and that is taking a toll on the overall labor market.
+abstract:Men with even a single criminal conviction in their past are finding it extremely difficult to find work, issue that is taking a toll on the economy as a whole; data indicates that ex-convicts account for some 34 percent of all nonworking men ages 25 to 54.
+blog:null

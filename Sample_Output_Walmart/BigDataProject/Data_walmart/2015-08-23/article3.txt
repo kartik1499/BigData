@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Why New Orleans’s Black Residents Are Still Underwater After Katrina, print_headline:Under Water}
+news_desk:Magazine
+pub_date:2015-08-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/23/magazine/why-new-orleans-black-residents-are-still-under-water-after-katrina.html
+snippet:One black-owned bank helped build the city’s African-American middle class — until the hurricane destroyed much more than their homes.
+lead_paragraph:One black-owned bank helped build the city’s African-American middle class — until the hurricane destroyed much more than their homes.
+abstract:Liberty Bank and Trust Company, one of first black-owned banks in Deep South, was engaged in business of helping black residents of New Orleans before Hurricane Katrina demolished both black neighborhoods and bank in 2005; owner Alden J McDonald Jr has rebuilt and is trying to return to that mission in much-changed city, along with core institutions like region's economic-development nonprofit Greater New Orleans, Inc.
+blog:null

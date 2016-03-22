@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:How Trump Has Upended the Story Line, print_headline:How Trump Has Upended the Story Line}
+news_desk:National
+pub_date:2015-10-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/27/us/politics/how-trump-has-upended-the-story-line.html
+snippet:Reflecting the populist drift of the far right of the Republican Party, Donald J. Trump has deftly played into the central fears of many voters.
+lead_paragraph:Reflecting the populist drift of the far right of the Republican Party, Donald J. Trump has deftly played into the central fears of many voters.
+abstract:null
+blog:null

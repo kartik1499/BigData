@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Queens Rental Tower With Easy Highway Access, print_headline:Easy Highway Access }
+news_desk:RealEstate
+pub_date:2015-08-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/16/realestate/queens-rental-tower-witheasy-highway-access.html
+snippet:In Rego Park, Queens, a development team has constructed a high-end rental tower at the edge of the busy Long Island Expressway.
+lead_paragraph:In Rego Park, Queens, a development team has constructed a high-end rental tower at the edge of the busy Long Island Expressway.
+abstract:Developers of Alexander at Rego Center, luxury apartment tower built atop a shopping mall beside Long Island Expressway in Queens, do not believe building's unconventional location will deter potential tenants; tower was built by Vornado Realty Trust in partnership with Alexander's department store chain that is now a real estate company. 
+blog:null

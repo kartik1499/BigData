@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:What's in Those Supplements?, print_headline:4 Retailers Told to Stop Selling Supplements}
+news_desk:Science
+pub_date:2015-02-03
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/02/03/sidebar-whats-in-those-supplements/
+snippet:New York’s attorney general said that tests on popular store brands of herbal supplements at Walmart, Walgreens, Target and GNC found that roughly four out of five of the products contained none of the herbs listed on the labels.
+lead_paragraph:null
+abstract:New York’s attorney general said that tests on popular store brands of herbal supplements at Walmart, Walgreens, Target and GNC found that roughly four out of five of the products contained none of the herbs listed on the labels.
+blog:null

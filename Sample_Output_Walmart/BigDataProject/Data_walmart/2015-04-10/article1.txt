@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Says Walton Family to Sell Shares to Keep Lid on Stake, print_headline:Wal-Mart Says Walton Family to Sell Shares to Keep Lid on Stake}
+news_desk:None
+pub_date:2015-04-10
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/10/business/10reuters-wal-mart-stores-buyback.html
+snippet:Wal-Mart Stores Inc said the Walton family was putting 6 percent of the retailer's outstanding shares in a newly formed trust for possible sale to offset expected increases in its stake due to stock buybacks and to help fund charitable contributions.
+lead_paragraph:Wal-Mart Stores Inc said the Walton family was putting 6 percent of the retailer's outstanding shares in a newly formed trust for possible sale to offset expected increases in its stake due to stock buybacks and to help fund charitable contributions.
+abstract:null
+blog:null

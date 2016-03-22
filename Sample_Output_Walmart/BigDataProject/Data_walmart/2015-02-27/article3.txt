@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:4 Different Turnaround Tales at Retailers Sears, Kohl&#8217;s, Gap and J.C. Penney, print_headline:4 Different Turnaround Tales at Retailers Sears, Kohl’s, Gap and J.C. Penney}
+news_desk:Business
+pub_date:2015-02-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/27/business/4-different-turnaround-tales-at-retailers-sears-kohls-gap-and-jc-penney.html
+snippet:The four large retailers are all in the middle of comeback efforts, but they are each experiencing widely varying results, some positive, others much less so.
+lead_paragraph:The four large retailers are all in the middle of comeback efforts, but they are each experiencing widely varying results, some positive, others much less so.
+abstract:Sears, Kohl's, Gap and JC Penney report differing results in their comeback attempts; Sears reports fourth-quarter loss of $159 million, with sales down 7 percent; Kohl's reports profit of $369 million, or $1.83 a share, on revenue of $6.34 billion, up 3.9 percent from year-ago quarter; Gap reports fourth-quarter profit of $319 million, or 75 cents a share, up 4 percent; revenue rose 3 percent to $4.71 billion; JC Penney reports fourth-quarter loss, on revenue of $3.89 billion.
+blog:null

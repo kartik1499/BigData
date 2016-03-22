@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Stock Buybacks Draw Scrutiny From Politicians, print_headline:Stock Buybacks Draw Scrutiny From Politicians}
+news_desk:Business
+pub_date:2015-08-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/11/business/stock-buybacks-draw-scrutiny-from-politicians.html
+snippet:Hillary Clinton and others are asking whether there’s a need for greater regulation of stock buybacks, on which companies have spent $7 trillion since 2004.
+lead_paragraph:Hillary Clinton and others are asking whether there’s a need for greater regulation of stock buybacks, on which companies have spent $7 trillion since 2004.
+abstract:Andrew Ross Sorkin Dealbook column observes that stock buybacks are drawing scrutiny from politicians, including Democratic presidential hopeful Hillary Rodham Clinton, who says practice needs tighter regulation; argues that while goal is worthy one, it is hard to influence when and how a company chooses to invest in operations and new jobs
+blog:null

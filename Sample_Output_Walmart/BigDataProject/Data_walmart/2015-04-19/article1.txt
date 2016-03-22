@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Can a Colleague ‘Donate’ My Lost Money?, print_headline:Can a Colleague ‘Donate’ My Lost Money?}
+news_desk:Magazine
+pub_date:2015-04-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/19/magazine/can-a-colleague-donate-my-lost-money.html
+snippet:The Ethicists answer reader questions about an unintended contribution, a proposed negative hotel review and a religious tract.
+lead_paragraph:The Ethicists answer reader questions about an unintended contribution, a proposed negative hotel review and a religious tract.
+abstract:The Ethicists column panel answers questions about whether to tell a person who has found money who the owner of the money is, complaining about hotel stay online after hotel reimburses part of cost due to complaints and throwing away free religious pamphlet left in public bathroom.
+blog:null

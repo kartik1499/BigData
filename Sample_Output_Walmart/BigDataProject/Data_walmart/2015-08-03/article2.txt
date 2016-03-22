@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Toy Guns Can Be Dangerous, for Real, print_headline:null}
+news_desk:OpEd
+pub_date:2015-08-03
+source:The New York Times
+web_url:http://takingnote.blogs.nytimes.com/2015/08/03/toy-guns-can-be-dangerous-for-real/
+snippet:Fake guns can be hazardous, especially to the person holding them.
+lead_paragraph:null
+abstract:Fake guns can be hazardous, especially to the person holding them.
+blog:null

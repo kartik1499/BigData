@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘Complicated’ Support for Confederate Flag in White South, print_headline: &#8216;Complicated&#8217; Support for Flag in White South}
+news_desk:National
+pub_date:2015-07-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/08/us/a-georgia-county-where-the-rebel-flag-is-still-revered.html
+snippet:In white, working-class Haralson County, the Confederate banner remains a revered symbol, not only of the Confederate dead, but of a unique regional identity.
+lead_paragraph:In white, working-class Haralson County, the Confederate banner remains a revered symbol, not only of the Confederate dead, but of a unique regional identity.
+abstract:Many people in rural Georgia believe controversy surrounding Confederate flag is unwarranted and view battle flag as symbol of regional identity rather than emblem for racists, opinion shared in other areas of white, working-class South; defenders of flag have variety of justifications for their support.
+blog:null

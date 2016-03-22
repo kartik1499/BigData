@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:DAVOS WATCH: Hollande, King Abdullah, Draghi, Greek Vote, print_headline:DAVOS WATCH: Hollande, King Abdullah, Draghi, Greek Vote}
+news_desk:None
+pub_date:2015-01-23
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/23/business/ap-eu-davos-watch.html
+snippet:The World Economic Forum held in the Swiss ski resort of Davos has the official goal of "improving the state of the world." In practice, it's a massive networking event that brings together 2,500 heads of state, business leaders, philanthropists and...
+lead_paragraph:The World Economic Forum held in the Swiss ski resort of Davos has the official goal of "improving the state of the world." In practice, it's a massive networking event that brings together 2,500 heads of state, business leaders, philanthropists and artists.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Selfie Sticks and Other Selfie Gear Go Mainstream, print_headline:The Selfie Gains a Set of Accessories}
+news_desk:Business
+pub_date:2015-03-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/26/technology/personaltech/selfie-sticks-and-other-selfie-gear-go-mainstream.html
+snippet:The tool for smartphone photography is easily found online; some work with a camera&#8217;s timer, others with cables or Bluetooth.
+lead_paragraph:The tool for smartphone photography is easily found online; some work with a camera&#8217;s timer, others with cables or Bluetooth.
+abstract:Gadgetwise column; selfie sticks come in variety of styles and prices, with number of different features for those with different needs.
+blog:null

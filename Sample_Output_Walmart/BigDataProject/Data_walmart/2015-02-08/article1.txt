@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Is Your First Grader College Ready?, print_headline:Already Bound for College}
+news_desk:EdLife
+pub_date:2015-02-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/08/education/edlife/is-your-first-grader-college-ready.html
+snippet:Mock applications at age 6, campus tours at 10. More and more elementary schools are introducing college awareness. Is it ever too early to plan for the future?
+lead_paragraph:Mock applications at age 6, campus tours at 10. More and more elementary schools are introducing college awareness. Is it ever too early to plan for the future?
+abstract:Elementary school-age children are being mentally prepared for process of applying to college, via exercises including mock applications, campus tours and games; while some see development as positive, others consider it overzealous result of competitive culture.
+blog:null

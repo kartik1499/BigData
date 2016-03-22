@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Review: ‘Little Children Dream of God,’ a Drama of Haitian Refugees, print_headline:Fleeing the Home Country, but Pursued by Her Past}
+news_desk:Culture
+pub_date:2015-02-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/18/theater/review-little-children-dream-of-god-a-drama-of-haitian-refugees.html
+snippet:A pregnant woman flees her country for Miami in this new play by Jeff Augustin, at Roundabout Underground.
+lead_paragraph:A pregnant woman flees her country for Miami in this new play by Jeff Augustin, at Roundabout Underground.
+abstract:Charles Isherwood reviews Roundabout Underground production of Jeff Augustin play Little Children Dream of God, directed by Giovanna Sardelli and starring Carra Patterson at Harold and Miriam Steinberg Center for Theater.
+blog:null

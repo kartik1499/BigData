@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Is This the End of Christianity in the Middle East?, print_headline:The Shadow of Death}
+news_desk:Magazine
+pub_date:2015-07-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/26/magazine/is-this-the-end-of-christianity-in-the-middle-east.html
+snippet:ISIS and other extremist movements across the region are enslaving, killing and uprooting Christians, with no aid in sight.
+lead_paragraph:ISIS and other extremist movements across the region are enslaving, killing and uprooting Christians, with no aid in sight.
+abstract:Spreading unrest and growing influence of Islamic State and other Muslim extremist groups in Iraq and Syria is threatening survival of Christian minority in region that gave rise to Christianity; ISIS is employing brutal policies in hopes of eradicating Christians and other minorities in many areas altogether, raising fears that entire societies and cultures will disappear.
+blog:null

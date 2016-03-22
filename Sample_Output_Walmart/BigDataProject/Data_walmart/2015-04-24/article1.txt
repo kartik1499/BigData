@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Ted Cruz Is Guest of Two Gay Businessmen, print_headline:Cruz Is Guest of Two Gay Businessmen}
+news_desk:National
+pub_date:2015-04-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html
+snippet:Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.
+lead_paragraph:Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.
+abstract:Sen Ted Cruz, Republican presidential hopeful who has taken strong stand against same-sex marriage, attends event at Manhattan apartment of two prominent gay hoteliers--Mati Weiderpass and Ian Reisner.
+blog:null

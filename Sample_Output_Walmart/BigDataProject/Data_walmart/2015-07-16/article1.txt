@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:More Fizzle Than Sizzle on Amazon’s Prime Day, print_headline:null}
+news_desk:Business
+pub_date:2015-07-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/16/business/more-fizzle-than-sizzle-as-amazons-prime-day-lurches-to-halfway-mark.html
+snippet:The much-ballyhooed 20th anniversary discount event is awash in complaints of lackluster products and interminable waiting.
+lead_paragraph:The much-ballyhooed 20th anniversary discount event is awash in complaints of lackluster products and interminable waiting.
+abstract:null
+blog:null

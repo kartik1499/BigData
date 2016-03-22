@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:McDonald&#8217;s Minimum Raise, print_headline:McDonald’s Minimum Raise}
+news_desk:Editorial
+pub_date:2015-04-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/04/opinion/mcdonalds-minimum-raise.html
+snippet:The wage increase is minimal and leaves out workers at the company&#8217;s franchise outlets.
+lead_paragraph:The wage increase is minimal and leaves out workers at the company&#8217;s franchise outlets.
+abstract:Editorial argues McDonald's decision to raise worker pay to $1 over local minimum wage at restaurants run by corporate headquarters falls short of living wage and excludes far greater number of workers at franchises; holds McDonald's cannot maintain maximum control over franchises and still claim no responsibility for franchise workers.
+blog:null

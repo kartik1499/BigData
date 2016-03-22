@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:This Was to Be the Year of Bigger Wage Gains. It’s Not., print_headline:Why Bigger Wage Gains Are Still Not Happening}
+news_desk:Business
+pub_date:2015-09-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/04/upshot/this-was-to-be-the-year-of-bigger-wage-gains-its-not.html
+snippet:Shadow workers, people who are sort of but not really in the labor force, may be holding wage growth back.
+lead_paragraph:Shadow workers, people who are sort of but not really in the labor force, may be holding wage growth back.
+abstract:The Upshot; slow wage gains are bedeviling economy despite low unemployment and minimum-wage increases; disconnect appears to be due to many so-called shadow workers, who are not actively in labor force and are not accounted for in unemployment rate.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Making Herbal Supplements Safer, print_headline:Making Herbal Supplements Safer}
+news_desk:Editorial
+pub_date:2015-04-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/01/opinion/making-herbal-supplements-safer.html
+snippet:GNC&#8217;s new testing procedures for herbal products should pave the way for tougher federal regulation.
+lead_paragraph:GNC&#8217;s new testing procedures for herbal products should pave the way for tougher federal regulation.
+abstract:Editorial welcomes agreement reached by office of New York State Atty Gen Eric Schneiderman and GNC that calls for sophisticated testing to authenticate company's herbal products; notes that deal is model for tougher federal regulations that should be applied to entire dietary supplement industry; urges Congress to grant Food and Drug Administration more power to oversee industry.
+blog:null

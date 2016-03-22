@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘Nathan for You,’ on Comedy Central, Mixes Absurdity and Economics, print_headline:A Business Bent With a Comic Edge}
+news_desk:Culture
+pub_date:2015-10-14
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/14/arts/television/nathan-for-you-on-comedy-central-mixes-absurdity-and-economics.html
+snippet:Nathan Fielder uses comic bits to suggest ways to help small business owners.
+lead_paragraph:Nathan Fielder uses comic bits to suggest ways to help small business owners.
+abstract:null
+blog:null

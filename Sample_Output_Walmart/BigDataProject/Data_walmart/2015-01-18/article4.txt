@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Packing Heat at the Airport? Oops, print_headline:Packing Heat at the Airport? Oops}
+news_desk:OpEd
+pub_date:2015-01-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/18/sunday-review/packing-heat-at-the-airport-oops.html
+snippet:With concealed-carry weapons permits becoming more common, travelers seem to forget they have firearms in their bags.
+lead_paragraph:With concealed-carry weapons permits becoming more common, travelers seem to forget they have firearms in their bags.
+abstract:News Analysis; Transportation Security Administration has reported 20 percent increase in number of gun confiscations at airport checkpoints in 2014, 230 percent increase from 2005; trend is attributed to both fact that more states allow concealed-carrying of firearms and that many more Americans have chosen to buy guns in response to mass shooting incidents.
+blog:null

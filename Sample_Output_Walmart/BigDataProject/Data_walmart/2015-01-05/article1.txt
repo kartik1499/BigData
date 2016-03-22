@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Privilege of &#8216;Arrest Without Incident&#8217;, print_headline:Privilege of ‘Arrest Without Incident’}
+news_desk:Editorial
+pub_date:2015-01-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/05/opinion/charles-blow-privilege-of-arrest-without-incident.html
+snippet:When a white, female shooter is calmly taken into custody, it&#8217;s hard not to believe there is a racial double standard.
+lead_paragraph:When a white, female shooter is calmly taken into custody, it&#8217;s hard not to believe there is a racial double standard.
+abstract:Charles M Blow Op-Ed column examines racial undertones in case of Julia Shields, white woman who was taken into custody 'without incident' after going on shooting spree in Chattanooga, Tenn; argues case illustrates double standard in light of recent police shootings of unarmed black men in far less dangerous situations, illustrating an unequal application of lethal force.
+blog:null

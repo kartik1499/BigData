@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Tracy Morgan and Walmart Settle Suit Over Fatal Crash, print_headline:Tracy Morgan and Walmart Settle Suit Over Turnpike Crash}
+news_desk:Metro
+pub_date:2015-05-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/28/nyregion/tracy-morgan-and-walmart-settle-suit-over-fatal-crash.html
+snippet:A confidential settlement was filed in Newark in the crash, which killed one man and left Mr. Morgan and two others seriously hurt.
+lead_paragraph:A confidential settlement was filed in Newark in the crash, which killed one man and left Mr. Morgan and two others seriously hurt.
+abstract:Comedian Tracy Morgan reaches confidential settlement in his lawsuit against Walmart over highway crash that killed fellow comedian James McNair and left Morgan and two others seriously hurt; tractor-trailer that had slammed into Morgan's limousine was operated by Walmart.
+blog:null

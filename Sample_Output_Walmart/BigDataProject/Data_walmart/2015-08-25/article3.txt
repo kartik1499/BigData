@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Man Charged in Pellet Shooting of Officer Outside Gracie Mansion, print_headline:Man, 19, Is Charged in Pellet Shooting of Officer }
+news_desk:Metro
+pub_date:2015-08-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/25/nyregion/man-arrested-in-pellet-attack-on-member-of-mayor-de-blasios-security-detail.html
+snippet:Michael Verbitsky, 19, was charged with second-degree assault and several misdemeanors, including reckless endangerment, criminal possession of a weapon and two counts of criminal mischief.
+lead_paragraph:Michael Verbitsky, 19, was charged with second-degree assault and several misdemeanors, including reckless endangerment, criminal possession of a weapon and two counts of criminal mischief.
+abstract:New York City police charge Michael Verbitsky with second-degree assault for allegedly shooting two police officers with pellet gun outside Gracie Mansion, Mayor Bill de Blasio's official residence; Verbitsky is also charged with several misdemeanors related to earlier pellet gun incidents in area.
+blog:null

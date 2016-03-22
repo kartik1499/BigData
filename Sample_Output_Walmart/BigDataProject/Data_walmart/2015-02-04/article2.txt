@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Times Article Prompts Investigation Into Herbal Supplements , print_headline:null}
+news_desk:null
+pub_date:2015-02-04
+source:The New York Times
+web_url:http://www.nytimes.com/times-insider/2015/02/04/times-article-prompts-investigation-into-herbal-supplements/
+snippet:The Times reporter Anahad O’Connor writes about the connection between his 2013 Science Times article about herbal supplements and an investigation by the New York attorney general’s office.
+lead_paragraph:null
+abstract:The Times reporter Anahad O’Connor writes about the connection between his 2013 Science Times article about herbal supplements and an investigation by the New York attorney general’s office.
+blog:null

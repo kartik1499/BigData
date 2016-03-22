@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Chipotle to Stop Using Genetically Altered Ingredients, print_headline:Chipotle to Stop Serving Genetically Altered Food}
+news_desk:Business
+pub_date:2015-04-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/27/business/chipotle-to-stop-serving-genetically-altered-food.html
+snippet:Starting Monday, nothing prepared by Chipotle, which has more than 1,800 restaurants, will contain any genetically modified ingredients.
+lead_paragraph:Starting Monday, nothing prepared by Chipotle, which has more than 1,800 restaurants, will contain any genetically modified ingredients.
+abstract:Chipotle Mexican Grill announces, beginning immediately, that it will only use foods that do not contain genetically modified ingredients in preparing its menu offerings.
+blog:null

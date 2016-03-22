@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:U.S. Labor Market Shows Some Muscle Despite Slower Job Growth, print_headline:U.S. Labor Market Shows Some Muscle Despite Slower Job Growth}
+news_desk:None
+pub_date:2015-09-04
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/09/04/business/04reuters-usa-economy.html
+snippet:U.S. job growth slowed in August, but the unemployment rate dropped to a near 7-1/2-year low and wages accelerated, keeping alive prospects of a Federal Reserve interest rate hike later this month.
+lead_paragraph:U.S. job growth slowed in August, but the unemployment rate dropped to a near 7-1/2-year low and wages accelerated, keeping alive prospects of a Federal Reserve interest rate hike later this month. 
+abstract:null
+blog:null

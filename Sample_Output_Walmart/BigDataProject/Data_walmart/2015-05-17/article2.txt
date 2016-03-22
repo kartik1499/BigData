@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:For the Highest-Paid C.E.O.s, the Party Goes On, print_headline:It&#8217;s (Still) Their Party }
+news_desk:SundayBusiness
+pub_date:2015-05-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/17/business/for-the-highest-paid-ceos-the-party-goes-on.html
+snippet:Four chief executives at five companies with ties to John C. Malone, who built a cable and communications empire, were awarded more than $350 million last year.
+lead_paragraph:Four chief executives at five companies with ties to John C. Malone, who built a cable and communications empire, were awarded more than $350 million last year.
+abstract:List of the 200 highest-paid American chief executives in 2014 reveals that their compensation has continued meteoric rise, with average package reaching $22.6 million, up from $20.7 million in 2013; four chiefs at companies with ties to communications billionaire John C Malone did particularly well, receiving more than $350 million collectively; outsize paydays persist despite efforts to curb executive compensation; chart lists top 200 CEOs by pay.
+blog:null

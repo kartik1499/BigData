@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:&#8216;Orange Is the New Black&#8217; Season 3, Episode 5 Recap: Flaca Takes a Test, print_headline:null}
+news_desk:Culture
+pub_date:2015-06-14
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/06/14/orange-is-the-new-black-season-3-episode-5-recap-flaca-flashback/
+snippet:All of Litchfield is aflutter when it’s revealed that there’s a new job opening that pays a dollar per hour
+lead_paragraph:null
+abstract:All of Litchfield is aflutter when it’s revealed that there’s a new job opening that pays a dollar per hour
+blog:null

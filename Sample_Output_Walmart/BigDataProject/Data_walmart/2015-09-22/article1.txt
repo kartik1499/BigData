@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Bernie Sanders Joins Rally of Striking Federal Workers to Call for Wage Increase, print_headline:null}
+news_desk:Politics
+pub_date:2015-09-22
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/09/22/bernie-sanders-joins-rally-of-striking-federal-workers-to-call-for-wage-increase/
+snippet:Bernie Sanders used the pope’s visit to amplify his call for a wage increase for federal workers by joining a rally of striking government workers at a Washington church.
+lead_paragraph:null
+abstract:Bernie Sanders used the pope’s visit to amplify his call for a wage increase for federal workers by joining a rally of striking government workers at a Washington church.
+blog:null

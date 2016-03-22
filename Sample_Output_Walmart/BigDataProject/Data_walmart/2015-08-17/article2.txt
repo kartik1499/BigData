@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Retailer Earnings, Fed Minutes and Greek Debt, print_headline:null}
+news_desk:Business
+pub_date:2015-08-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/17/business/retailer-earnings-fed-minutes-and-greek-debt.html
+snippet:This week, some of the nation's biggest retailers report earnings, the Federal Reserve will publish an account of its July meeting, and Greece must make a critical repayment.
+lead_paragraph:This week, some of the nation's biggest retailers report earnings, the Federal Reserve will publish an account of its July meeting, and Greece must make a critical repayment.
+abstract:null
+blog:null

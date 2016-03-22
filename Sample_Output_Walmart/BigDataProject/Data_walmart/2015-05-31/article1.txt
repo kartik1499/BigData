@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Cedar Lake Contemporary Ballet Will Take Final Bow at BAM, print_headline:The Last Dance for Cedar Lake}
+news_desk:Arts&Leisure
+pub_date:2015-05-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/31/arts/dance/cedar-lake-contemporary-ballet-will-take-final-bow-at-bam.html
+snippet:The dance company, founded by a Walmart heiress, abruptly announced its closure in March after 12 highly visible years.
+lead_paragraph:The dance company, founded by a Walmart heiress, abruptly announced its closure in March after 12 highly visible years.
+abstract:null
+blog:null

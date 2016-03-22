@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Holiday Shopping Season Forecast: Consumers Fight for Deals, print_headline:Holiday Shopping Season Forecast: Consumers Fight for Deals}
+news_desk:None
+pub_date:2015-10-05
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/10/05/business/05reuters-usa-retail-holidays.html
+snippet:U.S. retailers enter the holiday season vowing to control discounting that has wreaked havoc on their results in the past, but competition between stores, consumers trained to expect discounts and a still-recovering economy point to a difficult year.
+lead_paragraph:U.S. retailers enter the holiday season vowing to control discounting that has wreaked havoc on their results in the past, but competition between stores, consumers trained to expect discounts and a still-recovering economy point to a difficult year.
+abstract:null
+blog:null

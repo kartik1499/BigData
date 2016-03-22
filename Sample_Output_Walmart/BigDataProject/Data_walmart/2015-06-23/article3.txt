@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:DNA Matching 2 Escapees Is Found in Cabin 15 Miles From Prison, print_headline:DNA Matching 2 Escapees Is Found in Cabin 15 Miles From Prison}
+news_desk:Metro
+pub_date:2015-06-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/23/nyregion/escaped-convicts-manhunt-new-york.html
+snippet:The forensic evidence indicated that Richard W. Matt and David Sweat had been in Franklin County, N.Y., 15 miles west of the Clinton Correctional Facility, within the last 48 hours.
+lead_paragraph:The forensic evidence indicated that Richard W. Matt and David Sweat had been in Franklin County, N.Y., 15 miles west of the Clinton Correctional Facility, within the last 48 hours.
+abstract:DNA matching Richard W Matt and David Sweat, murderers who escaped from Clinton Correctional Facility in upstate New York, is found in cabin 15 miles from prison; Matt and Sweat were discovered missing from prison on June 6.
+blog:null

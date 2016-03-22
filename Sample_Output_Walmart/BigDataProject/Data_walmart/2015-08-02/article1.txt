@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Treat That Could Bite Your Dog Back, print_headline:The Treat That Could Bite Your Dog Back }
+news_desk:SundayBusiness
+pub_date:2015-08-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/02/your-money/the-treat-that-could-bite-your-dog-back.html
+snippet:Problems have been reported with a brand of shrink-wrapped dog bone, but the real problem may be that all bones can represent a hazard to dogs.
+lead_paragraph:Problems have been reported with a brand of shrink-wrapped dog bone, but the real problem may be that all bones can represent a hazard to dogs.
+abstract:David Segal The Haggler column relates discussion with Dynamic Pet Products owner David Frick about safety of company's Real Ham Bone, which critics say can be harmful to dogs. 
+blog:null

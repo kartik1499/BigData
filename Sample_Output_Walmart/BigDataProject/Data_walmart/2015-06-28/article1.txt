@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Straddling Old and New, a South Where &#8216;a Flag Is Not Worth a Job&#8217; , print_headline:Southern Customs Yield to a New Age: &#8216;A Flag Is Not Worth a Job&#8217; }
+news_desk:National
+pub_date:2015-06-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/28/us/straddling-old-and-new-a-south-where-a-flag-is-not-worth-a-job.html
+snippet:The massacre at a church in Charleston, S.C., this month casts the tensions between the Old South and the New into sharp relief.
+lead_paragraph:The massacre at a church in Charleston, S.C., this month casts the tensions between the Old South and the New into sharp relief.
+abstract:Charleston, SC, massacre and ensuing push to take down Confederate flag have cast into relief tensions between Old South and new; region has gone through startling economic and social shifts, but old truths such as power of church, persistent poverty and racial divides remain; willingness of conservative southern politicians to join push to remove flag is nonetheless a remarkable milestone of change.
+blog:null

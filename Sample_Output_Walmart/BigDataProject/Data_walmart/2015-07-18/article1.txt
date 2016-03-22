@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:CVS and Walmart Canada Are Investigating a Data Breach, print_headline:2 Retailers Investigate Data Breach in Websites}
+news_desk:Business
+pub_date:2015-07-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/18/business/cvs-and-walmart-canada-are-investigating-a-data-breach.html
+snippet:The retailers temporarily shut down their online photo processing services to determine the extent of a possible credit card data breach.
+lead_paragraph:The retailers temporarily shut down their online photo processing services to determine the extent of a possible credit card data breach.
+abstract:Retailers CVS and Walmart Canada report that credit card data for millions of users may have been compromised by hacking of networks at PNI Digital Media, Vancouver-based information technology vendor.
+blog:null

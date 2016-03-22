@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Slack, the Office Messaging App That May Finally Sink Email, print_headline:An Office Messaging App That May Finally Sink Email}
+news_desk:Business
+pub_date:2015-03-12
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/12/technology/slack-the-office-messaging-app-that-may-finally-sink-email.html
+snippet:The start-up Slack is changing the way workers communicate, with a group chat app that eschews privacy and automatically archives almost everything.
+lead_paragraph:The start-up Slack is changing the way workers communicate, with a group chat app that eschews privacy and automatically archives almost everything.
+abstract:Farhad Manjoo State of the Art column highlights start-up Slack as best example of communication system that has potential to rival, and possibly supplant, reliance on email, particularly in workplaces; isolates certain features that reflect co-founder Stewart Butterfield's vision of office, such as way majority of communications are visible to everyone in a company, to enhance collaboration and transparency.
+blog:null

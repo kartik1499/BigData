@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Girlfriend of Man Shot by Ohio Police in Walmart Dies in Car Crash, print_headline:Girlfriend of Man Shot by Ohio Police in Walmart Dies in Car Crash}
+news_desk:None
+pub_date:2015-01-02
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/02/us/02reuters-usa-ohio-shooting-police.html
+snippet:The girlfriend of a man shot dead by police while he was holding a BB gun at an Ohio Walmart has died in a car accident, a lawyer for the man's family said on Friday.
+lead_paragraph:The girlfriend of a man shot dead by police while he was holding a BB gun at an Ohio Walmart has died in a car accident, a lawyer for the man's family said on Friday.
+abstract:null
+blog:null

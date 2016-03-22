@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Worker Group Presses Target to Boost Hourly Wage, print_headline:Worker Group Presses Target to Boost Hourly Wage}
+news_desk:None
+pub_date:2015-03-10
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/03/10/business/10reuters-target-wages.html
+snippet:A women's group has started a campaign calling on Target Corp to raise its hourly wages, as pressure builds on retailers to follow Wal-Mart Stores Inc in boosting worker pay.
+lead_paragraph:A women's group has started a campaign calling on Target Corp to raise its hourly wages, as pressure builds on retailers to follow Wal-Mart Stores Inc in boosting worker pay.
+abstract:null
+blog:null

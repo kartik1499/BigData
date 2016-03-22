@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Authorities Aim to Sell BMW Man Bought After $31K Bank Error, print_headline:Authorities Aim to Sell BMW Man Bought After $31K Bank Error}
+news_desk:None
+pub_date:2015-03-11
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/11/us/ap-us-bank-error-arrest.html
+snippet:Authorities hope to auction a BMW convertible that a Georgia man bought during a spending spree after $31,000 suddenly showed up in his checking account.
+lead_paragraph:Authorities hope to auction a BMW convertible that a Georgia man bought during a spending spree after $31,000 suddenly showed up in his checking account.
+abstract:null
+blog:null

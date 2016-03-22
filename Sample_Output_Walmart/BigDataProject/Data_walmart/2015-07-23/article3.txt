@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Armed and Determined, Civilians Look to Prevent Another Chattanooga, print_headline:Civilians Look to Prevent a Repeat of Chattanooga}
+news_desk:National
+pub_date:2015-07-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/23/us/armed-and-determined-civilians-look-to-prevent-another-chattanooga.html
+snippet:Armed citizens are intent on beefing up security at recruitment centers after the fatal shootings in Tennessee. But the help, if well intentioned, is raising questions and concerns.
+lead_paragraph:Armed citizens are intent on beefing up security at recruitment centers after the fatal shootings in Tennessee. But the help, if well intentioned, is raising questions and concerns.
+abstract:Armed civilians have begun showing up to guard military recruitment centers across United States following attack on military facility in Chattanooga, Tenn; many say they will continue until officers at centers are themselves armed; military officials politely discourage trend, expressing concern that armed presence will discourage people from entering centers to enlist.
+blog:null

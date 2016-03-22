@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: Greece and Creditors at an Impasse Over Taxes, print_headline:null}
+news_desk:null
+pub_date:2015-06-25
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/06/25/morning-agenda-greece-and-creditors-at-an-impasse-over-taxes/
+snippet:Greece and Creditors at an Impasse Over Taxes | Is Greece Like Lehman Brothers or RadioShack? | Ahold-Delhaize Merger Reflects Flat Growth in Grocery Market
+lead_paragraph:null
+abstract:Greece and Creditors at an Impasse Over Taxes | Is Greece Like Lehman Brothers or RadioShack? | Ahold-Delhaize Merger Reflects Flat Growth in Grocery Market
+blog:null

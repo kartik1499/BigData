@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: Bernanke, Citadel&#8217;s New Adviser, print_headline:null}
+news_desk:null
+pub_date:2015-04-16
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/04/16/morning-agenda-bernanke-citadels-new-adviser/
+snippet:An I.P.O. bonanza. | A big earnings week for Wall Street.| And Stephen A. Schwarzman’s other complex deal.
+lead_paragraph:null
+abstract:An I.P.O. bonanza. | A big earnings week for Wall Street.| And Stephen A. Schwarzman’s other complex deal.
+blog:null

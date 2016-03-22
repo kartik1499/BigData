@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:U.S. Military Drills Stoke Politics of Suspicion in Texas, print_headline:U.S. Military Drills Stoke Politics of Suspicion in Texas}
+news_desk:None
+pub_date:2015-07-12
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/07/12/us/12reuters-usa-military-texas.html
+snippet:To hear the conspiracy theorists tell it, a labyrinth of tunnels is being built under Walmart stores for military attacks on civilians, and an orchestrated financial crisis will lead to martial law, U.S. troops patrolling chaotic streets, and a...
+lead_paragraph:To hear the conspiracy theorists tell it, a labyrinth of tunnels is being built under Walmart stores for military attacks on civilians, and an orchestrated financial crisis will lead to martial law, U.S. troops patrolling chaotic streets, and a dictatorship under President Barack Obama.
+abstract:null
+blog:null

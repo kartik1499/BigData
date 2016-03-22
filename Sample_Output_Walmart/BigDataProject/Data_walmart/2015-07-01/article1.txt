@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:TV Land Pulls 'Dukes of Hazzard' Reruns From Its Schedule, print_headline:TV Land Pulls 'Dukes of Hazzard' Reruns From Its Schedule}
+news_desk:None
+pub_date:2015-07-01
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/07/01/arts/ap-us-tv-dukes-dumped.html
+snippet:TV Land has dumped "The Dukes of Hazzard."
+lead_paragraph:TV Land has dumped "The Dukes of Hazzard."
+abstract:null
+blog:null

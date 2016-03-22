@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Inside Amazon: Wrestling Big Ideas in a Bruising Workplace, print_headline:Amazon’s Bruising, Thrilling Workplace}
+news_desk:Business
+pub_date:2015-08-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
+snippet:The company is conducting an experiment in how far it can push white-collar workers to get them to achieve its ever-expanding ambitions.
+lead_paragraph:The company is conducting an experiment in how far it can push white-collar workers to get them to achieve its ever-expanding ambitions.
+abstract:White-collar employees at Amazon are subjected to rigorous and unforgiving workplace environment that promotes heated competition, relentless feedback from managers and regular culling of staff; unique workplace culture was envisioned by founder Jeff Bezos; some find management style to be thrilling and motivating while others are demoralized and feel they are treated unfairly.
+blog:null

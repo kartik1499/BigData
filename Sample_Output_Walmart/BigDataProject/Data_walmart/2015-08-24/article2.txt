@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:¿Cómo es trabajar en Amazon? Grandes ideas, alta presión, print_headline:null}
+news_desk:Universal
+pub_date:2015-08-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/24/universal/es/como-es-trabajar-en-amazon-grandes-ideas-alta-presion.html
+snippet:El gigante tecnológico se ha ganado una reputación de llevar a sus empleados al límite para seguir creciendo.
+lead_paragraph:El gigante tecnológico se ha ganado una reputación de llevar a sus empleados al límite para seguir creciendo.
+abstract:null
+blog:null

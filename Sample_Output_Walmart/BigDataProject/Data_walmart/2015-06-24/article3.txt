@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Shares Eke Out Gains as Investors Watch Debt Talks With Greece, print_headline:Shares Climb as Investors Watch Greek Debt Talks}
+news_desk:Business
+pub_date:2015-06-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/24/business/daily-stock-market-activity.html
+snippet:Stocks added to gains from Monday, as reports from Europe suggested that Greece’s proposals for budget savings appeared to have won initial approval.
+lead_paragraph:Stocks added to gains from Monday, as reports from Europe suggested that Greece’s proposals for budget savings appeared to have won initial approval.
+abstract:Stocks edge slowly higher as investors await news on deal between Greece and its creditors that appears to be making progress.
+blog:null

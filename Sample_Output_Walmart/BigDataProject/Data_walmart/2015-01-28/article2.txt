@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Mobile Provider TracFone to Pay $40M in Federal Settlement, print_headline:Mobile Provider TracFone to Pay $40M in Federal Settlement}
+news_desk:None
+pub_date:2015-01-28
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/28/us/politics/ap-us-ftc-tracfone-settlement.html
+snippet:The nation's largest prepaid mobile provider, TracFone Wireless, will pay $40 million to settle government claims that it misled millions of smartphone customers with promises of unlimited data service.
+lead_paragraph:The nation's largest prepaid mobile provider, TracFone Wireless, will pay $40 million to settle government claims that it misled millions of smartphone customers with promises of unlimited data service.
+abstract:null
+blog:null

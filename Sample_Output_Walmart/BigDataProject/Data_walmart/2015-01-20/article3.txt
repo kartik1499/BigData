@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Activist Investor to Step Up Push for a Merger of Staples and Office Depot, print_headline:Pushing for a Deal}
+news_desk:Business
+pub_date:2015-01-20
+source:The New York Times
+web_url:http://dealbook.nytimes.com/2015/01/20/activist-investor-to-step-up-push-for-a-staples-office-depot-merger/
+snippet:Starboard Value will threaten to seek a fight for representation on the board if Staples does not pursue a deal for Office Depot.
+lead_paragraph:null
+abstract:Starboard Value will threaten to seek a fight for representation on the board if Staples does not pursue a deal for Office Depot.
+blog:null

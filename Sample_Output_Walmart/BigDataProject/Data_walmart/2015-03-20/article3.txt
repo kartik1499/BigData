@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Magazine Publisher Meredith Finds Success Focusing on Women, print_headline:Magazine Publisher Meredith Finds Success Focusing on Women}
+news_desk:None
+pub_date:2015-03-20
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/03/20/us/ap-us-thriving-meredith.html
+snippet:The nation's top publisher of magazines and websites for women has its origins in a journal sold door-to-door featuring tips to help farmers get ahead in the early 1900s.
+lead_paragraph:The nation's top publisher of magazines and websites for women has its origins in a journal sold door-to-door featuring tips to help farmers get ahead in the early 1900s.
+abstract:null
+blog:null

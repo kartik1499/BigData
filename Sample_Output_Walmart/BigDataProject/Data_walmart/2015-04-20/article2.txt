@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Labor Group Seeks Rehiring of Workers at 5 Walmart Stores, print_headline:Labor Group Seeks Rehiring of Workers at 5 Wal-Mart Stores}
+news_desk:None
+pub_date:2015-04-20
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/04/20/business/ap-us-wal-mart-nrlb.html
+snippet:A union is asking labor regulators to go to court to force Walmart to rehire all 2,200 employees affected by the abrupt temporary closing of five stores a week ago.
+lead_paragraph:A union is asking labor regulators to go to court to force Walmart to rehire all 2,200 employees affected by the abrupt temporary closing of five stores a week ago.
+abstract:null
+blog:null

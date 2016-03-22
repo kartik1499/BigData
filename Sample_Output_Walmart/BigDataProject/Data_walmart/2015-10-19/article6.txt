@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: The Deutsche Bank Shake-Up, print_headline:null}
+news_desk:null
+pub_date:2015-10-19
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/10/19/morning-agenda-the-deutsche-bank-shake-up/
+snippet:Challenging Private Equity Fees | Mega-Deals Test Antitrust Limits
+lead_paragraph:null
+abstract:Challenging Private Equity Fees | Mega-Deals Test Antitrust Limits
+blog:null

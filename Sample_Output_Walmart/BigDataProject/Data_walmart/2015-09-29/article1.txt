@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:As Online Data Theft Escalates, Banks Look to Retailers to Bear the Losses  , print_headline:After the Break-In, the Bill}
+news_desk:Business
+pub_date:2015-09-29
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/29/business/as-online-data-theft-escalates-banks-look-to-retailers-to-bear-the-losses.html
+snippet:As a deadline approaches for new chip-enabled credit and debit cards to thwart data breaches, banks and credit unions are applying another sort of pressure by suing retailers over lax security.
+lead_paragraph:As a deadline approaches for new chip-enabled credit and debit cards to thwart data breaches, banks and credit unions are applying another sort of pressure by suing retailers over lax security.
+abstract:Some small banks and credit unions are suing retailers like Home Depot to pay for financial losses incurred in credit card data thefts; stores with poor data security could be liable for fraudulent charges; retailers are scrambling to meet deadlines to install machines to read card microchips as lawsuits move forward.
+blog:null

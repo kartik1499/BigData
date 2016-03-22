@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Court by Court, Lawyers Fight Policies That Fall Heavily on the Poor, print_headline:Fighting Court by Court to End Judicial Policies That Fall Heavily on Poor}
+news_desk:National
+pub_date:2015-10-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/24/us/court-by-court-lawyers-fight-practices-that-punish-the-poor.html
+snippet:Rights groups are waging a guerrilla campaign to reverse what they call unconstitutional but widespread practices such as jail time for failing to pay fines.
+lead_paragraph:Rights groups are waging a guerrilla campaign to reverse what they call unconstitutional but widespread practices such as jail time for failing to pay fines.
+abstract:Civil rights lawyer Alec Karakatsanis is practicing strategy of suing  in federal court municipalities whose bail policies discriminate against poor by imprisoning them while allowing those who can pay to go free; Justice Dept supports such suits, which are being reproduced around the country and have forced cities to change policies; enforceability and lack of higher court precedents are still concern for civil rights lawyers and groups seeking to make change.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Key Findings in New York State Herbal Supplements Probe, print_headline:Key Findings in New York State Herbal Supplements Probe}
+news_desk:None
+pub_date:2015-02-03
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/03/us/ap-us-herbal-supplements-investigation-glance.html
+snippet:Some key findings in an investigation by the New York state Attorney General's Office into the store brand herbal supplements sold by four major retailers: GNC, Target, Walmart and Walgreens:
+lead_paragraph:Some key findings in an investigation by the New York state Attorney General's Office into the store brand herbal supplements sold by four major retailers: GNC, Target, Walmart and Walgreens:
+abstract:null
+blog:null

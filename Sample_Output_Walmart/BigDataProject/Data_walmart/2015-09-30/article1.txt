@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:George W. Bush Makes Fund-Raising Appeal for Jeb Bush, print_headline:null}
+news_desk:Politics
+pub_date:2015-09-30
+source:The New York Times
+web_url:http://www.nytimes.com/politics/first-draft/2015/09/30/george-w-bush-makes-fund-raising-appeal-for-jeb-bush/
+snippet:Former President George W. Bush took a small step into a more public role in his younger brother Jeb Bush’s 2016 presidential campaign by sending out an email encouraging donors to contribute.
+lead_paragraph:null
+abstract:Former President George W. Bush took a small step into a more public role in his younger brother Jeb Bush’s 2016 presidential campaign by sending out an email encouraging donors to contribute.
+blog:null

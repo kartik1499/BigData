@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Chattanooga, a Young Man in a Downward Spiral, print_headline:In Chattanooga, Young Man in Downward Spiral }
+news_desk:National
+pub_date:2015-07-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/21/us/chattanooga-gunman-wrote-of-suicide-and-martyrdom-official-says.html
+snippet:Mohammod Abdulazeez’s past included drug abuse, mental illness and trouble keeping work. The authorities also found that he viewed material connected to Anwar al-Awlaki, the radical U.S.-born cleric.
+lead_paragraph:Mohammod Abdulazeez’s past included drug abuse, mental illness and trouble keeping work. The authorities also found that he viewed material connected to Anwar al-Awlaki, the radical U.S.-born cleric.
+abstract:FBI investigation into Mohammod Abdulazeez, gunman in Chattanooga, Tenn, attacks that killed four Marines, fatally wounded one and injured two others, reveals deeply troubled young man struggling with mental illness and drug addiction who was critical of United States policies in Middle East; authorities examining his computer also find that he viewed material connected to radical American-born cleric Anwar al-Awlaki.
+blog:null

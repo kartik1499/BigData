@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Judge Rejects Settlement in American Express Case , print_headline:Judge Rejects Settlement in American Express Case }
+news_desk:Business
+pub_date:2015-08-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/05/business/dealbook/judge-rejects-settlement-in-american-express-case.html
+snippet:Citing &#8220;egregious conduct&#8221; in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.
+lead_paragraph:Citing &#8220;egregious conduct&#8221; in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.
+abstract:Judge Nicholas G Garaufis of United States District Court in Brookly rejects proposed $75 million class-action settlement between American Express and retailers who wish to charge consumers more for using company's credit cards; cites communications between lawyers Gary Friedman and Keila Ravelo that included confidential information; decision could have ripple effect for larger settlement between same merchants and Visa and MasterCard that was made in 2013.  
+blog:null

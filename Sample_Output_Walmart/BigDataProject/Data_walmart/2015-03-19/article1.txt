@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Plans to Raise Pay to at Least $9 an Hour, print_headline:Target Plans to Raise Pay to at Least $9 an Hour}
+news_desk:Business
+pub_date:2015-03-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/19/business/target-plans-to-raise-pay-to-at-least-9-an-hour.html
+snippet:Target, a retailer with about 347,000 workers in the United States, reportedly has told employees they will start to get higher wages this spring.
+lead_paragraph:Target, a retailer with about 347,000 workers in the United States, reportedly has told employees they will start to get higher wages this spring.
+abstract:Target says it will raise pay of its workers to at least $9 per hour, joining other large retailers that have been under pressure from labor groups.
+blog:null

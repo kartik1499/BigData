@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:When Does a Halloween Costume Cross the Line?, print_headline:null}
+news_desk:null
+pub_date:2015-10-29
+source:The New York Times
+web_url:http://learning.blogs.nytimes.com/2015/10/29/when-does-a-halloween-costume-cross-the-line/
+snippet:What advice would you give to someone who is unsure whether her or his planned costume is offensive?
+lead_paragraph:null
+abstract:What advice would you give to someone who is unsure whether her or his planned costume is offensive?
+blog:null

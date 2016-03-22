@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Sweeping Away Gender-Specific Toys and Labels, print_headline:A Tiara? No Thanks}
+news_desk:Business
+pub_date:2015-10-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/28/business/sweeping-away-gender-specific-toys-and-labels.html
+snippet:Retailers and manufacturers are heeding concerns about stereotyping that some parents say still pervades children’s toys, clothes, costumes and other items.
+lead_paragraph:Retailers and manufacturers are heeding concerns about stereotyping that some parents say still pervades children’s toys, clothes, costumes and other items.
+abstract:Retailers and manufacturers in $22 billion toy industry are heeding trend toward gender-neutral toys and Halloween costumes; many families are tired of stereotypes for boys' and girls' toys and outfits; androgynous clothing labels and store aisles are becoming more common.
+blog:null

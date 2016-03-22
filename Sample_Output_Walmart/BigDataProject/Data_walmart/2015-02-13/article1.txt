@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Recalls This Week: Fire Extinguishers, Smoke Detectors, print_headline:Recalls This Week: Fire Extinguishers, Smoke Detectors}
+news_desk:None
+pub_date:2015-02-13
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/13/business/ap-us-recalls-this-week.html
+snippet:About 4.6 million disposable fire extinguishers are being recalled because of a faulty valve that can make the device ineffective. Other consumer products recalled this week include a smoke and carbon monoxide detector and a children's bicycle.
+lead_paragraph:About 4.6 million disposable fire extinguishers are being recalled because of a faulty valve that can make the device ineffective. Other consumer products recalled this week include a smoke and carbon monoxide detector and a children's bicycle.
+abstract:null
+blog:null

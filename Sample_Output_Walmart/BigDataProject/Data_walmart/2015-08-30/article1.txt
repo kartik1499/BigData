@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Owned by Union, Amalgamated Bank Gives Lift to the Left, print_headline:Stakes So High, Democrats Get a Go-To Bank}
+news_desk:National
+pub_date:2015-08-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/30/us/politics/owned-by-union-amalgamated-bank-gives-lift-to-the-left.html
+snippet:Amalgamated Bank has aggressively carved out a position as the left&#8217;s private banker, leveraging deep connections with the Democratic establishment.
+lead_paragraph:Amalgamated Bank has aggressively carved out a position as the left&#8217;s private banker, leveraging deep connections with the Democratic establishment.
+abstract:Amalgamated Bank, founded in 1923 by union Amalgamated Clothing Workers of America, has come back from brink of financial collapse, becoming critical tool of Democratic establishment in leveraging financial clout of labor unions, left-leaning philanthropists and Democrats' political campaigns; president and former union official Keith Mestrich maintains that serving liberal political allies is central to bank’s mission.
+blog:null

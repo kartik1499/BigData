@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Tearing Down the Confederate Flag Is Just a Start, print_headline:Tearing Down the Confederate Flag Is Just a Start}
+news_desk:OpEd
+pub_date:2015-06-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/25/opinion/tearing-down-the-confederate-flag-is-just-a-start.html
+snippet:I’m all for celebrating the drawing down of the flag, but now let’s pivot from symbolic moves to substantial ones.
+lead_paragraph:I’m all for celebrating the drawing down of the flag, but now let’s pivot from symbolic moves to substantial ones.
+abstract:Nicholas Kristof Op-Ed column celebrates prospect that South Carolina may remove Confederate flag from its statehouse, calling it clear symbol of slavery and racial violence; holds movement to remove flags may have symbolic power, but depths of racial inequality in America go far deeper; argues time has come to address true forces thwarting lives of black Americans--poverty, education, shorter life expectancy and mass incarceration.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Review: John Cariani’s ‘Love/Sick’ at Royal Family, print_headline:Two Hearts, Two Carts}
+news_desk:Culture
+pub_date:2015-02-14
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/14/theater/review-john-carianis-love-sick-at-royal-family.html
+snippet:Mr. Cariani has joined the cast of his new nine-vignette romantic comedy, billed as a &#8220;darker cousin&#8221; to his international hit &#8220;Almost, Maine.&#8221;
+lead_paragraph:Mr. Cariani has joined the cast of his new nine-vignette romantic comedy, billed as a &#8220;darker cousin&#8221; to his international hit &#8220;Almost, Maine.&#8221;
+abstract:Ken Jaworowski reviews John Cariani play Love/Sick, directed by Chris Henry at the Royal Family Arts Space.
+blog:null

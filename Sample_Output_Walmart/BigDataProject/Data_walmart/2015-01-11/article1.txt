@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Gun Rights, From Holsters to Bras, print_headline:Gun Rights, From Holsters to Bras}
+news_desk:Editorial
+pub_date:2015-01-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/11/opinion/sunday/gun-rights-from-holsters-to-bras.html
+snippet:The open-carry debate in Texas is the latest barometer of America&#8217;s firearm culture, as it veers somewhere between eerie and lethal.
+lead_paragraph:The open-carry debate in Texas is the latest barometer of America&#8217;s firearm culture, as it veers somewhere between eerie and lethal.
+abstract:Editorial observes that Texas may pass legislation that will allow gun owners to carry handguns openly as it is priority of Republican majority in State Legislature and of Gov-elect Greg Abbott; laments that debate in Texas over whether to allow open-carrying of handguns is barometer of where nation finds itself in gun debate, despite numerous deaths by firearms either by accident or by disturbed individuals.
+blog:null

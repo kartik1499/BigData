@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Recalls This Week: Pacifier Clips, Bicycles, Armchairs, print_headline:Recalls This Week: Pacifier Clips, Bicycles, Armchairs}
+news_desk:None
+pub_date:2015-10-02
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/10/02/business/ap-us-recalls-this-week.html
+snippet:A line of pacifier clips that pose a choking hazard to children are among this week's recalled consumer products. Others include women's sandals, bicycles and armchairs.
+lead_paragraph:A line of pacifier clips that pose a choking hazard to children are among this week's recalled consumer products. Others include women's sandals, bicycles and armchairs.
+abstract:null
+blog:null

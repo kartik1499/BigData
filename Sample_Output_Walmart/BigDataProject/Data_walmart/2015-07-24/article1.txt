@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Amazon Reports Unexpected Profit, and Stock Soars, print_headline:The Leader of E-Commerce Shows a Profit for a Change}
+news_desk:Business
+pub_date:2015-07-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/24/technology/amazon-earnings-q2.html
+snippet:A reason for the company’s success has been its cloud computing division, Amazon Web Services, which generated $1.82 billion in revenue last quarter.
+lead_paragraph:A reason for the company’s success has been its cloud computing division, Amazon Web Services, which generated $1.82 billion in revenue last quarter.
+abstract:Amazon reports second-quarter profit of $92 million, or 19 cents a share, compared with loss of 27 cents a share in year-ago quarter; revenue rose 20 percent to $23.2 billion; shares rise 17 percent in after-hours trading; large contributor to profit is cloud computing division Amazon Web Services.
+blog:null

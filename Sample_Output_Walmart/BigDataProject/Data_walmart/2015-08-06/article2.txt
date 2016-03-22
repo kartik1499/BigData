@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A Year After Shooting, Ferguson Faces Financial Toll, print_headline:A Year After Shooting, Ferguson Faces Financial Toll}
+news_desk:None
+pub_date:2015-08-06
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/06/us/06reuters-ferguson-anniversary-finance.html
+snippet:A year after Ferguson, Missouri, was torn by unrest over a white policeman's fatal shooting of unarmed black teenager Michael Brown, the town that became a symbol of racial inequality in America faces a significant financial toll.
+lead_paragraph:A year after Ferguson, Missouri, was torn by unrest over a white policeman's fatal shooting of unarmed black teenager Michael Brown, the town that became a symbol of racial inequality in America faces a significant financial toll.
+abstract:null
+blog:null

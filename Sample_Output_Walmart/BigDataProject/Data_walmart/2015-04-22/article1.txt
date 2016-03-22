@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:What Bangladeshi Garment Workers Need From the West, print_headline:null}
+news_desk:OpEd
+pub_date:2015-04-22
+source:The New York Times
+web_url:http://takingnote.blogs.nytimes.com/2015/04/22/what-bangladeshi-garment-workers-need-from-the-west/
+snippet:Western retailers have taken some steps to improve worker safety in Bangladesh, but they must do more.
+lead_paragraph:null
+abstract:Western retailers have taken some steps to improve worker safety in Bangladesh, but they must do more.
+blog:null

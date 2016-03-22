@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Italy's Benetton Pays $1.1 Million to Rana Plaza Disaster Fund, print_headline:Italy's Benetton Pays $1.1 Million to Rana Plaza Disaster Fund}
+news_desk:None
+pub_date:2015-04-17
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/04/17/world/europe/17reuters-ranaplaza-benetton-contribution.html
+snippet:Italian clothes group Benetton has paid $1.1 million into a fund for victims of the Rana Plaza factory collapse that killed 1,100 workers in Bangladesh two years ago, the company said on Friday, after pressure from activists to donate to the fund.
+lead_paragraph:Italian clothes group Benetton has paid $1.1 million into a fund for victims of the Rana Plaza factory collapse that killed 1,100 workers in Bangladesh two years ago, the company said on Friday, after pressure from activists to donate to the fund.
+abstract:null
+blog:null

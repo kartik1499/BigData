@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Coming Soon to Checkouts: Microchip-Card Payment Systems, print_headline:Coming Soon to Checkouts: Microchip-Card Payment Systems}
+news_desk:Business
+pub_date:2015-09-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/24/business/smallbusiness/coming-soon-to-checkouts-microchip-card-payment-systems.html
+snippet:Retailers are racing to meet an Oct. 1 deadline set by credit card networks to switch to the more secure payment technology that is common in most of the world except the United States.
+lead_paragraph:Retailers are racing to meet an Oct. 1 deadline set by credit card networks to switch to the more secure payment technology that is common in most of the world except the United States.
+abstract:Credit card networks are urging retailers to adopt microchip-card system by Oct 1 deadline; more secure payment technology is widely used in Europe and Canada but infrequent in United States.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:New York Reaches Accords With Sellers of Toy Guns , print_headline:New York Reaches Accords With Sellers of Toy Guns }
+news_desk:Business
+pub_date:2015-08-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/03/business/new-york-reaches-accords-with-sellers-of-toy-guns.html
+snippet:The agreement includes civil penalties and stricter state standards on how toy guns look, which are intended to make them distinguishable from real guns.
+lead_paragraph:The agreement includes civil penalties and stricter state standards on how toy guns look, which are intended to make them distinguishable from real guns.
+abstract:Retailers including Walmart, Sears and Amazon reach settlement with New York Atty Gen Eric T Schneiderman under which they will stop selling realistic-looking toy guns in state; will pay collective civil penalties of more than $300,000 for selling 6,400 such toys from 2012 to 2014.  
+blog:null

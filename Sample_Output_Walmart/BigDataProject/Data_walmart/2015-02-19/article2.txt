@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Half-Million of Wal-Mart's US Workers to Get Pay Raises, print_headline:Half-Million of Wal-Mart's US Workers to Get Pay Raises}
+news_desk:None
+pub_date:2015-02-19
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/19/us/ap-us-wal-mart-worker-pay-raises.html
+snippet:Wal-Mart Stores Inc. is hoping its decision to boost workers' paychecks will help it boost its bottom line.
+lead_paragraph:Wal-Mart Stores Inc. is hoping its decision to boost workers' paychecks will help it boost its bottom line.
+abstract:null
+blog:null

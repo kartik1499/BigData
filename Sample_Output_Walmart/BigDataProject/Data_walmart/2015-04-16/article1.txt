@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Test for Unions and Politicians, a Nationwide Protest on Pay , print_headline:In Test for Unions and Politicians, a Nationwide Protest on Pay}
+news_desk:Business
+pub_date:2015-04-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/16/business/economy/in-test-for-unions-and-politicians-a-nationwide-protest-on-pay.html
+snippet:For activists anticipating the 2016 presidential race, the minimum wage fight, and the challenge it poses to a system they say favors the rich, comes at a pivotal time.
+lead_paragraph:For activists anticipating the 2016 presidential race, the minimum wage fight, and the challenge it poses to a system they say favors the rich, comes at a pivotal time.
+abstract:Protest in more than 200 American cities by fast-food and other low-wage workers for $15-an-hour minimum wage has broad public support but is up against hostile business sector; issue is timely one, as 2016 presidential election is gearing up and it could become first large-scale challenge to an economic system that some see as favoring the wealthy; while many large employers have moved to raise base pay, business groups claim higher wages will lead to less hiring.
+blog:null

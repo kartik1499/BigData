@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:How to Sell the Most Cookies, print_headline:How to Sell the Most Cookies}
+news_desk:Magazine
+pub_date:2015-07-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/05/magazine/how-to-sell-the-most-cookies.html
+snippet:Sing like a Girl Scout. Build up your support crew.
+lead_paragraph:Sing like a Girl Scout. Build up your support crew.
+abstract:Malia Wollan Tip column shares Girl Scout Katie Francis' suggestions for selling Girl Scout cookies; Francis sold 22,200 boxes of cookies in 2015, breaking world record she set in 2014.
+blog:null

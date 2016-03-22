@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Earnings From Walmart and More Big Retailers; Wall Street&#8217;s Annual Meetings, print_headline:Earnings From Walmart and More Big Retailers; Wall Street&#8217;s Annual Meetings}
+news_desk:Business
+pub_date:2015-05-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/18/business/earnings-from-walmart-and-more-big-retailers-wall-streets-annual-meetings.html
+snippet:Walmart, Home Depot and Target are among the retailers posting results this week; Japan will report its G.D.P. on Wednesday; and the big Wall Street banks will hold their annual meetings with shareholders.
+lead_paragraph:Walmart, Home Depot and Target are among the retailers posting results this week; Japan will report its G.D.P. on Wednesday; and the big Wall Street banks will hold their annual meetings with shareholders.
+abstract:null
+blog:null

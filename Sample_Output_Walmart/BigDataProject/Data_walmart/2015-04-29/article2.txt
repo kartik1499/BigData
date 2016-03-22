@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Patrick Likes Chemistry With Crew Chief After Decent Start, print_headline:Patrick Likes Chemistry With Crew Chief After Decent Start}
+news_desk:None
+pub_date:2015-04-29
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/04/29/sports/ap-car-around-the-track-.html
+snippet:Danica Patrick is feeling more encouraged about her progress in NASCAR than ever before, in large part to stronger runs and an evolving rapport with her crew chief.
+lead_paragraph:Danica Patrick is feeling more encouraged about her progress in NASCAR than ever before, in large part to stronger runs and an evolving rapport with her crew chief.
+abstract:null
+blog:null

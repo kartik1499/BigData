@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:As Jade Helm 15 Military Exercise Begins, Texans Keep Watch ‘Just in Case’, print_headline:Unscathed as War Games Begin, Texans Keep Watch, &#8216;Just in Case&#8217;}
+news_desk:National
+pub_date:2015-07-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/16/us/in-texas-a-military-exercise-is-met-by-some-with-suspicion.html
+snippet:Jade Helm 15, a seven-state training exercise that the Army and local officials say is no cause for alarm, has generated paranoia for months, fueled by conservative bloggers.
+lead_paragraph:Jade Helm 15, a seven-state training exercise that the Army and local officials say is no cause for alarm, has generated paranoia for months, fueled by conservative bloggers.
+abstract:Residents of Christoval, Tex, find that military exercise dubbed Jade Helm 15 has had little impact on their lives on first day of its eight-week duration; exercise involving several branches of military, including Special Operations troops, is taking place in Texas and five other states; residents around Christoval had expressed wide range of fears, fueled by conservative bloggers and postings on Internet.
+blog:null

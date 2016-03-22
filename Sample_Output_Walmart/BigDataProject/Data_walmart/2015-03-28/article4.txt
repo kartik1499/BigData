@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Teenagers Face Early Death, on Their Terms, print_headline:Facing Early Death, on Their Terms}
+news_desk:Science
+pub_date:2015-03-28
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/03/28/teen-advance-directive-end-of-life-care/
+snippet:A national push and a new guide are giving critically ill young patients a voice in end-of-life discussions.
+lead_paragraph:null
+abstract:A national push and a new guide are giving critically ill young patients a voice in end-of-life discussions.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:As Middle Class Flees, Puerto Rico Tries Luring Rich People, print_headline:As Middle Class Flees, Puerto Rico Tries Luring Rich People}
+news_desk:None
+pub_date:2015-02-06
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/06/world/americas/ap-cb-puerto-rico-luring-investors.html
+snippet:Bond trader Ben Eiler swapped life in suburban Georgia for an island in the Caribbean, and he didn't even have to apply for a visa.
+lead_paragraph:Bond trader Ben Eiler swapped life in suburban Georgia for an island in the Caribbean, and he didn't even have to apply for a visa.
+abstract:null
+blog:null

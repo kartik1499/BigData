@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Facebook Raises Minimum Pay for Contractors to $15 Per Hour, print_headline:Facebook Raises Minimum Pay for Contractors to $15 Per Hour}
+news_desk:None
+pub_date:2015-05-13
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/05/13/business/13reuters-facebook-wages-contractors.html
+snippet:Facebook raised wages for its contract workers, such as cafeteria staff and janitors, to a minimum of $15 per hour amid rising tension over the wage gap between the technology sector's elite and the lower-paid workers.
+lead_paragraph:Facebook raised wages for its contract workers, such as cafeteria staff and janitors, to a minimum of $15 per hour amid rising tension over the wage gap between the technology sector's elite and the lower-paid workers. 
+abstract:null
+blog:null

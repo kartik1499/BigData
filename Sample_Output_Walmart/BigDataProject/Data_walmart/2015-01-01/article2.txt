@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Jim Harbaugh Inspires a Run on Khakis at Michigan, print_headline:Jeans? Coach Says You’re Out of Uniform}
+news_desk:Styles
+pub_date:2015-01-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/01/fashion/jim-harbaugh-inspires-a-run-on-khakis-at-michigan.html
+snippet:The football coach takes his baggy khakis along, creating a trend, as he moves to the University of Michigan.
+lead_paragraph:The football coach takes his baggy khakis along, creating a trend, as he moves to the University of Michigan.
+abstract:Ann Arbor, MI, retail stores report sudden rise in popularity of men's khaki pants when former San Francisco 49ers coach Jim Harbaugh, who is known for wearing baggy khakis, moved there to become head football coach at University of Michigan.
+blog:null

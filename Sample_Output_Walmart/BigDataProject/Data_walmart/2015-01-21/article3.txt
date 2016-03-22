@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Your Wednesday Briefing, print_headline:null}
+news_desk:NYTNow
+pub_date:2015-01-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/21/nytnow/latest-news-state-of-the-union-spacex-and-the-world-economic-forum.html
+snippet:Here’s what you need to know to start your day.
+lead_paragraph:Here’s what you need to know to start your day.
+abstract:null
+blog:null

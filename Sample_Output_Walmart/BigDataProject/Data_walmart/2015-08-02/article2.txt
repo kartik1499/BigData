@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Flight or Fright, print_headline:Flight or Fright}
+news_desk:BookReview
+pub_date:2015-08-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/02/books/review/flight-or-fright.html
+snippet:Sara Paretsky’s crusading private eye, V.I. (Vic) Warshawski, returns in “Brush Back.”
+lead_paragraph:Sara Paretsky’s crusading private eye, V.I. (Vic) Warshawski, returns in “Brush Back.”
+abstract:Marilyn Stasio reviews books Brush Back by Sara Paretsky, Broken Promise by Linwood Barclay, The Redeemers by Ace Atkins and Death in Brittany by Jean-Luc Bannalec.
+blog:null

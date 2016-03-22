@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Britain’s National Health Service, Creaking but Revered, Looms Over Elections, print_headline:Britain’s National Health Service, Creaking but Revered, Looms Over Elections}
+news_desk:Foreign
+pub_date:2015-04-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/26/world/europe/britains-national-health-service-creaking-but-revered-looms-over-elections.html
+snippet:Despite its many shortcomings, Britain&#8217;s National Health Service is held in such high esteem that competing claims to be its protector could help decide national elections next month.
+lead_paragraph:Despite its many shortcomings, Britain&#8217;s National Health Service is held in such high esteem that competing claims to be its protector could help decide national elections next month.
+abstract:Britain's National Health Service, universal health system that has achieved revered status in country since its creation in 1948, has emerged as central factor in coming national elections; both Conservative and Labour party have presented themselves as protectors of system, pledging to allocate large new sums to shore up its strained resources.
+blog:null

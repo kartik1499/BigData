@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Calls to Drop Confederate Emblems Spread Nationwide, print_headline:Calls Rise to Remove Symbols of Confederacy }
+news_desk:National
+pub_date:2015-06-24
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/24/us/south-carolina-nikki-haley-confederate-flag.html
+snippet:Scattered calls to remove the Confederate battle flag from a single state capitol have intensified with striking speed and scope into an emotional, nationwide movement.
+lead_paragraph:Scattered calls to remove the Confederate battle flag from a single state capitol have intensified with striking speed and scope into an emotional, nationwide movement.
+abstract:Chorus of calls to remove Confederate battle flag from public parks and buildings, stores and license plates is growing nationwide as South Carolina Legislature votes to debate removing flag from its State House grounds; emotional movement comes in wake of hate-fueled murder of nine parishioners in black church in Charleston.
+blog:null

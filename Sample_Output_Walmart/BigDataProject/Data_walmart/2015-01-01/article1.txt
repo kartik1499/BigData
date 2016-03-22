@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing, print_headline:Sony in Deals for Wider Viewing of ‘The Interview’}
+news_desk:Business
+pub_date:2015-01-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/01/business/media/sonys-the-interview-is-set-for-on-demand-and-wider-online-viewing.html
+snippet:Sony&#8217;s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.
+lead_paragraph:Sony&#8217;s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.
+abstract:Sony Pictures announces agreements with cable, satellite and telecom providers that will expand availability of controversial film The Interview for home viewing; will also expand theatrical run in the United States to more than 580 theaters, from 331.
+blog:null

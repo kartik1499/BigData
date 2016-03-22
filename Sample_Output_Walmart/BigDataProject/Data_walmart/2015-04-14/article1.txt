@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wage Effort Poses Test for Clinton Campaign, print_headline:Minimum-Wage Effort Tests Clinton on Economic Policy}
+news_desk:Business
+pub_date:2015-04-14
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/14/business/wage-effort-poses-test-for-clinton-campaign.html
+snippet:A nationwide strike may provide the first test for the Clinton campaign at managing the desire of voters and party activists for an aggressive approach to mitigating income inequality.
+lead_paragraph:A nationwide strike may provide the first test for the Clinton campaign at managing the desire of voters and party activists for an aggressive approach to mitigating income inequality.
+abstract:Daylong nationwide strike by fast-food and other low-wage workers for $15-an-hour minimum wage may offer first test for Hillary Clinton's presidential campaign at managing voters' and activists' calls for aggressive moves on income inequality; Clinton has offered few details on dealing with economic issue.
+blog:null

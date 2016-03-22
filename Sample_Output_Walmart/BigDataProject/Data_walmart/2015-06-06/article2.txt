@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart, Lagging in Online Sales, Is Strengthening E-Commerce, print_headline:Walmart&#8217;s $1 Billion Web Drive}
+news_desk:Business
+pub_date:2015-06-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/06/business/walmart-lagging-in-online-sales-is-strengthening-e-commerce.html
+snippet:Trailing Amazon in e-commerce sales, Walmart is starting a new online shipping program, hiring tech employees and pledging to invest $1 billion in online operations.
+lead_paragraph:Trailing Amazon in e-commerce sales, Walmart is starting a new online shipping program, hiring tech employees and pledging to invest $1 billion in online operations.
+abstract:Walmart, facing sluggish sales at its brick and mortar stores, will launch $1 billion online shipping venture to challenge Amazon; pilot program, Shipping Pass, will offer unlimited, free three-day shipping from its online store for $50 annual membership fee.
+blog:null

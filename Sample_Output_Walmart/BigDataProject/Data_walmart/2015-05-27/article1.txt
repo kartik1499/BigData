@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Can We Finally Treat Food Workers Fairly?, print_headline:null}
+news_desk:Editorial
+pub_date:2015-05-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/27/opinion/can-we-finally-treat-food-workers-fairly.html
+snippet:If you run a business that’s dependent on labor at the poverty level, it isn’t a viable business, from either a moral or practical point of view.
+lead_paragraph:If you run a business that’s dependent on labor at the poverty level, it isn’t a viable business, from either a moral or practical point of view.
+abstract:null
+blog:null

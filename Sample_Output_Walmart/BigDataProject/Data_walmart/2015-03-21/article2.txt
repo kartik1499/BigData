@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Richard Fisher, Often Wrong but Seldom Boring, Leaves the Fed, print_headline:A Cowboy Leaves the Fed}
+news_desk:Business
+pub_date:2015-03-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/21/business/economy/richard-fisher-leave-the-fed.html
+snippet:The departure of Mr. Fisher, who stepped down on Thursday, means that the Fed is losing the most outspoken internal opponent of its stimulus campaign.
+lead_paragraph:The departure of Mr. Fisher, who stepped down on Thursday, means that the Fed is losing the most outspoken internal opponent of its stimulus campaign.
+abstract:Departure of Richard W Fisher from Federal Reserve Bank of Dallas, where he has been president for a decade, marks loss of one of the most vocal opponents of Fed's stimulus campaign even as that campaign comes to end; Fisher was known for eloquent arguments that were often more colorful than any of those of his colleagues, and often angered those who believed Fed should do more to help unemployed.
+blog:null

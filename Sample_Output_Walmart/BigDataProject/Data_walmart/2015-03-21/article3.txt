@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Aging Bridge in California Needs All the Support It Can Get, print_headline:An Aging California Bridge Needs All the Support It Can Get}
+news_desk:National
+pub_date:2015-03-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/21/us/aging-bridge-in-california-needs-all-the-support-it-can-get.html
+snippet:Residents of a town overlooking the Pacific Ocean want to save the Albion River Bridge. They say it defines them. But state officials say it has to go.
+lead_paragraph:Residents of a town overlooking the Pacific Ocean want to save the Albion River Bridge. They say it defines them. But state officials say it has to go.
+abstract:California officials are calling for Albion River Bridge, last wooden bridge on state’s coastal highway, to be torn down and replaced with concrete structure for safety reasons, but Albion residents wanting to preserve their history are objecting to proposal.
+blog:null

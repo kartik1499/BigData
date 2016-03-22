@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart to Reopen 5 Stores Named in Union Complaint, print_headline:Walmart to Reopen 5 Stores Named in Union Complaint}
+news_desk:Business
+pub_date:2015-09-03
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/03/business/walmart-to-reopen-5-stores-named-in-union-complaint.html
+snippet:Walmart said it would reopen five stores whose closure prompted a union to file a complaint claiming retaliation against workers for organizing.
+lead_paragraph:Walmart said it would reopen five stores whose closure prompted a union to file a complaint claiming retaliation against workers for organizing.
+abstract:Walmart announces it will reopen five stores and encourage former employees to apply for jobs; closures prompted United Food and Commercial Workers International to file complaint with National Labor Relations Board, claiming closures were retaliation against workers for trying to unionize.
+blog:null

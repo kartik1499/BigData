@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Erik Larson, Author of ‘Dead Wake,’ Seizes Historical Mysteries, print_headline:Gripped by Historical Mysteries}
+news_desk:Culture
+pub_date:2015-03-10
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/10/books/erik-larson-author-of-dead-wake-seizes-historical-mysteries.html
+snippet:An author specializing in adrenaline-fueled historical narratives was drawn to his latest work about the sinking of the Lusitania when he came across archives of the ship&#8217;s destruction.
+lead_paragraph:An author specializing in adrenaline-fueled historical narratives was drawn to his latest work about the sinking of the Lusitania when he came across archives of the ship&#8217;s destruction.
+abstract:Erik Larson's highly-anticipated forthcoming novel Dead Wake: The Last Crossing of the Lusitania tells well-known story of sinking of passenger ship in new and exciting way.
+blog:null

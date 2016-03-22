@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:What We&#8217;re Reading Now, print_headline:null}
+news_desk:OpEd
+pub_date:2015-02-27
+source:The New York Times
+web_url:http://bittman.blogs.nytimes.com/2015/02/27/what-were-reading-now-26/
+snippet:Food news from Tony the Tiger to “The Bachelor”
+lead_paragraph:null
+abstract:Food news from Tony the Tiger to “The Bachelor”
+blog:null

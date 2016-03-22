@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Study: Many Herbal Supplements Aren't What the Label Says, print_headline:Study: Many Herbal Supplements Aren't What the Label Says}
+news_desk:None
+pub_date:2015-02-03
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/03/us/ap-us-herbal-supplements-investigation.html
+snippet:Bottles of Walmart-brand echinacea, an herb said to ward off colds, were found to contain no echinacea at all. GNC-brand bottles of St. John's wort, touted as a cure for depression, held rice, garlic and a tropical houseplant, but not a trace of the...
+lead_paragraph:Bottles of Walmart-brand echinacea, an herb said to ward off colds, were found to contain no echinacea at all. GNC-brand bottles of St. John's wort, touted as a cure for depression, held rice, garlic and a tropical houseplant, but not a trace of the herb.
+abstract:null
+blog:null

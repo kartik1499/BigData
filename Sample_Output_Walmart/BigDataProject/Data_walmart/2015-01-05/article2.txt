@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Record-Setting Auctions Cap a Turbulent Year, print_headline:Record-Setting Auctions Cap a Turbulent Year}
+news_desk:Culture
+pub_date:2015-01-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/05/arts/international/record-setting-auctions-cap-a-turbulent-year.html
+snippet:Sotheby's and Christie's, the top international auction houses, are facing new challenges even though the art market is booming.
+lead_paragraph:Sotheby's and Christie's, the top international auction houses, are facing new challenges even though the art market is booming.
+abstract:null
+blog:null

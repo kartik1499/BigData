@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Will Infighting Help the Republicans in 2016?, print_headline:null}
+news_desk:Editorial
+pub_date:2015-04-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/08/opinion/will-infighting-help-the-republicans-in-2016.html
+snippet:The airing of the party’s dirty linen, especially on social issues, has the potential to enhance, not diminish, the party’s presidential prospects.
+lead_paragraph:The airing of the party’s dirty linen, especially on social issues, has the potential to enhance, not diminish, the party’s presidential prospects.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Indiana Law Denounced as Invitation to Discriminate Against Gays, print_headline:Right to Deny Service to Gays Stirs Broad Uproar}
+news_desk:National
+pub_date:2015-03-28
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/28/us/politics/indiana-law-denounced-as-invitation-to-discriminate-against-gays.html
+snippet:A measure described as protecting religious freedom was assailed by political and business leaders because it could allow businesses to refuse service to gay couples.
+lead_paragraph:A measure described as protecting religious freedom was assailed by political and business leaders because it could allow businesses to refuse service to gay couples.
+abstract:Passage of Indiana law that may make it easier for businesses to refuse service to gay couples ignites uproar of protest from technology companies, actors and NCAA, which is based in Indianapolis and will hold Final Four of men's basketball tournament there; supporters of measure say it protects religious freedoms.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Corporate Crimes, Individual Accountability Is Elusive, print_headline:When the Buck Doesn’t Stop}
+news_desk:Business
+pub_date:2015-02-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/20/business/in-corporate-crimes-individual-accountability-is-elusive.html
+snippet:Thanks to Brandon L. Garrett, author of “Too Big to Jail,” we know the notion that the government has been lax on corporate wrongdoers isn’t just folk wisdom.
+lead_paragraph:Thanks to Brandon L. Garrett, author of “Too Big to Jail,” we know the notion that the government has been lax on corporate wrongdoers isn’t just folk wisdom.
+abstract:James B Stewart Common Sense column observes since financial crisis hardly any top executives at big financial firms paying fines for engaging in criminal behavior have been charged or convicted; notes Brandon L Garrett's book Too Big to Jail points up this fact; holds prosecutorial track record in big cases is not encouraging.
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Tracy Morgan to Appear on &#8216;Today&#8217; Show, print_headline:Tracy Morgan to Appear On &#8216;Today&#8217; Show on Monday}
+news_desk:Culture
+pub_date:2015-05-28
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/05/28/tracy-morgan-to-appear-on-today-show/
+snippet:This will be the comedian’s first appearance since suffering head trauma in a deadly crash last year.
+lead_paragraph:null
+abstract:This will be the comedian’s first appearance since suffering head trauma in a deadly crash last year.
+blog:null

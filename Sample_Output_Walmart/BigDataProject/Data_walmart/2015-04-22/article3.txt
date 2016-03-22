@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Big Mac Test Shows Job Market Is Not Working to Distribute Wealth, print_headline:Job Market Failures in a Big Mac Test}
+news_desk:Business
+pub_date:2015-04-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/22/business/big-mac-test-shows-job-market-is-not-working-to-distribute-wealth.html
+snippet:If the job market cannot keep hardworking people out of poverty and spread prosperity more broadly, how will those tasks be done?
+lead_paragraph:If the job market cannot keep hardworking people out of poverty and spread prosperity more broadly, how will those tasks be done?
+abstract:Eduardo Porter Economic Scene column argues that job markets across the industrialized world, and particularly in America, are failing to keep hardworking people out of poverty; cites so-called 'Big Mac' test, which demonstrates how real wages for McDonald's workers have stagnated and declined during past decade of overall economic growth; examines potential policy solutions, including a dramatic shift toward income redistribution.
+blog:null

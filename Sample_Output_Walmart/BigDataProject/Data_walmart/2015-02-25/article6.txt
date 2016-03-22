@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Twin Pole-Vaulters Reach the Height of Alikeness, print_headline:The Height of Alikeness}
+news_desk:Sports
+pub_date:2015-02-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/25/sports/lexi-and-tori-weeks-chase-high-school-girls-pole-vault-records.html
+snippet:Lexi and Tori Weeks, from Cabot, Ark., dream of qualifying for the 2016 Olympic trials, but for now they’re content to challenge national marks for high school girls.
+lead_paragraph:Lexi and Tori Weeks, from Cabot, Ark., dream of qualifying for the 2016 Olympic trials, but for now they’re content to challenge national marks for high school girls.
+abstract:Profile of Lexi and Tori Weeks, identical twins from Cabot, Ark, who share ranking as nation's top female high school pole-vaulters.
+blog:null

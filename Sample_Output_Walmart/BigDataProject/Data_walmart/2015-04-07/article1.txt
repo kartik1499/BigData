@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In Hawaii, Chickens Gone Wild, print_headline:In Hawaii, Chickens Gone Wild}
+news_desk:Science
+pub_date:2015-04-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/07/science/in-hawaii-chickens-gone-wild.html
+snippet:Feral birds on the island of Kauai offer clues to how animals become domesticated.
+lead_paragraph:Feral birds on the island of Kauai offer clues to how animals become domesticated.
+abstract:Study in journal Molecular Ecology tracks feral chickens on Hawaiian island of Kauai in hopes of better understanding genetic changes brought about when humans domesticated red junglefowl, ancestor of chickens, over 7,000 years ago.
+blog:null

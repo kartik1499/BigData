@@ -1,0 +1,111 @@
+{
+    "responseData": {
+        "results": [{
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://www.wired.com/2014/12/sony-hack-what-we-know/",
+            "url": "http://www.wired.com/2014/12/sony-hack-what-we-know/",
+            "visibleUrl": "www.wired.com",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:IlASinxNWGYJ:www.wired.com",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Got Hacked Hard: What We Know and Don\u0026#39;t Know So Far Wired",
+            "titleNoFormatting": "Sony Got Hacked Hard: What We Know and Don\u0026#39;t Know So Far Wired",
+            "content": "Dec 3, 2014 \u003cb\u003e...\u003c/b\u003e A week into the \u003cb\u003eSony\u003c/b\u003e hack, however, there is a lot of rampant speculation but few \nsolid facts. Here\u0026#39;s a look at what we do and don\u0026#39;t know about ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://money.cnn.com/2014/12/19/media/insde-sony-hack-interview/",
+            "url": "http://money.cnn.com/2014/12/19/media/insde-sony-hack-interview/",
+            "visibleUrl": "money.cnn.com",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:3lR6FA9BnkoJ:money.cnn.com",
+            "title": "Hackers to \u003cb\u003eSony\u003c/b\u003e: We\u0026#39;ll stand down if you never release the movie \u003cb\u003e...\u003c/b\u003e",
+            "titleNoFormatting": "Hackers to Sony: We\u0026#39;ll stand down if you never release the movie ...",
+            "content": "Dec 19, 2014 \u003cb\u003e...\u003c/b\u003e The hackers behind a devastating cyberattack at \u003cb\u003eSony\u003c/b\u003e Pictures have sent a new \nmessage to executives at the company, crediting them for a ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://www.sony.net/SonyInfo/News/Press/201412/14-118E/",
+            "url": "http://www.sony.net/SonyInfo/News/Press/201412/14-118E/",
+            "visibleUrl": "www.sony.net",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:qUQv0HrwwjYJ:www.sony.net",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Global - News Releases - \u003cb\u003eSony\u003c/b\u003e Announces the Development \u003cb\u003e...\u003c/b\u003e",
+            "titleNoFormatting": "Sony Global - News Releases - Sony Announces the Development ...",
+            "content": "Dec 17, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSony\u003c/b\u003e Corporation (hereafter \u0026quot;\u003cb\u003eSony\u003c/b\u003e\u0026quot;) announces the development of an \nattachable Single-Lens Display Module that can turn eyewear of ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://www.businessinsider.com/sony-cyber-hack-timeline-2014-12",
+            "url": "http://www.businessinsider.com/sony-cyber-hack-timeline-2014-12",
+            "visibleUrl": "www.businessinsider.com",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:Zu-bTfw0eZIJ:www.businessinsider.com",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Cyber Hack Timeline - Business Insider",
+            "titleNoFormatting": "Sony Cyber Hack Timeline - Business Insider",
+            "content": "Dec 9, 2014 \u003cb\u003e...\u003c/b\u003e For the past two weeks, \u003cb\u003eSony\u003c/b\u003e Pictures Entertainment has been the subject of a \nseries of scary cyber attacks that have shut down the company\u0026#39;s ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://recode.net/2014/12/07/sony-describes-hack-attack-as-unprecedented/",
+            "url": "http://recode.net/2014/12/07/sony-describes-hack-attack-as-unprecedented/",
+            "visibleUrl": "recode.net",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:2VWcI2vgodIJ:recode.net",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Describes Hack Attack as \u0026#39;Unprecedented\u0026#39; | Re/code",
+            "titleNoFormatting": "Sony Describes Hack Attack as \u0026#39;Unprecedented\u0026#39; | Re/code",
+            "content": "Dec 7, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSony\u003c/b\u003e Pictures Entertainment made its first substantive comments about the \ndevastating hacking attack against it last month, calling the effort ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://recode.net/2014/12/10/sony-pictures-tries-to-disrupt-downloads-of-its-stolen-files/",
+            "url": "http://recode.net/2014/12/10/sony-pictures-tries-to-disrupt-downloads-of-its-stolen-files/",
+            "visibleUrl": "recode.net",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:IqO3LJ-S43YJ:recode.net",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Pictures Tries to Disrupt Downloads of Its Stolen Files - Re/code",
+            "titleNoFormatting": "Sony Pictures Tries to Disrupt Downloads of Its Stolen Files - Re/code",
+            "content": "Dec 10, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSony\u003c/b\u003e borrows a page from hackers to slow down users who try to download \npilfered \u003cb\u003eSony\u003c/b\u003e files."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://mashable.com/2014/12/08/hackers-emailed-sony-execs/",
+            "url": "http://mashable.com/2014/12/08/hackers-emailed-sony-execs/",
+            "visibleUrl": "mashable.com",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:KP7rejSX0CgJ:mashable.com",
+            "title": "Hackers sent extortion email to \u003cb\u003eSony\u003c/b\u003e executives 3 days before attack",
+            "titleNoFormatting": "Hackers sent extortion email to Sony executives 3 days before attack",
+            "content": "Dec 8, 2014 \u003cb\u003e...\u003c/b\u003e The hackers behind the massive \u003cb\u003eSony\u003c/b\u003e Pictures breach warned of a damaging \ncyberattack in a jumbled email sent to company executives three ..."
+        }, {
+            "GsearchResultClass": "GwebSearch",
+            "unescapedUrl": "http://deadline.com/2014/11/sony-computers-hacked-skull-message-1201295288/",
+            "url": "http://deadline.com/2014/11/sony-computers-hacked-skull-message-1201295288/",
+            "visibleUrl": "deadline.com",
+            "cacheUrl": "http://www.google.com/search?q\u003dcache:wxtHi7PGJV0J:deadline.com",
+            "title": "\u003cb\u003eSony\u003c/b\u003e Paralyzed By Computer Hacker Attack | Deadline",
+            "titleNoFormatting": "Sony Paralyzed By Computer Hacker Attack | Deadline",
+            "content": "Nov 25, 2014 \u003cb\u003e...\u003c/b\u003e 2ND UPDATE: This \u003cb\u003eSony\u003c/b\u003e computer hacking episode isn\u0026#39;t over. The corporation\u0026#39;s \ncomputers are still down, in New York, overseas and on the ..."
+        }],
+        "cursor": {
+            "resultCount": "7,160,000",
+            "pages": [{
+                "start": "0",
+                "label": 1
+            }, {
+                "start": "8",
+                "label": 2
+            }, {
+                "start": "16",
+                "label": 3
+            }, {
+                "start": "24",
+                "label": 4
+            }, {
+                "start": "32",
+                "label": 5
+            }, {
+                "start": "40",
+                "label": 6
+            }, {
+                "start": "48",
+                "label": 7
+            }, {
+                "start": "56",
+                "label": 8
+            }],
+            "estimatedResultCount": "7160000",
+            "currentPageIndex": 0,
+            "moreResultsUrl": "http://www.google.com/search?oe\u003dutf8\u0026ie\u003dutf8\u0026source\u003duds\u0026start\u003d0\u0026hl\u003den\u0026q\u003dsony+daterange:2456931-2457022",
+            "searchResultTime": "0.13"
+        }
+    },
+    "responseDetails": null,
+    "responseStatus": 200
+}

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:What Is ‘Middle-Class Economics’?, print_headline:What Politicians Mean by ‘Middle-Class Economics’}
+news_desk:Business
+pub_date:2015-02-26
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/26/upshot/what-is-middle-class-economics.html
+snippet:Helping improve the situation of middle-income people is harder and more expensive than doing the same for the poor.
+lead_paragraph:Helping improve the situation of middle-income people is harder and more expensive than doing the same for the poor.
+abstract:The Upshot; Pres Obama's proposals to improve fortunes of middle class might be more difficult and more expensive than those implemented to help the poor since the middle class's growth is driven more by private employers and wages they pay them; given this, best approach right now will be to institute small-scale policies that both support middle class workers and increase overall economic growth.
+blog:null

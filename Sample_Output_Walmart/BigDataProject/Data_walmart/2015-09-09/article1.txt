@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Parents Spending Less on Back-to-School Season Despite Growing Lists of Supplies, print_headline:Trudging Back to School, Students Help Stock Schools&#8217; Bare Supply Shelves }
+news_desk:Business
+pub_date:2015-09-09
+source:The New York Times
+web_url:http://www.nytimes.com/2015/09/09/business/parents-may-spend-less-this-back-to-school-season-despite-growing-need-for-supplies.html
+snippet:Construction paper used to be provided at school. Nowadays, it is one of many items parents are expected to provide. And yet a retailers group expects parents will spend 6 percent less this season.
+lead_paragraph:Construction paper used to be provided at school. Nowadays, it is one of many items parents are expected to provide. And yet a retailers group expects parents will spend 6 percent less this season.
+abstract:Schools across United States are increasingly relying on students to provide basic classroom materials due to slashed school district budgets; action has placed large burden on many families already struggling; as result retailers expect flat back-to-school season as parents curb spending.
+blog:null

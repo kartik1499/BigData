@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Baby Boy Found Dead in SUV in Ohio Store Parking Lot, print_headline:Baby Boy Found Dead in SUV in Ohio Store Parking Lot}
+news_desk:None
+pub_date:2015-09-24
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/09/24/us/24reuters-usa-ohio-death.html
+snippet:An 8-month-old boy was found dead in the back of a sports utility vehicle parked for hours in an Ohio store parking lot after one of his parents apparently forgot to drop him off at daycare with his siblings, police said on Thursday.
+lead_paragraph:An 8-month-old boy was found dead in the back of a sports utility vehicle parked for hours in an Ohio store parking lot after one of his parents apparently forgot to drop him off at daycare with his siblings, police said on Thursday.
+abstract:null
+blog:null

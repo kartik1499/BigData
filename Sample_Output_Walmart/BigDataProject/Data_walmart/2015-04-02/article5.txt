@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:McDonald’s to Raise Pay at Outlets It Operates, print_headline:McDonald’s to Raise Pay at Outlets It Operates}
+news_desk:Business
+pub_date:2015-04-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/02/business/mcdonalds-raising-pay-for-employees.html
+snippet:A day after nationwide protests, the company said it was raising wages at least $1 over the local minimum wage at the restaurants it operates. Franchise outlets may feel new pressure.
+lead_paragraph:A day after nationwide protests, the company said it was raising wages at least $1 over the local minimum wage at the restaurants it operates. Franchise outlets may feel new pressure.
+abstract:McDonald's announces that it will raise wages and offer new benefits to 90,000 employees at outlets it owns and operates, in response to competition in job market and campaigns that have drawn attention to company's wage policies; decision will not affect 750,000 employees at McDonald's franchises.
+blog:null

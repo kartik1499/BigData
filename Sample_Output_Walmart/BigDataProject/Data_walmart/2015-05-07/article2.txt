@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Two Retail Veterans Take Aim at Amazon’s E-Commerce Reign, print_headline:Taking Aim at King of E-Commerce}
+news_desk:Business
+pub_date:2015-05-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/07/technology/personaltech/two-retail-veterans-take-aim-at-amazons-e-commerce-reign.html
+snippet:The start-ups Enjoy and Jet.com are hoping to knock Amazon off its perch as the leader of online shopping.
+lead_paragraph:The start-ups Enjoy and Jet.com are hoping to knock Amazon off its perch as the leader of online shopping.
+abstract:Farhad Manjoo State of the Art column points out start-up Enjoy, headed by Ron Johnson, is selective online store that is attempting to challenge Amazon as king of e-commerce; says another start-up, Jet.com, steered by Marc Lore, is head-on competitor to Amazon, aiming to be nationwide giant with comparable selection, service and price.
+blog:null

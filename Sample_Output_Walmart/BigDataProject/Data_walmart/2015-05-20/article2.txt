@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Signs of Housing Comeback Fail to Rouse Market, print_headline:Signs of Housing Comeback Fail to Rouse Market }
+news_desk:Business
+pub_date:2015-05-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/20/business/daily-stock-market-activity.html
+snippet:Energy shares lead modest losses, and investors assessed a report that showed a ramp-up in the construction of new homes. The price of oil fell nearly 4 percent.
+lead_paragraph:Energy shares lead modest losses, and investors assessed a report that showed a ramp-up in the construction of new homes. The price of oil fell nearly 4 percent.
+abstract:Markets sustain modest losses in day of listless trading, as investors respond to continued drop in oil prices and disappointing quarterly report from Walmart.
+blog:null

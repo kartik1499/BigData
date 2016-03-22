@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart&#8217;s Raises , print_headline:Walmart&#8217;s Raises }
+news_desk:Business
+pub_date:2015-03-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/01/business/walmarts-raises.html
+snippet:A reader responds to “Walmart’s Overdue Pay Raises” (The Upshot, Feb. 22).
+lead_paragraph:A reader responds to “Walmart’s Overdue Pay Raises” (The Upshot, Feb. 22).
+abstract:null
+blog:null

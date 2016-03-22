@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart Pushes for Improved Animal Welfare, print_headline:Walmart Pushes for Improved Animal Welfare }
+news_desk:Business
+pub_date:2015-05-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/23/business/walmart-pushes-for-improved-animal-welfare.html
+snippet:The retailing behemoth said it will ask its meat, seafood, poultry, deli and egg suppliers to voluntarily adopt standards to improve the health and comfort of livestock.
+lead_paragraph:The retailing behemoth said it will ask its meat, seafood, poultry, deli and egg suppliers to voluntarily adopt standards to improve the health and comfort of livestock.
+abstract:Walmart issues voluntary guidelines asking its meat, seafood, poultry, deli and egg suppliers to comply with animal welfare standards, and report use of and limit treatments with antibiotics.
+blog:null

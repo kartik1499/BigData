@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:A Minute With: Carmen Ejogo as Coretta Scott King in 'Selma', print_headline:A Minute With: Carmen Ejogo as Coretta Scott King in 'Selma'}
+news_desk:None
+pub_date:2015-01-07
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/01/07/arts/07reuters-film-selma-ejogo.html
+snippet:It's rare for an actress to play the same character twice but Carmen Ejogo, who played Coretta Scott King in the HBO movie "Boycott", portrays her again in the 1960s civil rights era movie "Selma", to be released in U.S. theaters nationwide on...
+lead_paragraph:It's rare for an actress to play the same character twice but Carmen Ejogo, who played Coretta Scott King in the HBO movie "Boycott", portrays her again in the 1960s civil rights era movie "Selma", to be released in U.S. theaters nationwide on Friday.
+abstract:null
+blog:null

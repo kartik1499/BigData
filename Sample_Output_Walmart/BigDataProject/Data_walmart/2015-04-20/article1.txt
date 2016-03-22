@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Laid-Off Walmart Workers Head to Labor Board , print_headline:Laid-Off Walmart Workers Head to Labor Board}
+news_desk:Business
+pub_date:2015-04-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/20/business/laid-off-walmart-workers-head-to-labor-board.html
+snippet:A claim set to be filed Monday says that the Walmart store closings were in retaliation for a history of labor activism at one of the shuttered stores.
+lead_paragraph:A claim set to be filed Monday says that the Walmart store closings were in retaliation for a history of labor activism at one of the shuttered stores.
+abstract:United Food and Commercial Workers International Union plans to seek injunction from National Labor Relations Board that would require Walmart to rehire all 2,200 workers who were laid off after abrupt closing of five stores.
+blog:null

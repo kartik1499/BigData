@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Walmart&#8217;s Visible Hand, print_headline:Walmart’s Visible Hand}
+news_desk:Editorial
+pub_date:2015-03-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/02/opinion/paul-krugman-walmarts-visible-hand.html
+snippet:A pay raise by America&#8217;s largest employer shows that low wages are a choice, and that we can and should choose differently.
+lead_paragraph:A pay raise by America&#8217;s largest employer shows that low wages are a choice, and that we can and should choose differently.
+abstract:Paul Krugman Op-Ed column notes Walmart's decision to raise wages for a half million of its workers will likely positively affect entire economy; holds change demonstrates how wage rates are a matter of choice rather than result of traditional market forces; argues that even wider-scale raises are certainly feasible, and would have a powerful net benefit for the country as a whole.
+blog:null

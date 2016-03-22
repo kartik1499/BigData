@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Capitalists, Arise!: Q. &amp; A. With Peter Georgescu, print_headline:null}
+news_desk:OpEd
+pub_date:2015-08-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/11/opinion/capitalists-arise-q-a-with-peter-georgescu.html
+snippet:The author of a Sunday Review article arguing that capitalists must address rising income inequality responds to reader comments.
+lead_paragraph:The author of a Sunday Review article arguing that capitalists must address rising income inequality responds to reader comments.
+abstract:null
+blog:null

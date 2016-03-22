@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Shake-Up at Mattel as Barbie Loses Her Appeal , print_headline:Shake-Up at Mattel as Barbie Loses Her Appeal}
+news_desk:Business
+pub_date:2015-01-27
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/27/business/bryan-stockton-resigns-as-ceo-from-a-reeling-mattel.html
+snippet:Christopher Sinclair stepped in as interim chief of the company, which has struggled with its Barbie brand and other traditional toys that have lost their popularity.
+lead_paragraph:Christopher Sinclair stepped in as interim chief of the company, which has struggled with its Barbie brand and other traditional toys that have lost their popularity.
+abstract:Mattel chief executive Bryan G Stockton resigns as traditional toy sales, including those of its storied Barbie brand, topple in face of tough competition, including digital products; Christopher A Sinclair is named interim chief executive; firm reports preliminary fourth-quarter profit of $149.9 million, down from $369.2 million in year-ago quarter; revenue fell 7 percent.
+blog:null

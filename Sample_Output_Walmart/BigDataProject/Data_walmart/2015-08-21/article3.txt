@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Bernie Sanders, el candidato socialista que promete una ‘revolución política’ en Estados Unidos, print_headline:null}
+news_desk:National
+pub_date:2015-08-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/21/universal/es/bernie-sanders-el-candidato-socialista-que-promete-una-revolucion-politica-en-estados-unidos.html
+snippet:La campaña de Sanders le ofrece a los Demócratas desilusionados la oportunidad de ventilar su ira ante el poder de las grandes corporaciones.
+lead_paragraph:La campaña de Sanders le ofrece a los Demócratas desilusionados la oportunidad de ventilar su ira ante el poder de las grandes corporaciones.
+abstract:null
+blog:null

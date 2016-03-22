@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:No Charges for Colorado Farmworkers Videotaped Hitting Pigs, print_headline:No Charges for Colorado Farmworkers Videotaped Hitting Pigs}
+news_desk:None
+pub_date:2015-05-06
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/05/06/us/ap-us-animal-abuse-pig-farm.html
+snippet:An undercover video showing workers at a Colorado pig farm hitting animals with cans and boards has led to a criminal investigation and the firing of seven employees.
+lead_paragraph:An undercover video showing workers at a Colorado pig farm hitting animals with cans and boards has led to a criminal investigation and the firing of seven employees.
+abstract:null
+blog:null

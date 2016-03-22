@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Eurozone Meeting on Greece, and Walmart Earnings, print_headline:Eurozone Meeting on Greece, and Walmart Earnings}
+news_desk:Business
+pub_date:2015-02-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/16/business/eurozone-meeting-on-greece-and-walmart-earnings.html
+snippet:Eurozone finance ministers will meet Monday on Greece&#8217;s bailout; the Federal Reserve will release minutes from its last meeting, on Wednesday; and Walmart will report earnings on Thursday.
+lead_paragraph:Eurozone finance ministers will meet Monday on Greece&#8217;s bailout; the Federal Reserve will release minutes from its last meeting, on Wednesday; and Walmart will report earnings on Thursday.
+abstract:null
+blog:null

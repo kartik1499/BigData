@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Next Up for Wal-Mart Pay Raises: Department Managers, print_headline:Next Up for Wal-Mart Pay Raises: Department Managers}
+news_desk:None
+pub_date:2015-06-02
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/02/us/ap-us-wal-mart-wages.html
+snippet:Wal-Mart is raising starting wages for more than 100,000 U.S. department managers and workers in its deli and other specialized departments.
+lead_paragraph:Wal-Mart is raising starting wages for more than 100,000 U.S. department managers and workers in its deli and other specialized departments.
+abstract:null
+blog:null

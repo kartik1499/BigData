@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Virginia: Officer Kills Shoplifting Suspect , print_headline:Virginia: Officer Kills Shoplifting Suspect}
+news_desk:National
+pub_date:2015-04-23
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/23/us/virginia-officer-kills-shoplifting-suspect.html
+snippet:A Portsmouth police officer responding to a call about shoplifting shot and killed an 18-year-old man in a Walmart parking lot on Wednesday morning, the authorities said.
+lead_paragraph:A Portsmouth police officer responding to a call about shoplifting shot and killed an 18-year-old man in a Walmart parking lot on Wednesday morning, the authorities said.
+abstract:Virginia State Police report fatal shooting of an 18-year-old man in a store parking lot by a Portsmouth police officer responding to a call about shoplifting.
+blog:null

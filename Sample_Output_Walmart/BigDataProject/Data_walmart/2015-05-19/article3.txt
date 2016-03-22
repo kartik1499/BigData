@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: Bad Behavior in Finance Persists, Study Says, print_headline:null}
+news_desk:null
+pub_date:2015-05-19
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/05/19/morning-agenda-bad-behavior-in-finance-persists-study-says/
+snippet:Bad Behavior in Finance Persists, Study Says | Wall Street Bounces Back | Years of Complaints Finally Catch Up to Broker | Economic Uncertainty Rattles Greeks
+lead_paragraph:null
+abstract:Bad Behavior in Finance Persists, Study Says | Wall Street Bounces Back | Years of Complaints Finally Catch Up to Broker | Economic Uncertainty Rattles Greeks
+blog:null

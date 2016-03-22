@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Plans to Cut Jobs to Help Save $2 Billion, print_headline:Target Plans to Cut Jobs to Help Save $2 Billion}
+news_desk:Business
+pub_date:2015-03-04
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/04/business/target-plans-to-cut-jobs-to-help-save-2-billion.html
+snippet:After years of difficulty, the retailer has announced cost-cutting measures and a renewed focus on grocery and online sales.
+lead_paragraph:After years of difficulty, the retailer has announced cost-cutting measures and a renewed focus on grocery and online sales.
+abstract:Target announces plans to cut several thousand jobs as part of effort to save $2 billion over next two years; push will also include corporate restructuring, leaner supply chains and more efficient product sourcing; cuts follow extensive breach of customer information in 2013, sluggish sales and outright failure of its expansion into Canada.
+blog:null

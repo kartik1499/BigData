@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Tremble With Indignation, print_headline:null}
+news_desk:Business
+pub_date:2015-09-10
+source:The New York Times
+web_url:http://wordplay.blogs.nytimes.com/2015/09/10/tremble-with-indignation/
+snippet:Friday fun with Peter A. Collins.
+lead_paragraph:null
+abstract:Friday fun with Peter A. Collins.
+blog:null

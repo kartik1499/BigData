@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target Pressured on Wages by Group With Focus but Little to Spend, print_headline:Target Pressured on Wages by Group With Focus but Little to Spend}
+news_desk:None
+pub_date:2015-03-12
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/03/12/business/12reuters-target-wages.html
+snippet:With shallow pockets but a deep commitment to promote "living wages", women's advocacy group UltraViolet has peppered Target Corp with cheap location-focused online ads, challenging it to match Wal-Mart Stores Inc's promise of $10-an-hour base pay.
+lead_paragraph:With shallow pockets but a deep commitment to promote "living wages", women's advocacy group UltraViolet has peppered Target Corp with cheap location-focused online ads, challenging it to match Wal-Mart Stores Inc's promise of $10-an-hour base pay.
+abstract:null
+blog:null

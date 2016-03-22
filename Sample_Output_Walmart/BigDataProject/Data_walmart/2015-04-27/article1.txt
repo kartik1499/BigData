@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Apple Pay Will Hit Best Buy Stores in 2015, print_headline:null}
+news_desk:Business
+pub_date:2015-04-27
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/04/27/in-a-reversal-apple-pay-will-hit-best-buy-stores-in-2015/
+snippet:Best Buy announced on Monday that it now accepts Apple Pay payments for purchases made inside its smartphone app, and by the end of the year will accept payments made in its brick-and-mortar stores using the Apple Pay mobile wallet.
+lead_paragraph:null
+abstract:Best Buy announced on Monday that it now accepts Apple Pay payments for purchases made inside its smartphone app, and by the end of the year will accept payments made in its brick-and-mortar stores using the Apple Pay mobile wallet.
+blog:null

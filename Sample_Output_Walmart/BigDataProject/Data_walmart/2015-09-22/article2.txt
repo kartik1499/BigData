@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Strait Releases New Album, Will Play Las Vegas in 2016, print_headline:Strait Releases New Album, Will Play Las Vegas in 2016}
+news_desk:None
+pub_date:2015-09-22
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/09/22/arts/ap-us-music-george-strait.html
+snippet:Country music king George Strait wants to be clear.
+lead_paragraph:Country music king George Strait wants to be clear.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Obama Flies to the Nevada Desert to Promote Solar Energy, print_headline:Obama Flies to the Nevada Desert to Promote Solar Energy}
+news_desk:National
+pub_date:2015-08-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/25/us/obama-solar-power-renewable-energy.html
+snippet:While promoting the benefits of all renewable energy, including wind power, the president focused largely on solar energy, part of an increasingly intense effort to counter global warming.
+lead_paragraph:While promoting the benefits of all renewable energy, including wind power, the president focused largely on solar energy, part of an increasingly intense effort to counter global warming.
+abstract:Pres Obama promotes solar energy during speech at National Clean Energy Summit in Las Vegas; announces steps to bolster solar power industry as part of administration's intensifying effort to counter global warming.
+blog:null

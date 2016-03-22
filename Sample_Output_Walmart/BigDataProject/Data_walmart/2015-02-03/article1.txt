@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:New York Attorney General Targets Supplements at Major Retailers, print_headline:null}
+news_desk:Science
+pub_date:2015-02-03
+source:The New York Times
+web_url:http://well.blogs.nytimes.com/2015/02/03/new-york-attorney-general-targets-supplements-at-major-retailers/
+snippet:GNC, Target, Walgreens and Walmart were accused of selling fraudulent and potentially dangerous herbal supplements and told by New York State officials to stop selling them.
+lead_paragraph:null
+abstract:GNC, Target, Walgreens and Walmart were accused of selling fraudulent and potentially dangerous herbal supplements and told by New York State officials to stop selling them.
+blog:null

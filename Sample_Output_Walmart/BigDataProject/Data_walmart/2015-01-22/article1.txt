@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Family of Man Killed in Tracy Morgan Crash Settles, print_headline:Family of Man Killed in Tracy Morgan Crash Settles}
+news_desk:Metro
+pub_date:2015-01-22
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/22/nyregion/family-of-man-killed-in-tracy-morgan-crash-settles.html
+snippet:The family of a comedian killed in the New Jersey Turnpike crash that seriously injured the performer Tracy Morgan has settled a wrongful death claim with Walmart.
+lead_paragraph:The family of a comedian killed in the New Jersey Turnpike crash that seriously injured the performer Tracy Morgan has settled a wrongful death claim with Walmart.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:In the Eye of the Storm: Remembering Katrina, print_headline:null}
+news_desk:Insider
+pub_date:2015-08-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/25/insider/in-the-eye-of-the-storm-remembering-katrina.html
+snippet:In September 2005, Times reporters and editors who covered Katrina wrote about their experiences for Ahead of The Times, our internal newsletter.
+lead_paragraph:In September 2005, Times reporters and editors who covered Katrina wrote about their experiences for Ahead of The Times, our internal newsletter.
+abstract:null
+blog:null

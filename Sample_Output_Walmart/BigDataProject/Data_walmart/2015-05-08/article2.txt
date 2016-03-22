@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Fringe Festival, print_headline:Fringe Festival}
+news_desk:Editorial
+pub_date:2015-05-08
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/08/opinion/fringe-festival.html
+snippet:Last election, the G.O.P. presidential field was a clown car. This time it’s a bus, with as many as 17 candidates expected to compete for the nomination.
+lead_paragraph:Last election, the G.O.P. presidential field was a clown car. This time it’s a bus, with as many as 17 candidates expected to compete for the nomination.
+abstract:Timothy Egan Op-Ed column questions whether any of the crowded field of possible Republican presidential candidates will emerge from primaries with viable chance in general election; notes that many of the candidates hold extreme views, which will inevitably influence whoever wins GOP nomination.
+blog:null

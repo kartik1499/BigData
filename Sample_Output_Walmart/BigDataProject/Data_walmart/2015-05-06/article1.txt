@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Bentonville, Ark., Hosts a Film Festival Without a Movie Theater, print_headline:Bustle Where Once There Was Desolation in Walmart&#8217;s Hometown}
+news_desk:Business
+pub_date:2015-05-06
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/06/realestate/commercial/bentonville-ark-hosts-a-film-festival-without-a-movie-theater.html
+snippet:Bentonville, Ark., a onetime backwater that is home to Walmart, is now crammed with new storefronts and tourist attractions, among them the Bentonville Film Festival.
+lead_paragraph:Bentonville, Ark., a onetime backwater that is home to Walmart, is now crammed with new storefronts and tourist attractions, among them the Bentonville Film Festival.
+abstract:Bentonville Film Festival highlights renaissance of progress in Walmart's Arkansas hometown; once a backwater, Bentonville and the rest of northwest Arkansas are experiencing surging population and climbing real estate prices, with tourists pouring in to visit new developments and attractions.
+blog:null

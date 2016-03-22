@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Tracy Morgan Crash Largely Result of Truck Driver’s Fatigue, Regulators Say, print_headline:Truck Driver’s Fatigue Is Faulted in Crash Involving ‘30 Rock’ Star}
+news_desk:Metro
+pub_date:2015-08-12
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/12/nyregion/tracy-morgan-crash-largely-result-of-truck-drivers-fatigue-regulators-say.html
+snippet:Federal investigators also faulted unused seatbelts and the actions of emergency workers in the 2014 crash on the New Jersey Turnpike that injured Mr. Morgan and killed the comedian James McNair.
+lead_paragraph:Federal investigators also faulted unused seatbelts and the actions of emergency workers in the 2014 crash on the New Jersey Turnpike that injured Mr. Morgan and killed the comedian James McNair.
+abstract:National Transportation Safety Board says cause of 2014 crash that critically injured comedian Tracy Morgan and killed comedian James McNair was Walmart truck driver Kevin Roper's fatigue; investigators point to other factors, such as unused seatbelts and insufficient training of emergency medical personnel, that contributed to extent of injuries suffered by Morgan, McNair and eight other victims.
+blog:null

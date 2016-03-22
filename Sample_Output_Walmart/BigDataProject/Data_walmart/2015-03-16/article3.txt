@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Etsy’s Success Gives Rise to Problems of Credibility and Scale, print_headline:Armies of Artisans}
+news_desk:Business
+pub_date:2015-03-16
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/16/business/media/etsys-success-raises-problems-of-credibility-and-scale.html
+snippet:The online marketplace and those who use it say that imitation handmade goods, and rules restricting how popular vendors can grow, are complicating the site.
+lead_paragraph:The online marketplace and those who use it say that imitation handmade goods, and rules restricting how popular vendors can grow, are complicating the site.
+abstract:Etsy is struggling to balance its booming growth with indie credibility as it moves toward potentially lucrative initial public offering; controversy surrounding Three Bird Nest, popular Etsy store that has been accused of mass-producing goods, underscores how site's feel-good, handmade authenticity can conflict with success that leads to booming volume of sales.
+blog:null

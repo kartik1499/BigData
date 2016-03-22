@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Investing May Be Cheaper, but Fees Still Hurt, print_headline:Investing May Be Cheaper, But Fees Still Hurt}
+news_desk:SundayBusiness
+pub_date:2015-10-11
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/11/business/mutfund/investing-may-be-cheaper-but-fees-still-hurt.html
+snippet:Expenses are shrinking, enabling many investors to keep more of their return dollars. But experts say the fees could, and should, be diminishing faster.
+lead_paragraph:Expenses are shrinking, enabling many investors to keep more of their return dollars. But experts say the fees could, and should, be diminishing faster.
+abstract:null
+blog:null

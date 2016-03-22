@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Cedar Lake Contemporary Ballet Plans to Close, print_headline:null}
+news_desk:Culture
+pub_date:2015-03-20
+source:The New York Times
+web_url:http://artsbeat.blogs.nytimes.com/2015/03/20/cedar-lake-contemporary-ballet-plans-to-close/
+snippet:The company, founded by the Walmart heiress Nancy Laurie, had generous contracts for dancers and its own Chelsea theater.
+lead_paragraph:null
+abstract:The company, founded by the Walmart heiress Nancy Laurie, had generous contracts for dancers and its own Chelsea theater.
+blog:null

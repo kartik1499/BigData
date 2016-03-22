@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Review: ‘So You’ve Been Publicly Shamed’ Delves Into Infamy in the Age of Social Media, print_headline:Infamy in the Age of Twitter}
+news_desk:Culture
+pub_date:2015-03-30
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/30/books/review-so-youve-been-publicly-shamed-delves-into-infamy-in-the-age-of-social-media.html
+snippet:Jon Ronson examines public missteps and the revenge they attracted, trying to grasp some sense of proportion between the two, or at least figure out the rules of the game.
+lead_paragraph:Jon Ronson examines public missteps and the revenge they attracted, trying to grasp some sense of proportion between the two, or at least figure out the rules of the game.
+abstract:Janet Maslin reviews book So You've Been Publicly Shamed by Jon Ronson.
+blog:null

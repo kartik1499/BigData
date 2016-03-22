@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Sotheby’s to Team Up With Drake, print_headline:Sales by Sotheby’s, Music by Drake}
+news_desk:Weekend
+pub_date:2015-03-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/20/arts/design/sothebys-to-team-up-with-drake.html
+snippet:The rapper will choose music to preview art in a selling exhibition of contemporary works by black American artists at Sotheby&#8217;s.
+lead_paragraph:The rapper will choose music to preview art in a selling exhibition of contemporary works by black American artists at Sotheby&#8217;s.
+abstract:Graham Bowley Inside Art column; rapper Drake chooses music for Sotheby's exhibition of contemporary works by black American artists; Phillips auction house will sell about 140 works from large private collection, estimated to be highest valued consignment since Edward Dolman took over as chief executive; four new trustees are named to board of Dia Art Foundation; Crystal Bridges Museum of American Art in Bentonville, Ark, acquires 16 works to fill out its postwar collection.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Recalls This Week: Stuffed Animals, Headsets, print_headline:Recalls This Week: Stuffed Animals, Headsets}
+news_desk:None
+pub_date:2015-10-23
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/10/23/business/ap-us-recalls-this-week.html
+snippet:More than 33,000 stuffed toy dragons from Build-A-Bear are being recalled this week because the stuffing can pop out and pose a choking hazard for young children. Other recalled consumer products include headsets and adhesive removers.
+lead_paragraph:More than 33,000 stuffed toy dragons from Build-A-Bear are being recalled this week because the stuffing can pop out and pose a choking hazard for young children. Other recalled consumer products include headsets and adhesive removers.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target to Match Online Prices With Online Rivals, print_headline:Target to Match Online Prices With Online Rivals}
+news_desk:None
+pub_date:2015-09-30
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/09/30/business/ap-us-target-price-match.html
+snippet:Starting Thursday, Target will now match its online prices with more than two dozen online competitors including Amazon.com and Walmart.com.
+lead_paragraph:Starting Thursday, Target will now match its online prices with more than two dozen online competitors including Amazon.com and Walmart.com.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Man Called ISIS Devotee, Son of Boston Police Officer, Is Arrested, print_headline:Man Called ISIS Devotee, Son of Officer, Is Arrested}
+news_desk:National
+pub_date:2015-07-14
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/14/us/man-called-isis-devotee-son-of-boston-police-officer-is-arrested.html
+snippet:The son of a Boston police captain was charged with plotting an attack at a state university with guns and homemade bombs like the ones used at the 2013 Boston Marathon.
+lead_paragraph:The son of a Boston police captain was charged with plotting an attack at a state university with guns and homemade bombs like the ones used at the 2013 Boston Marathon.
+abstract:Alexander Ciccolo, son of a Boston police captain, is arrested in western Massachusetts for allegedly plotting series of deadly attacks with guns and bombs, including homemade model base on the ones  ones used in 2013 Boston Marathon bombings; Ciccolo has reportedly expressed desire to fight for Islamic State. 
+blog:null

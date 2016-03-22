@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Review: Cedar Lake Ballet Taking Its Final Bows, print_headline:Young, Popular and Soon Gone}
+news_desk:Weekend
+pub_date:2015-06-05
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/05/arts/dance/review-cedar-lake-ballet-taking-its-final-bows.html
+snippet:This well-loved company, which lost its entire funding base when a Walmart heiress withdrew her support, will leave 15 dancers seeking work after a farewell performance.
+lead_paragraph:This well-loved company, which lost its entire funding base when a Walmart heiress withdrew her support, will leave 15 dancers seeking work after a farewell performance.
+abstract:Siobhan Burke reviews performance by Cedar Lake Contemporary Ballet at the Brooklyn Academy of Music; performance, company's final one, includes premiere of Richard Siegal piece, New York premiere of Johan Inger piece and Crystal Pite piece.
+blog:null

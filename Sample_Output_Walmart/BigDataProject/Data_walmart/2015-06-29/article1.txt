@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Neil Young's 'The Monsanto Years' Attacks Corporate Greed, print_headline:Neil Young's 'The Monsanto Years' Attacks Corporate Greed}
+news_desk:None
+pub_date:2015-06-29
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/06/29/arts/ap-us-music-review-neil-young.html
+snippet:Neil Young + Promise of the Real, "The Monsanto Years" (Warner Bros.)
+lead_paragraph:Neil Young + Promise of the Real, "The Monsanto Years" (Warner Bros.)
+abstract:null
+blog:null

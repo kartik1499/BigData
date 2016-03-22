@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Investors to Look at Fed, Earnings With China Filter, print_headline:Investors to Look at Fed, Earnings With China Filter}
+news_desk:None
+pub_date:2015-08-16
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/08/16/business/16reuters-markets-stocks-usa-weekahead.html
+snippet:Investors will comb through Wednesday's minutes of the most recent Federal Reserve meeting for indications on how the U.S. central bank will react to the recent yuan devaluation and the further decline in oil prices.
+lead_paragraph:Investors will comb through Wednesday's minutes of the most recent Federal Reserve meeting for indications on how the U.S. central bank will react to the recent yuan devaluation and the further decline in oil prices.  
+abstract:null
+blog:null

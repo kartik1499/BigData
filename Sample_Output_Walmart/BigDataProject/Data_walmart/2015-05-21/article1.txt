@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Target, Posting a Profit, Hopes for Calmer Seas, print_headline:Target, Posting a Profit, Hopes for Calmer Seas }
+news_desk:Business
+pub_date:2015-05-21
+source:The New York Times
+web_url:http://www.nytimes.com/2015/05/21/business/target-q1-earnings.html
+snippet:The retailer said its signature lines contributed to a strong quarter, as did online sales growth of almost 40 percent.
+lead_paragraph:The retailer said its signature lines contributed to a strong quarter, as did online sales growth of almost 40 percent.
+abstract:Target reports first quarter profit of $1.10 a share, compared with 92 cents a share in year-ago quarter; revenue rose to $17.1 billion from $16.7 billion; cites strong sales of its signature items.
+blog:null

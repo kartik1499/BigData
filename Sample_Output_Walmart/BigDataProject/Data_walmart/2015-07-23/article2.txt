@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart Buying Remaining Stake in China's Yihaodian, print_headline:Wal-Mart Buying Remaining Stake in China's Yihaodian}
+news_desk:None
+pub_date:2015-07-23
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/07/23/business/ap-us-wal-mart-yihaodian.html
+snippet:Wal-Mart wants to make a bigger play for Chinese consumers online.
+lead_paragraph:Wal-Mart wants to make a bigger play for Chinese consumers online.
+abstract:null
+blog:null

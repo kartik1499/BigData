@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Car Sales, Samsung’s New Smartwatch, and the Jobs Report, print_headline:null}
+news_desk:Business
+pub_date:2015-08-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/08/31/business/car-sales-samsungs-new-smartwatch-and-the-jobs-report.html
+snippet:This week automakers are expected to report healthy sales of new vehicles, Samsung plans to introduce another smartwatch and the Labor Department will report the latest data on hiring and unemployment.
+lead_paragraph:This week automakers are expected to report healthy sales of new vehicles, Samsung plans to introduce another smartwatch and the Labor Department will report the latest data on hiring and unemployment.
+abstract:null
+blog:null

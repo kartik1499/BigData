@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:‘Food Is a Death Sentence to These Kids’, print_headline:The Weight}
+news_desk:Magazine
+pub_date:2015-01-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/25/magazine/food-is-a-death-sentence-to-these-kids.html
+snippet:Day by day, meal by meal, training children to cope with Prader-Willi syndrome, a rare genetic form of obesity.
+lead_paragraph:Day by day, meal by meal, training children to cope with Prader-Willi syndrome, a rare genetic form of obesity.
+abstract:Rachelle Williams is 13-year-old diagnosed with Prader-Willi Syndrome, one of few genetic causes of obesity, and is in program at Children's Institute of Pittsburgh that teaches those with disorder how to manage it; disease has range of symptoms, most prominent of which is heightened, permanent sensation of hunger.
+blog:null

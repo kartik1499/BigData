@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Starbucks and Other Corporations to Announce Plan to Curb Unemployment of Young People, print_headline:Corporations to Unveil Plan to Curb Unemployment of Young People}
+news_desk:Business
+pub_date:2015-07-13
+source:The New York Times
+web_url:http://www.nytimes.com/2015/07/13/business/starbucks-and-other-corporations-to-announce-plan-to-curb-unemployment-of-young-people.html
+snippet:The 100,000 Opportunities Initiative includes 16 other companies, and will offer full-time positions as well as apprenticeships and internships.
+lead_paragraph:The 100,000 Opportunities Initiative includes 16 other companies, and will offer full-time positions as well as apprenticeships and internships.
+abstract:Almost twenty large American corporations introduce plan to find jobs for 100,000 unemployed young people over next three years; 100,000 Opportunities Initiative is being launched by Starbucks and its chief executive Howard Schultz.
+blog:null

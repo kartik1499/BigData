@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Morning Agenda: Bank of America Shake-Up, print_headline:null}
+news_desk:null
+pub_date:2015-07-23
+source:The New York Times
+web_url:http://news.blogs.nytimes.com/2015/07/23/dealbook-bank-of-america-shake-up/
+snippet:Anthem Closes In on Cigna | Credit Suisse Back to Black | Chinese Investors Question Their Material World
+lead_paragraph:null
+abstract:Anthem Closes In on Cigna | Credit Suisse Back to Black | Chinese Investors Question Their Material World
+blog:null

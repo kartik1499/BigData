@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Governors' Inaugurals Fueled by Political Donors, print_headline:Governors' Inaugurals Fueled by Political Donors}
+news_desk:None
+pub_date:2015-01-03
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/01/03/us/ap-us-governors-inaugurals.html
+snippet:When it comes to parties, ringing in the new year has nothing on the swearing-in soirees for governors across the country.
+lead_paragraph:When it comes to parties, ringing in the new year has nothing on the swearing-in soirees for governors across the country.
+abstract:null
+blog:null

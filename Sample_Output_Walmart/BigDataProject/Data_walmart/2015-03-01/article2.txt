@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The Next Great Migration, print_headline:The Next Great Migration}
+news_desk:OpEd
+pub_date:2015-03-01
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/01/opinion/sunday/the-next-great-migration.html
+snippet:Black people should pursue opportunities for the good life wherever they can.
+lead_paragraph:Black people should pursue opportunities for the good life wherever they can.
+abstract:Op-Ed article by author Thomas Chatterton Williams examines why more black Americans do not consider expatriation in light of unpunished extrajudicial killings of black men and women across America; suggests that black Americans should pursue their own opportunities for good life wherever they can.
+blog:null

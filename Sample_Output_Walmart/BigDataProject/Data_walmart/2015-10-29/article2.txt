@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:US Jobless Aid Applications Fell to 42-Year Low Last Month, print_headline:US Jobless Aid Applications Fell to 42-Year Low Last Month}
+news_desk:None
+pub_date:2015-10-29
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/10/29/us/politics/ap-us-unemployment-benefits-.html
+snippet:The number of people seeking U.S. unemployment aid barely rose last week and the average level of applications in the past month fell to a 42-year low.
+lead_paragraph:The number of people seeking U.S. unemployment aid barely rose last week and the average level of applications in the past month fell to a 42-year low.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Microsoft Presents Low-Cost Phones and Windows 10 for Mobile, print_headline:null}
+news_desk:Business
+pub_date:2015-03-02
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/03/02/microsoft-presents-low-cost-phones-and-windows-10-for-mobile/
+snippet:At the Mobile World Congress, the company for the first time showed off the operating system for phones and continued its evolving strategy of delivering low-cost Lumia devices.
+lead_paragraph:null
+abstract:At the Mobile World Congress, the company for the first time showed off the operating system for phones and continued its evolving strategy of delivering low-cost Lumia devices.
+blog:null

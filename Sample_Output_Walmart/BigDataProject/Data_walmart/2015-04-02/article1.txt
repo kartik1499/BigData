@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Arkansas Governor Asks Lawmakers to Recall Religious Exception Bill, print_headline:Arkansas Governor Asks Lawmakers to Recall Religious Freedom Bill}
+news_desk:National
+pub_date:2015-04-02
+source:The New York Times
+web_url:http://www.nytimes.com/2015/04/02/us/arkansas-indiana-religious-freedom-hutchinson-pence.html
+snippet:As corporations like Walmart speak out in opposition, Gov. Asa Hutchinson asked the state House to recall or amend a bill that critics say will allow discrimination against gays and lesbians.
+lead_paragraph:As corporations like Walmart speak out in opposition, Gov. Asa Hutchinson asked the state House to recall or amend a bill that critics say will allow discrimination against gays and lesbians.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Flurry of Freight Spurs New Commercial Building Construction in Georgia, print_headline:Flurry of Freight Spurs New Construction in Georgia}
+news_desk:Business
+pub_date:2015-03-25
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/25/business/port-of-savannah-commercial-building-construction.html
+snippet:There is growing demand for new warehouse and distribution space near the nation&#8217;s fourth-largest container port.
+lead_paragraph:There is growing demand for new warehouse and distribution space near the nation&#8217;s fourth-largest container port.
+abstract:Massive amount of import and export traffic that passes through Garden City, Ga, port, fourth largest in nation, is spurring construction of distribution centers and warehouse space across the state; contributing to flurry of activity is planned expansion of Panama Canal, which is expected to double volume of goods crossing canal, two-thirds of which will be dispatched or received by American ports along Gulf of Mexico and Atlantic coast.
+blog:null

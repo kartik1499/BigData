@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Smart Guns Save Lives. So Where Are They?, print_headline:Smart Guns Save Lives. So Where Are They?}
+news_desk:Editorial
+pub_date:2015-01-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/01/18/opinion/sunday/nicholas-kristof-smart-guns-save-lives-so-where-are-they.html
+snippet:We protect our cellphones with a PIN or a fingerprint, so why not do the same with firearms?
+lead_paragraph:We protect our cellphones with a PIN or a fingerprint, so why not do the same with firearms?
+abstract:Nicholas Kristof Op-Ed column questions why smart gun technology is not more accepted, particularly in light of number of accidental gun deaths; highlights smart gun designed by Kai Kloepfer as example of such technology; observes disconnect inherent in fact that society protects children from toys, but not guns.
+blog:null

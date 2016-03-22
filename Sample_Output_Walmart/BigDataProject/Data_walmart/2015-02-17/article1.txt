@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Aid to Needy Often Excludes the Poorest in America, print_headline:A Gaping Hole in the Safety Net}
+news_desk:Business
+pub_date:2015-02-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/02/17/business/economy/aid-to-needy-often-excludes-the-poorest-in-america.html
+snippet:Government aid to low-income workers has increased, but those without jobs, who are in the direst straits, are receiving scant attention, experts say.
+lead_paragraph:Government aid to low-income workers has increased, but those without jobs, who are in the direst straits, are receiving scant attention, experts say.
+abstract:Experts say government aid to people with incomes that are one-half to two times the poverty level has increased since 1983, but to those with incomes less than that it has diminished; shift reflects more conservative political environment and response to broader economic forces like globalization, advancing technology and workers' weakened bargaining strength.
+blog:null

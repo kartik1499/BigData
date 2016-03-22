@@ -1,0 +1,10 @@
+document_type:blogpost
+headline: { main:Tango Offers Shopping on Its Messaging Service, print_headline:null}
+news_desk:Business
+pub_date:2015-05-12
+source:The New York Times
+web_url:http://bits.blogs.nytimes.com/2015/05/12/tango-offers-shopping-on-its-messaging-service/
+snippet:Now you can buy a Yankees coffin within the comfort of your texting line. Tango, a popular messaging service, has a two-million-item catalog of goods from Walmart and Alibaba. If it works, will brands keep their own apps?
+lead_paragraph:null
+abstract:Now you can buy a Yankees coffin within the comfort of your texting line. Tango, a popular messaging service, has a two-million-item catalog of goods from Walmart and Alibaba. If it works, will brands keep their own apps?
+blog:null

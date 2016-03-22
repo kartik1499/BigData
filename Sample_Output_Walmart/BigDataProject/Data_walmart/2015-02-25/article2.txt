@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Snow Falls in the South as Another Storm Hits Region, print_headline:Snow Falls in the South as Another Storm Hits Region}
+news_desk:None
+pub_date:2015-02-25
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/02/25/us/ap-us-winter-weather.html
+snippet:Snow fell on the Deep South on Wednesday as another storm brought nasty weather to the region, walloping places that were hit hard just last week.
+lead_paragraph:Snow fell on the Deep South on Wednesday as another storm brought nasty weather to the region, walloping places that were hit hard just last week.
+abstract:null
+blog:null

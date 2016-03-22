@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Ex-Vegas Firefighter Cast as Mastermind in Wife Slaying Case, print_headline:Ex-Vegas Firefighter Cast as Mastermind in Wife Slaying Case}
+news_desk:None
+pub_date:2015-08-25
+source:AP
+web_url:http://www.nytimes.com/aponline/2015/08/25/us/ap-us-firefighter-and-hitman-trial.html
+snippet:A prosecutor alleged Tuesday that George Miguel Tiaffay befriended, supplied and promised to pay a homeless handyman who bludgeoned his casino cocktail server wife to death with a claw hammer a few weeks after the couple filed for divorce.
+lead_paragraph:A prosecutor alleged Tuesday that George Miguel Tiaffay befriended, supplied and promised to pay a homeless handyman who bludgeoned his casino cocktail server wife to death with a claw hammer a few weeks after the couple filed for divorce.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Church Massacre Suspect Held as Charleston Grieves, print_headline:Charleston Massacre Suspect Held as City Grieves}
+news_desk:National
+pub_date:2015-06-19
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/19/us/charleston-church-shooting.html
+snippet:After a 14-hour search, the suspect was caught some 200 miles away from the historic black church where nine people were killed.
+lead_paragraph:After a 14-hour search, the suspect was caught some 200 miles away from the historic black church where nine people were killed.
+abstract:Police arrest 21-year-old white man Dylann Storm Roof as suspect in shooting massacre of nine people in Emanuel African Methodist Episcopal Church in Charleston, SC; murders, which are being investigated as hate crime, leave people stunned and grieving; whites, blacks, Jews and Christians unite in city to declare that racist gunman will not split a proud community.
+blog:null

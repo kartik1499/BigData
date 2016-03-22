@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:After an Era of Ups and Downs, Home Prices Return to Sanity, print_headline:Housing Prices Find a Balance After Volatility}
+news_desk:Business
+pub_date:2015-06-18
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/18/upshot/after-an-era-of-ups-and-downs-home-prices-return-to-sanity.html
+snippet:The housing market in much of the nation seems to be in a Goldilocks moment, neither too hot nor too cold, with low mortgage rates an added bonus.
+lead_paragraph:The housing market in much of the nation seems to be in a Goldilocks moment, neither too hot nor too cold, with low mortgage rates an added bonus.
+abstract:The Upshot; housing market nationwide seems to have normalized after years of fluctuating between being too hot or too cold; housing prices seem to be rising at similar low, single-digit rates as incomes, rent prices and other fundamentals; conditions seem to suggest growth in the market that will be sustainable.
+blog:null

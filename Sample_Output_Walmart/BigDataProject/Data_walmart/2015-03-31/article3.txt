@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:The High Cost of Calling the Imprisoned, print_headline:The High Cost of Calling the Imprisoned}
+news_desk:National
+pub_date:2015-03-31
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/31/us/steep-costs-of-inmate-phone-calls-are-under-scrutiny.html
+snippet:The Federal Communications Commission is investigating prison phone service that costs as much as $1.22 per minute compared with regular rates of 4 cents per minute.
+lead_paragraph:The Federal Communications Commission is investigating prison phone service that costs as much as $1.22 per minute compared with regular rates of 4 cents per minute.
+abstract:Federal Communications Commission, after years of complaints from prison-rights groups and families of prisoners, is investigating prison phone system, which has mostly been unregulated; hundreds of millions of dollars in concession fees help drive phone charges as high as $1.22 per minute, compared with typical commercial rates of 4 cents a minute.
+blog:null

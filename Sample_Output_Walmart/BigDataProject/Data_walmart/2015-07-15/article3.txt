@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:CEO, Chairman Quit Wal-Mart's China e-Commerce Firm Yihaodian, print_headline:CEO, Chairman Quit Wal-Mart's China e-Commerce Firm Yihaodian}
+news_desk:None
+pub_date:2015-07-15
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/07/15/technology/15reuters-wal-mart-stores-china-yihaodian.html
+snippet:The CEO and Chairman of Wal-Mart Stores Inc's Chinese e-commerce company Yihaodian.com have quit "to pursue their next venture", the U.S. retailer said on Wednesday, as it aims to grow a company still far smaller than local rivals.
+lead_paragraph:The CEO and Chairman of Wal-Mart Stores Inc's Chinese e-commerce company Yihaodian.com have quit "to pursue their next venture", the U.S. retailer said on Wednesday, as it aims to grow a company still far smaller than local rivals.
+abstract:null
+blog:null

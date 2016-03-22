@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Wal-Mart to Impose Charges on Suppliers as Its Costs Mount, print_headline:Wal-Mart to Impose Charges on Suppliers as Its Costs Mount}
+news_desk:None
+pub_date:2015-06-23
+source:Reuters
+web_url:http://www.nytimes.com/reuters/2015/06/23/business/23reuters-wal-mart-stores-suppliers.html
+snippet:Wal-Mart Stores will begin charging fees to almost all vendors for stocking their items in new stores and for warehousing inventory, raising pressure on suppliers as the world&#8217;s largest retailer battles higher costs from wage hikes.
+lead_paragraph:Wal-Mart Stores will begin charging fees to almost all vendors for stocking their items in new stores and for warehousing inventory, raising pressure on suppliers as the world&#8217;s largest retailer battles higher costs from wage hikes.
+abstract:null
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:After a Bounce, Wage Growth Slumps to 0.1% , print_headline:After a Bounce, Wage Growth Slumps to 0.1%}
+news_desk:Business
+pub_date:2015-03-07
+source:The New York Times
+web_url:http://www.nytimes.com/2015/03/07/business/economy/jobs-report-unemployment-february.html
+snippet:The gains exceeded economists&#8217; expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.
+lead_paragraph:The gains exceeded economists&#8217; expectations and added to encouragement about the continued recovery, though wage growth has barely budged in months.
+abstract:Labor Dept reports employers increased payrolls by 295,000 jobs in February, briging unemployment rate down to 5.5 percent, but that wages continue to lag and rose only 0.1 percent for private-sector workers; report spurs new round of optimism despite wage numbers and speculation that Federal Reserve may raise interest rates earlier rather than later.
+blog:null

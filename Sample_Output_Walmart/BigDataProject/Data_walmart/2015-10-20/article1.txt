@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:Many Low-Income Workers Say ‘No’ to Health Insurance, print_headline:Insurance Out of Reach for Many, Despite Law}
+news_desk:Business
+pub_date:2015-10-20
+source:The New York Times
+web_url:http://www.nytimes.com/2015/10/20/business/many-low-income-workers-say-no-to-health-insurance.html
+snippet:The Affordable Care Act requires employers with more than 50 full-time workers to offer insurance, but many find few low-income employees will buy it.
+lead_paragraph:The Affordable Care Act requires employers with more than 50 full-time workers to offer insurance, but many find few low-income employees will buy it.
+abstract:Many small-business owners with 100 or more employees say very few workers have been willing to buy health insurance they are required to offer under Affordable Care Act; reluctance to sign up is most prominent among low-wage workers, who deem so-called affordable insurance offered by employers too expensive for their budgets.
+blog:null

@@ -1,0 +1,10 @@
+document_type:article
+headline: { main:As Stress Drives Off Drone Operators, Air Force Must Cut Flights, print_headline:Burnout Forces U.S. to Curtail Drone Flights}
+news_desk:National
+pub_date:2015-06-17
+source:The New York Times
+web_url:http://www.nytimes.com/2015/06/17/us/as-stress-drives-off-drone-operators-air-force-must-cut-flights.html
+snippet:Long hours and the psychological toll of the work have forced the Pentagon to abandon its goal of increasing the flights and to instead reduce the number.
+lead_paragraph:Long hours and the psychological toll of the work have forced the Pentagon to abandon its goal of increasing the flights and to instead reduce the number.
+abstract:Air Force is being forced to cut back on daily number of drone flights in overseas conflict zones due to operator burnout, even as military and intelligence officials are requesting increase in number of flights needed to handle escalating clashes; wave of remote pilots, worn out by job's unique stresses, are choosing to retire once their obligation to Air Force is complete.
+blog:null
